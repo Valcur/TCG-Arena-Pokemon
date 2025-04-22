@@ -47,25 +47,17 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Mana"
+          "Bench",
+          "Active",
+          "Stadium",
+          "Prize 1",
+          "Prize 2",
+          "Prize 3"
         ],
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
-            {
-              "direction": "column",
-              "style": {
-                "width": "22vh"
-              },
-              "content": [
-                {
-                  "section": "Prize",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
             {
               "direction": "column",
               "style": false,
@@ -95,6 +87,27 @@
                 }
               ],
               "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "22vh"
+              },
+              "content": [
+                {
+                  "section": "Prize 1",
+                  "style": false
+                },
+                {
+                  "section": "Prize 2",
+                  "style": false
+                },
+                {
+                  "section": "Prize 3",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -119,6 +132,36 @@
           },
           "Prize 1": {
             "title": "Prize 1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Prize",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Prize 2": {
+            "title": "Prize 2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Prize",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Prize 3": {
+            "title": "Prize 3",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "NONE",
