@@ -68,13 +68,13 @@
                     {
                       "section": "Stadium",
                       "style": {
-                        "width": "12vh"
+                        "width": "15vh"
                       }
                     },
                     {
                       "section": "Active",
                       "style": {
-                        "marginRight": "20vh", "marginLeft": "8vh"
+                        "marginRight": "20vh", "marginLeft": "5vh"
                       }
                     }
                   ],
@@ -90,7 +90,8 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh"
+                "width": "22vh",
+                "justify-content": "start"
               },
               "content": [
                 {
@@ -129,7 +130,7 @@
             "title": "Prize 1",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "NONE",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -144,7 +145,7 @@
             "title": "Prize 2",
             "isHidden": "yes",
             "height": "SMALL",
-            "alignment": "NONE",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
