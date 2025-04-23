@@ -59,7 +59,7 @@
         ],
         "layout": {
           "direction": "row",
-          "isSymetricalForOpponents": false,
+          "isSymetricalForOpponents": true,
           "content": [
             {
               "direction": "column",
