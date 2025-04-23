@@ -74,7 +74,8 @@
                     {
                       "section": "Active",
                       "style": {
-                        "marginRight": "20vh", "marginLeft": "5vh"
+                        "marginRight": "20vh",
+                        "marginLeft": "5vh"
                       }
                     }
                   ],
@@ -108,8 +109,17 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Trainer - Stadium": "Stadium",
+          "Trainer - Supporter": "Stack",
+          "Trainer": "Stack",
+          "Pokemon": "Bench"
+        },
+        "autoPlayFromStack": {
+          "Trainer - Supporter": "Discard",
+          "Trainer": "Discard",
+          "Pokemon": "Bench"
+        },
         "sectionsDict": {
           "Bench": {
             "title": "Bench",
