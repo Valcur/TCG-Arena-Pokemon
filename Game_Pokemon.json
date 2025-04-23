@@ -1,9 +1,12 @@
 {
   "name": "Pokemon",
-  "menuBackgroundImage": "https://images.alphacoders.com/473/thumb-1920-473848.png",
+  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://images.alphacoders.com/473/thumb-1920-473848.png"
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/2.jpg",
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/3.jpg",
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/4.jpg"
     ],
     "decksUrl": ""
   },
@@ -28,7 +31,7 @@
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": 7,
+        "startingHandSize": 6,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -45,6 +48,7 @@
         0
       ],
       "hideFacedDownCards": true,
+      "cardRotation": 67,
       "sections": {
         "customSections": [
           "Bench",
@@ -169,7 +173,7 @@
           "Active": {
             "title": "Active",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -192,6 +196,7 @@
             "displayedTitle": "",
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
