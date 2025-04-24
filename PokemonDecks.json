@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Charizard Ex - Battle deck",
+    "id": "d9c9b80c-0b68-4dce-9545-a2a0da4e2029",
+    "game": "Pokemon",
+    "format": "Classic",
+    "cardCount": 60,
+    "createdAt": "2025-04-22T11:49:36.486Z",
+    "lastModifiedAt": "2025-04-24T14:43:44.658Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Trainer - Item",
+        "Energy",
+        "Pokemon",
+        "Trainer - Stadium",
+        "Trainer - Supporter",
+        "Trainer - Pokemon tool"
+      ],
+      "Trainer - Item": [
+        {
+          "count": 4,
+          "id": "sv8pt5-101"
+        },
+        {
+          "count": 1,
+          "id": "sv5-157"
+        },
+        {
+          "count": 4,
+          "id": "sv4pt5-89"
+        },
+        {
+          "count": 1,
+          "id": "sv2-188"
+        },
+        {
+          "count": 1,
+          "id": "sv1-194"
+        },
+        {
+          "count": 4,
+          "id": "sv4pt5-91"
+        }
+      ],
+      "Energy": [
+        {
+          "count": 10,
+          "id": "sve-2"
+        }
+      ],
+      "Pokemon": [
+        {
+          "count": 3,
+          "id": "sv3-125"
+        },
+        {
+          "count": 4,
+          "id": "sv4pt5-7"
+        },
+        {
+          "count": 3,
+          "id": "sv4pt5-8"
+        },
+        {
+          "count": 3,
+          "id": "sv3pt5-146"
+        },
+        {
+          "count": 2,
+          "id": "sv3-164"
+        },
+        {
+          "count": 2,
+          "id": "sv3pt5-17"
+        },
+        {
+          "count": 3,
+          "id": "sv3pt5-16"
+        }
+      ],
+      "Trainer - Stadium": [
+        {
+          "count": 2,
+          "id": "sv4pt5-76"
+        }
+      ],
+      "Trainer - Supporter": [
+        {
+          "count": 2,
+          "id": "sv3-186"
+        },
+        {
+          "count": 2,
+          "id": "sv2-172"
+        },
+        {
+          "count": 4,
+          "id": "sv4pt5-80"
+        },
+        {
+          "count": 2,
+          "id": "sv4pt5-87"
+        }
+      ],
+      "Trainer - Pokemon tool": [
+        {
+          "count": 2,
+          "id": "sv4-178"
+        },
+        {
+          "count": 1,
+          "id": "sv1-169"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Gardevoir Ex - Battle deck",
+    "id": "df7e1791-7bc9-4986-9cb0-2f69254c7af4",
+    "game": "Pokemon",
+    "format": "Classic",
+    "cardCount": 60,
+    "createdAt": "2025-04-24T14:44:04.873Z",
+    "lastModifiedAt": "2025-04-24T14:48:30.913Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Pokemon",
+        "Energy",
+        "Trainer - Stadium",
+        "Trainer - Supporter",
+        "Trainer - Pokemon tool",
+        "Trainer - Item"
+      ],
+      "Pokemon": [
+        {
+          "count": 1,
+          "id": "swsh11-74"
+        },
+        {
+          "count": 4,
+          "id": "swsh12-68"
+        },
+        {
+          "count": 1,
+          "id": "swsh9-40"
+        },
+        {
+          "count": 1,
+          "id": "swsh10-46"
+        },
+        {
+          "count": 4,
+          "id": "swsh12-67"
+        },
+        {
+          "count": 3,
+          "id": "sv1-89"
+        },
+        {
+          "count": 3,
+          "id": "sv4pt5-29"
+        },
+        {
+          "count": 1,
+          "id": "sv3pt5-151"
+        }
+      ],
+      "Energy": [
+        {
+          "count": 13,
+          "id": "sve-5"
+        }
+      ],
+      "Trainer - Stadium": [
+        {
+          "count": 2,
+          "id": "sv2-171"
+        }
+      ],
+      "Trainer - Supporter": [
+        {
+          "count": 2,
+          "id": "sv1-166"
+        },
+        {
+          "count": 2,
+          "id": "sv2-172"
+        },
+        {
+          "count": 4,
+          "id": "sv2-185"
+        },
+        {
+          "count": 1,
+          "id": "sv1-175"
+        },
+        {
+          "count": 3,
+          "id": "sv4pt5-87"
+        }
+      ],
+      "Trainer - Pokemon tool": [
+        {
+          "count": 3,
+          "id": "sv2-173"
+        }
+      ],
+      "Trainer - Item": [
+        {
+          "count": 4,
+          "id": "sv1-181"
+        },
+        {
+          "count": 3,
+          "id": "sv1-191"
+        },
+        {
+          "count": 1,
+          "id": "sv2-188"
+        },
+        {
+          "count": 4,
+          "id": "sv1-196"
+        }
+      ]
+    }
+  }
+]

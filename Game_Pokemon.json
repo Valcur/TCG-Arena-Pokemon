@@ -8,7 +8,7 @@
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/3.jpg",
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/4.jpg"
     ],
-    "decksUrl": ""
+    "decksUrl": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonDecks.json"
   },
   "customHelp": "Click your deck and hold to drag and drop the top card to add it to your prizes.",
   "cardRotation": 90,
