@@ -6,7 +6,9 @@
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/2.jpg",
       "https://valcur.github.io/TCG-Arena-Pokemon/Images/3.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/4.jpg"
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/4.jpg",
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/5.jpg",
+      "https://valcur.github.io/TCG-Arena-Pokemon/Images/6.jpg"
     ],
     "decksUrl": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonDecks.json"
   },
@@ -34,7 +36,7 @@
     "Classic": {
       "mulligan": {
         "info": "If you have no Basic Pokemon in hand, you can draw a new hand. Your opponent draw a card for each extra time you drew a new hand compared to him.",
-        "startingHandSize": 6,
+        "startingHandSize": 7,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -56,8 +58,8 @@
           "Bench",
           "Active",
           "Stadium",
-          "Prize 1",
-          "Prize 2"
+          "Prize_1",
+          "Prize_2"
         ],
         "layout": {
           "direction": "row",
@@ -102,11 +104,11 @@
               },
               "content": [
                 {
-                  "section": "Prize 1",
+                  "section": "Prize_1",
                   "style": false
                 },
                 {
-                  "section": "Prize 2",
+                  "section": "Prize_2",
                   "style": false
                 }
               ],
@@ -143,8 +145,8 @@
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
-          "Prize 1": {
-            "title": "Prize 1",
+          "Prize_1": {
+            "title": "Prize_1",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "END",
@@ -158,8 +160,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Prize 2": {
-            "title": "Prize 2",
+          "Prize_2": {
+            "title": "Prize_2",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "END",
