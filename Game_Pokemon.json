@@ -122,6 +122,7 @@
           "Pokemon": "Bench"
         },
         "autoPlayFromStack": {
+          "Trainer - Stadium": "Stadium",
           "Trainer - Supporter": "Discard",
           "Trainer": "Discard",
           "Pokemon": "Bench"
