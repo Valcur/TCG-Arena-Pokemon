@@ -10,7 +10,7 @@
     ],
     "decksUrl": ""
   },
-  "customHelp": "",
+  "customHelp": "Click your deck and hold to drag and drop the top card to add it to your prizes.",
   "cardRotation": 90,
   "cards": {
     "dataUrl": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonCards.json",
@@ -33,7 +33,7 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
+        "info": "If you have no Basic Pokemon in hand, you can draw a new hand. Your opponent draw a card for each extra time you drew a new hand compared to him.",
         "startingHandSize": 6,
         "drawNewHand": true,
         "putSelectionAtBottom": false,
