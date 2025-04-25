@@ -124,7 +124,8 @@
           "Trainer": "Stack",
           "Pokemon": "Bench",
           "Energy": "GROUP",
-          "Energy - Special": "GROUP"
+          "Energy - Special": "GROUP",
+          "Trainer - Pokemon Tool": "GROUP"
         },
         "autoPlayFromStack": {
           "Trainer - Stadium": "Stadium",
@@ -133,7 +134,8 @@
           "Trainer": "Discard",
           "Pokemon": "Bench",
           "Energy": "GROUP",
-          "Energy - Special": "GROUP"
+          "Energy - Special": "GROUP",
+          "Trainer - Pokemon Tool": "GROUP"
         },
         "sectionsDict": {
           "Bench": {
