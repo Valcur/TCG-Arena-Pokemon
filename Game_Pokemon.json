@@ -91,7 +91,7 @@
                 },
                 {
                   "section": "Bench",
-                  "style": false
+                  "style": { "marginTop": "0.35rem" }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -120,12 +120,14 @@
         "autoPlayFromHand": {
           "Trainer - Stadium": "Stadium",
           "Trainer - Supporter": "Stack",
+          "Trainer - Item": "Stack",
           "Trainer": "Stack",
           "Pokemon": "Bench"
         },
         "autoPlayFromStack": {
           "Trainer - Stadium": "Stadium",
           "Trainer - Supporter": "Discard",
+          "Trainer - Item": "Discard",
           "Trainer": "Discard",
           "Pokemon": "Bench"
         },
