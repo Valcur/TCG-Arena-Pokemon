@@ -99,8 +99,7 @@
             {
               "direction": "column",
               "style": {
-                "width": "22vh",
-                "justify-content": "start"
+                "width": "22vh"
               },
               "content": [
                 {
@@ -125,7 +124,7 @@
           "Pokemon": "Bench",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
-          "Trainer - Pokemon Tool": "GROUP"
+          "Trainer - Pokemon tool": "GROUP"
         },
         "autoPlayFromStack": {
           "Trainer - Stadium": "Stadium",
@@ -135,7 +134,7 @@
           "Pokemon": "Bench",
           "Energy": "GROUP",
           "Energy - Special": "GROUP",
-          "Trainer - Pokemon Tool": "GROUP"
+          "Trainer - Pokemon tool": "GROUP"
         },
         "sectionsDict": {
           "Bench": {
