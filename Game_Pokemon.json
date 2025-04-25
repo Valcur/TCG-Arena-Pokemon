@@ -122,14 +122,18 @@
           "Trainer - Supporter": "Stack",
           "Trainer - Item": "Stack",
           "Trainer": "Stack",
-          "Pokemon": "Bench"
+          "Pokemon": "Bench",
+          "Energy": "GROUP",
+          "Energy - Special": "GROUP"
         },
         "autoPlayFromStack": {
           "Trainer - Stadium": "Stadium",
           "Trainer - Supporter": "Discard",
           "Trainer - Item": "Discard",
           "Trainer": "Discard",
-          "Pokemon": "Bench"
+          "Pokemon": "Bench",
+          "Energy": "GROUP",
+          "Energy - Special": "GROUP"
         },
         "sectionsDict": {
           "Bench": {
