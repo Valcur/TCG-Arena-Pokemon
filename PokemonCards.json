@@ -359279,5 +359279,4308 @@
     "rarity": "Mega Hyper Rare",
     "Retreat cost": 2,
     "hp": 310
+  },
+  "me4-1": {
+    "id": "me4-1",
+    "face": {
+      "front": {
+        "name": "Weedle CRI 1",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-1/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Weedle CRI 1",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 50
+  },
+  "me4-2": {
+    "id": "me4-2",
+    "face": {
+      "front": {
+        "name": "Kakuna CRI 2",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-2/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakuna CRI 2",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 80
+  },
+  "me4-3": {
+    "id": "me4-3",
+    "face": {
+      "front": {
+        "name": "Beedrill ex CRI 3",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-3/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beedrill ex CRI 3",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 310
+  },
+  "me4-4": {
+    "id": "me4-4",
+    "face": {
+      "front": {
+        "name": "Carnivine CRI 4",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-4/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carnivine CRI 4",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 110
+  },
+  "me4-5": {
+    "id": "me4-5",
+    "face": {
+      "front": {
+        "name": "Chespin CRI 5",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-5/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chespin CRI 5",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-6": {
+    "id": "me4-6",
+    "face": {
+      "front": {
+        "name": "Quilladin CRI 6",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-6/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quilladin CRI 6",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 100
+  },
+  "me4-7": {
+    "id": "me4-7",
+    "face": {
+      "front": {
+        "name": "Chesnaught CRI 7",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-7/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chesnaught CRI 7",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 4,
+    "hp": 180
+  },
+  "me4-8": {
+    "id": "me4-8",
+    "face": {
+      "front": {
+        "name": "Vulpix CRI 8",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-8/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vulpix CRI 8",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-9": {
+    "id": "me4-9",
+    "face": {
+      "front": {
+        "name": "Ninetales CRI 9",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-9/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninetales CRI 9",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 120
+  },
+  "me4-10": {
+    "id": "me4-10",
+    "face": {
+      "front": {
+        "name": "Ho-Oh CRI 10",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-10/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ho-Oh CRI 10",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me4-11": {
+    "id": "me4-11",
+    "face": {
+      "front": {
+        "name": "Fennekin CRI 11",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-11/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fennekin CRI 11",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-12": {
+    "id": "me4-12",
+    "face": {
+      "front": {
+        "name": "Braixen CRI 12",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-12/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Braixen CRI 12",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-13": {
+    "id": "me4-13",
+    "face": {
+      "front": {
+        "name": "Delphox CRI 13",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-13/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delphox CRI 13",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 160
+  },
+  "me4-14": {
+    "id": "me4-14",
+    "face": {
+      "front": {
+        "name": "Litleo CRI 14",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-14/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Litleo CRI 14",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-15": {
+    "id": "me4-15",
+    "face": {
+      "front": {
+        "name": "Mega Pyroar ex CRI 15",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-15/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Pyroar ex CRI 15",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 340
+  },
+  "me4-16": {
+    "id": "me4-16",
+    "face": {
+      "front": {
+        "name": "Remoraid CRI 16",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-16/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remoraid CRI 16",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-17": {
+    "id": "me4-17",
+    "face": {
+      "front": {
+        "name": "Octillery CRI 17",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-17/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Octillery CRI 17",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 110
+  },
+  "me4-18": {
+    "id": "me4-18",
+    "face": {
+      "front": {
+        "name": "Delibird CRI 18",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-18/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delibird CRI 18",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me4-19": {
+    "id": "me4-19",
+    "face": {
+      "front": {
+        "name": "Keldeo CRI 19",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-19/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Keldeo CRI 19",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 1,
+    "hp": 110
+  },
+  "me4-20": {
+    "id": "me4-20",
+    "face": {
+      "front": {
+        "name": "Froakie CRI 20",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-20/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Froakie CRI 20",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-21": {
+    "id": "me4-21",
+    "face": {
+      "front": {
+        "name": "Frogadier CRI 21",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-21/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frogadier CRI 21",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-22": {
+    "id": "me4-22",
+    "face": {
+      "front": {
+        "name": "Mega Greninja ex CRI 22",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-22/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Greninja ex CRI 22",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 350
+  },
+  "me4-23": {
+    "id": "me4-23",
+    "face": {
+      "front": {
+        "name": "Bergmite CRI 23",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-23/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bergmite CRI 23",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 80
+  },
+  "me4-24": {
+    "id": "me4-24",
+    "face": {
+      "front": {
+        "name": "Avalugg CRI 24",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-24/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Avalugg CRI 24",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 4,
+    "hp": 160
+  },
+  "me4-25": {
+    "id": "me4-25",
+    "face": {
+      "front": {
+        "name": "Wimpod CRI 25",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-25/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wimpod CRI 25",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-26": {
+    "id": "me4-26",
+    "face": {
+      "front": {
+        "name": "Golisopod CRI 26",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-26/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golisopod CRI 26",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 140
+  },
+  "me4-27": {
+    "id": "me4-27",
+    "face": {
+      "front": {
+        "name": "Mareep CRI 27",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-27/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mareep CRI 27",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-28": {
+    "id": "me4-28",
+    "face": {
+      "front": {
+        "name": "Flaaffy CRI 28",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-28/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flaaffy CRI 28",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 90
+  },
+  "me4-29": {
+    "id": "me4-29",
+    "face": {
+      "front": {
+        "name": "Ampharos CRI 29",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-29/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ampharos CRI 29",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 160
+  },
+  "me4-30": {
+    "id": "me4-30",
+    "face": {
+      "front": {
+        "name": "Emolga CRI 30",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-30/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emolga CRI 30",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-31": {
+    "id": "me4-31",
+    "face": {
+      "front": {
+        "name": "Deoxys CRI 31",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-31/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deoxys CRI 31",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 110
+  },
+  "me4-32": {
+    "id": "me4-32",
+    "face": {
+      "front": {
+        "name": "Deoxys CRI 32",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-32/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deoxys CRI 32",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "me4-33": {
+    "id": "me4-33",
+    "face": {
+      "front": {
+        "name": "Deoxys CRI 33",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-33/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deoxys CRI 33",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me4-34": {
+    "id": "me4-34",
+    "face": {
+      "front": {
+        "name": "Deoxys CRI 34",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-34/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deoxys CRI 34",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 100
+  },
+  "me4-35": {
+    "id": "me4-35",
+    "face": {
+      "front": {
+        "name": "Mega Floette ex CRI 35",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-35/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Floette ex CRI 35",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 250
+  },
+  "me4-36": {
+    "id": "me4-36",
+    "face": {
+      "front": {
+        "name": "Espurr CRI 36",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-36/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espurr CRI 36",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 60
+  },
+  "me4-37": {
+    "id": "me4-37",
+    "face": {
+      "front": {
+        "name": "Meowstic CRI 37",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-37/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meowstic CRI 37",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-38": {
+    "id": "me4-38",
+    "face": {
+      "front": {
+        "name": "Phantump CRI 38",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-38/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phantump CRI 38",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-39": {
+    "id": "me4-39",
+    "face": {
+      "front": {
+        "name": "Trevenant CRI 39",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-39/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trevenant CRI 39",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me4-40": {
+    "id": "me4-40",
+    "face": {
+      "front": {
+        "name": "Pumpkaboo CRI 40",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-40/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pumpkaboo CRI 40",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 60
+  },
+  "me4-41": {
+    "id": "me4-41",
+    "face": {
+      "front": {
+        "name": "Gourgeist ex CRI 41",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-41/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gourgeist ex CRI 41",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 270
+  },
+  "me4-42": {
+    "id": "me4-42",
+    "face": {
+      "front": {
+        "name": "Xerneas CRI 42",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-42/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xerneas CRI 42",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me4-43": {
+    "id": "me4-43",
+    "face": {
+      "front": {
+        "name": "Sudowoodo CRI 43",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-43/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sudowoodo CRI 43",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 110
+  },
+  "me4-44": {
+    "id": "me4-44",
+    "face": {
+      "front": {
+        "name": "Phanpy CRI 44",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-44/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phanpy CRI 44",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 80
+  },
+  "me4-45": {
+    "id": "me4-45",
+    "face": {
+      "front": {
+        "name": "Donphan CRI 45",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-45/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Donphan CRI 45",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 150
+  },
+  "me4-46": {
+    "id": "me4-46",
+    "face": {
+      "front": {
+        "name": "Baltoy CRI 46",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-46/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baltoy CRI 46",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-47": {
+    "id": "me4-47",
+    "face": {
+      "front": {
+        "name": "Claydol CRI 47",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-47/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Claydol CRI 47",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "me4-48": {
+    "id": "me4-48",
+    "face": {
+      "front": {
+        "name": "Mega Gallade ex CRI 48",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-48/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Gallade ex CRI 48",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 350
+  },
+  "me4-49": {
+    "id": "me4-49",
+    "face": {
+      "front": {
+        "name": "Zubat CRI 49",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-49/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zubat CRI 49",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "hp": 40
+  },
+  "me4-50": {
+    "id": "me4-50",
+    "face": {
+      "front": {
+        "name": "Golbat CRI 50",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-50/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golbat CRI 50",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 80
+  },
+  "me4-51": {
+    "id": "me4-51",
+    "face": {
+      "front": {
+        "name": "Crobat CRI 51",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-51/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crobat CRI 51",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 1,
+    "hp": 130
+  },
+  "me4-52": {
+    "id": "me4-52",
+    "face": {
+      "front": {
+        "name": "Qwilfish CRI 52",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-52/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qwilfish CRI 52",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me4-53": {
+    "id": "me4-53",
+    "face": {
+      "front": {
+        "name": "Stunky CRI 53",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-53/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stunky CRI 53",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-54": {
+    "id": "me4-54",
+    "face": {
+      "front": {
+        "name": "Skuntank CRI 54",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-54/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skuntank CRI 54",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 110
+  },
+  "me4-55": {
+    "id": "me4-55",
+    "face": {
+      "front": {
+        "name": "Krookodile ex CRI 55",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-55/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krookodile ex CRI 55",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 3,
+    "hp": 320
+  },
+  "me4-56": {
+    "id": "me4-56",
+    "face": {
+      "front": {
+        "name": "Trubbish CRI 56",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-56/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trubbish CRI 56",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-57": {
+    "id": "me4-57",
+    "face": {
+      "front": {
+        "name": "Garbodor CRI 57",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-57/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garbodor CRI 57",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 140
+  },
+  "me4-58": {
+    "id": "me4-58",
+    "face": {
+      "front": {
+        "name": "Skrelp CRI 58",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-58/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skrelp CRI 58",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-59": {
+    "id": "me4-59",
+    "face": {
+      "front": {
+        "name": "Beldum CRI 59",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-59/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beldum CRI 59",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-60": {
+    "id": "me4-60",
+    "face": {
+      "front": {
+        "name": "Metang CRI 60",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-60/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metang CRI 60",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 100
+  },
+  "me4-61": {
+    "id": "me4-61",
+    "face": {
+      "front": {
+        "name": "Metagross CRI 61",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-61/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metagross CRI 61",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 180
+  },
+  "me4-62": {
+    "id": "me4-62",
+    "face": {
+      "front": {
+        "name": "Ferroseed CRI 62",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-62/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ferroseed CRI 62",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-63": {
+    "id": "me4-63",
+    "face": {
+      "front": {
+        "name": "Ferrothorn CRI 63",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-63/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ferrothorn CRI 63",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me4-64": {
+    "id": "me4-64",
+    "face": {
+      "front": {
+        "name": "Cobalion ex CRI 64",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-64/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cobalion ex CRI 64",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 210
+  },
+  "me4-65": {
+    "id": "me4-65",
+    "face": {
+      "front": {
+        "name": "Mega Dragalge ex CRI 65",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-65/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Dragalge ex CRI 65",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 330
+  },
+  "me4-66": {
+    "id": "me4-66",
+    "face": {
+      "front": {
+        "name": "Goomy CRI 66",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-66/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goomy CRI 66",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 60
+  },
+  "me4-67": {
+    "id": "me4-67",
+    "face": {
+      "front": {
+        "name": "Sliggoo CRI 67",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-67/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sliggoo CRI 67",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 90
+  },
+  "me4-68": {
+    "id": "me4-68",
+    "face": {
+      "front": {
+        "name": "Goodra CRI 68",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-68/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goodra CRI 68",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 3,
+    "hp": 160
+  },
+  "me4-69": {
+    "id": "me4-69",
+    "face": {
+      "front": {
+        "name": "Tauros CRI 69",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-69/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauros CRI 69",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me4-70": {
+    "id": "me4-70",
+    "face": {
+      "front": {
+        "name": "Patrat CRI 70",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-70/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patrat CRI 70",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-71": {
+    "id": "me4-71",
+    "face": {
+      "front": {
+        "name": "Watchog CRI 71",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-71/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watchog CRI 71",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-72": {
+    "id": "me4-72",
+    "face": {
+      "front": {
+        "name": "Minccino CRI 72",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-72/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minccino CRI 72",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-73": {
+    "id": "me4-73",
+    "face": {
+      "front": {
+        "name": "Cinccino ex CRI 73",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-73/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinccino ex CRI 73",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 240
+  },
+  "me4-74": {
+    "id": "me4-74",
+    "face": {
+      "front": {
+        "name": "Adversity Policy CRI 74",
+        "type": "Trainer - Pokemon tool",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-74/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adversity Policy CRI 74",
+    "type": "Trainer - Pokemon tool",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-75": {
+    "id": "me4-75",
+    "face": {
+      "front": {
+        "name": "Ange Floette CRI 75",
+        "type": "Trainer - Stadium",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-75/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ange Floette CRI 75",
+    "type": "Trainer - Stadium",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-76": {
+    "id": "me4-76",
+    "face": {
+      "front": {
+        "name": "AZ's Tranquility CRI 76",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-76/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "AZ's Tranquility CRI 76",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-77": {
+    "id": "me4-77",
+    "face": {
+      "front": {
+        "name": "Emma CRI 77",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-77/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emma CRI 77",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-78": {
+    "id": "me4-78",
+    "face": {
+      "front": {
+        "name": "Great Haul Net CRI 78",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-78/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Haul Net CRI 78",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-79": {
+    "id": "me4-79",
+    "face": {
+      "front": {
+        "name": "Philippe CRI 79",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-79/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Philippe CRI 79",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-80": {
+    "id": "me4-80",
+    "face": {
+      "front": {
+        "name": "Prism Tower CRI 80",
+        "type": "Trainer - Stadium",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-80/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prism Tower CRI 80",
+    "type": "Trainer - Stadium",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-81": {
+    "id": "me4-81",
+    "face": {
+      "front": {
+        "name": "Roxie's Performance CRI 81",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-81/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roxie's Performance CRI 81",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-82": {
+    "id": "me4-82",
+    "face": {
+      "front": {
+        "name": "Special Red Card CRI 82",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-82/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Special Red Card CRI 82",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-83": {
+    "id": "me4-83",
+    "face": {
+      "front": {
+        "name": "Transformation Tome CRI 83",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-83/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Transformation Tome CRI 83",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me4-84": {
+    "id": "me4-84",
+    "face": {
+      "front": {
+        "name": "Bubbly Water Energy CRI 84",
+        "type": "Energy - Special",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-84/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubbly Water Energy CRI 84",
+    "type": "Energy - Special",
+    "cost": 0,
+    "rarity": "Rare",
+    "hp": 0
+  },
+  "me4-85": {
+    "id": "me4-85",
+    "face": {
+      "front": {
+        "name": "Magnetic Metal Energy CRI 85",
+        "type": "Energy - Special",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-85/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magnetic Metal Energy CRI 85",
+    "type": "Energy - Special",
+    "cost": 0,
+    "rarity": "Rare",
+    "hp": 0
+  },
+  "me4-86": {
+    "id": "me4-86",
+    "face": {
+      "front": {
+        "name": "Nitro Fire Energy CRI 86",
+        "type": "Energy - Special",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-86/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nitro Fire Energy CRI 86",
+    "type": "Energy - Special",
+    "cost": 0,
+    "rarity": "Rare",
+    "hp": 0
+  },
+  "me4-87": {
+    "id": "me4-87",
+    "face": {
+      "front": {
+        "name": "Chespin CRI 87",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-87/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chespin CRI 87",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me4-88": {
+    "id": "me4-88",
+    "face": {
+      "front": {
+        "name": "Froakie CRI 88",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-88/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Froakie CRI 88",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me4-89": {
+    "id": "me4-89",
+    "face": {
+      "front": {
+        "name": "Frogadier CRI 89",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-89/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frogadier CRI 89",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-90": {
+    "id": "me4-90",
+    "face": {
+      "front": {
+        "name": "Ampharos CRI 90",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-90/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ampharos CRI 90",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 160
+  },
+  "me4-91": {
+    "id": "me4-91",
+    "face": {
+      "front": {
+        "name": "Xerneas CRI 91",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-91/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xerneas CRI 91",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me4-92": {
+    "id": "me4-92",
+    "face": {
+      "front": {
+        "name": "Claydol CRI 92",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-92/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Claydol CRI 92",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "me4-93": {
+    "id": "me4-93",
+    "face": {
+      "front": {
+        "name": "Crobat CRI 93",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-93/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crobat CRI 93",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 130
+  },
+  "me4-94": {
+    "id": "me4-94",
+    "face": {
+      "front": {
+        "name": "Metang CRI 94",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-94/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metang CRI 94",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 100
+  },
+  "me4-95": {
+    "id": "me4-95",
+    "face": {
+      "front": {
+        "name": "Sliggoo CRI 95",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-95/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sliggoo CRI 95",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 3,
+    "hp": 90
+  },
+  "me4-96": {
+    "id": "me4-96",
+    "face": {
+      "front": {
+        "name": "Tauros CRI 96",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-96/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tauros CRI 96",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me4-97": {
+    "id": "me4-97",
+    "face": {
+      "front": {
+        "name": "Watchog CRI 97",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-97/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Watchog CRI 97",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me4-98": {
+    "id": "me4-98",
+    "face": {
+      "front": {
+        "name": "Beedrill ex CRI 98",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-98/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beedrill ex CRI 98",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 310
+  },
+  "me4-99": {
+    "id": "me4-99",
+    "face": {
+      "front": {
+        "name": "Mega Pyroar ex CRI 99",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-99/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Pyroar ex CRI 99",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 340
+  },
+  "me4-100": {
+    "id": "me4-100",
+    "face": {
+      "front": {
+        "name": "Mega Greninja ex CRI 100",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-100/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Greninja ex CRI 100",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 350
+  },
+  "me4-101": {
+    "id": "me4-101",
+    "face": {
+      "front": {
+        "name": "Mega Floette ex CRI 101",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-101/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Floette ex CRI 101",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 250
+  },
+  "me4-102": {
+    "id": "me4-102",
+    "face": {
+      "front": {
+        "name": "Gourgeist ex CRI 102",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-102/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gourgeist ex CRI 102",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 270
+  },
+  "me4-103": {
+    "id": "me4-103",
+    "face": {
+      "front": {
+        "name": "Cobalion ex CRI 103",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-103/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cobalion ex CRI 103",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 210
+  },
+  "me4-104": {
+    "id": "me4-104",
+    "face": {
+      "front": {
+        "name": "Mega Dragalge ex CRI 104",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-104/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Dragalge ex CRI 104",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 330
+  },
+  "me4-105": {
+    "id": "me4-105",
+    "face": {
+      "front": {
+        "name": "Cinccino ex CRI 105",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-105/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinccino ex CRI 105",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 240
+  },
+  "me4-106": {
+    "id": "me4-106",
+    "face": {
+      "front": {
+        "name": "AZ's Tranquility CRI 106",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-106/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "AZ's Tranquility CRI 106",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-107": {
+    "id": "me4-107",
+    "face": {
+      "front": {
+        "name": "Emma CRI 107",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-107/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emma CRI 107",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-108": {
+    "id": "me4-108",
+    "face": {
+      "front": {
+        "name": "Energy Retrieval CRI 108",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-108/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energy Retrieval CRI 108",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-109": {
+    "id": "me4-109",
+    "face": {
+      "front": {
+        "name": "Jumbo Ice Cream CRI 109",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-109/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jumbo Ice Cream CRI 109",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-110": {
+    "id": "me4-110",
+    "face": {
+      "front": {
+        "name": "Philippe CRI 110",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-110/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Philippe CRI 110",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-111": {
+    "id": "me4-111",
+    "face": {
+      "front": {
+        "name": "Prism Tower CRI 111",
+        "type": "Trainer - Stadium",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-111/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prism Tower CRI 111",
+    "type": "Trainer - Stadium",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-112": {
+    "id": "me4-112",
+    "face": {
+      "front": {
+        "name": "Roxie's Performance CRI 112",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-112/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roxie's Performance CRI 112",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-113": {
+    "id": "me4-113",
+    "face": {
+      "front": {
+        "name": "Special Red Card CRI 113",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-113/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Special Red Card CRI 113",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-114": {
+    "id": "me4-114",
+    "face": {
+      "front": {
+        "name": "Surfing Beach CRI 114",
+        "type": "Trainer - Stadium",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-114/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Surfing Beach CRI 114",
+    "type": "Trainer - Stadium",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-115": {
+    "id": "me4-115",
+    "face": {
+      "front": {
+        "name": "Tool Scrapper CRI 115",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-115/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tool Scrapper CRI 115",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me4-116": {
+    "id": "me4-116",
+    "face": {
+      "front": {
+        "name": "Mega Greninja ex CRI 116",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-116/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Greninja ex CRI 116",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 350
+  },
+  "me4-117": {
+    "id": "me4-117",
+    "face": {
+      "front": {
+        "name": "Mega Floette ex CRI 117",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-117/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Floette ex CRI 117",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 250
+  },
+  "me4-118": {
+    "id": "me4-118",
+    "face": {
+      "front": {
+        "name": "Mega Dragalge ex CRI 118",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-118/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Dragalge ex CRI 118",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 330
+  },
+  "me4-119": {
+    "id": "me4-119",
+    "face": {
+      "front": {
+        "name": "Cinccino ex CRI 119",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-119/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cinccino ex CRI 119",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 240
+  },
+  "me4-120": {
+    "id": "me4-120",
+    "face": {
+      "front": {
+        "name": "AZ's Tranquility CRI 120",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-120/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "AZ's Tranquility CRI 120",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "hp": 0
+  },
+  "me4-121": {
+    "id": "me4-121",
+    "face": {
+      "front": {
+        "name": "Roxie's Performance CRI 121",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-121/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roxie's Performance CRI 121",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "hp": 0
+  },
+  "me4-122": {
+    "id": "me4-122",
+    "face": {
+      "front": {
+        "name": "Mega Greninja ex CRI 122",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me4-122/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Greninja ex CRI 122",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Mega Hyper Rare",
+    "Retreat cost": 1,
+    "hp": 350
+  },
+  "me5-1": {
+    "id": "me5-1",
+    "face": {
+      "front": {
+        "name": "Tropius PBL 1",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-1/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tropius PBL 1",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 110
+  },
+  "me5-2": {
+    "id": "me5-2",
+    "face": {
+      "front": {
+        "name": "Grubbin PBL 2",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-2/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grubbin PBL 2",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me5-3": {
+    "id": "me5-3",
+    "face": {
+      "front": {
+        "name": "Fomantis PBL 3",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-3/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fomantis PBL 3",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-4": {
+    "id": "me5-4",
+    "face": {
+      "front": {
+        "name": "Lurantis ex PBL 4",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-4/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lurantis ex PBL 4",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 260
+  },
+  "me5-5": {
+    "id": "me5-5",
+    "face": {
+      "front": {
+        "name": "Poltchageist PBL 5",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-5/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poltchageist PBL 5",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "hp": 30
+  },
+  "me5-6": {
+    "id": "me5-6",
+    "face": {
+      "front": {
+        "name": "Sinistcha PBL 6",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-6/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sinistcha PBL 6",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 60
+  },
+  "me5-7": {
+    "id": "me5-7",
+    "face": {
+      "front": {
+        "name": "Heatran PBL 7",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-7/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heatran PBL 7",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 4,
+    "hp": 140
+  },
+  "me5-8": {
+    "id": "me5-8",
+    "face": {
+      "front": {
+        "name": "Mega Delphox ex PBL 8",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-8/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Delphox ex PBL 8",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 350
+  },
+  "me5-9": {
+    "id": "me5-9",
+    "face": {
+      "front": {
+        "name": "Sizzlipede PBL 9",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-9/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sizzlipede PBL 9",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 80
+  },
+  "me5-10": {
+    "id": "me5-10",
+    "face": {
+      "front": {
+        "name": "Centiskorch PBL 10",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-10/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Centiskorch PBL 10",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 140
+  },
+  "me5-11": {
+    "id": "me5-11",
+    "face": {
+      "front": {
+        "name": "Charcadet PBL 11",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-11/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charcadet PBL 11",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 80
+  },
+  "me5-12": {
+    "id": "me5-12",
+    "face": {
+      "front": {
+        "name": "Armarouge PBL 12",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-12/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armarouge PBL 12",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 140
+  },
+  "me5-13": {
+    "id": "me5-13",
+    "face": {
+      "front": {
+        "name": "Goldeen PBL 13",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-13/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goldeen PBL 13",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-14": {
+    "id": "me5-14",
+    "face": {
+      "front": {
+        "name": "Seaking PBL 14",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-14/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seaking PBL 14",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 110
+  },
+  "me5-15": {
+    "id": "me5-15",
+    "face": {
+      "front": {
+        "name": "Wailmer PBL 15",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-15/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wailmer PBL 15",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 4,
+    "hp": 130
+  },
+  "me5-16": {
+    "id": "me5-16",
+    "face": {
+      "front": {
+        "name": "Wailord ex PBL 16",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-16/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wailord ex PBL 16",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 4,
+    "hp": 380
+  },
+  "me5-17": {
+    "id": "me5-17",
+    "face": {
+      "front": {
+        "name": "Relicanth PBL 17",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-17/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relicanth PBL 17",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me5-18": {
+    "id": "me5-18",
+    "face": {
+      "front": {
+        "name": "Popplio PBL 18",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-18/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Popplio PBL 18",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-19": {
+    "id": "me5-19",
+    "face": {
+      "front": {
+        "name": "Brionne PBL 19",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-19/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brionne PBL 19",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 90
+  },
+  "me5-20": {
+    "id": "me5-20",
+    "face": {
+      "front": {
+        "name": "Primarina PBL 20",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-20/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Primarina PBL 20",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-21": {
+    "id": "me5-21",
+    "face": {
+      "front": {
+        "name": "Finizen PBL 21",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-21/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Finizen PBL 21",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 80
+  },
+  "me5-22": {
+    "id": "me5-22",
+    "face": {
+      "front": {
+        "name": "Palafin PBL 22",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-22/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Palafin PBL 22",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-23": {
+    "id": "me5-23",
+    "face": {
+      "front": {
+        "name": "Electrike PBL 23",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-23/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Electrike PBL 23",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-24": {
+    "id": "me5-24",
+    "face": {
+      "front": {
+        "name": "Manectric PBL 24",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-24/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manectric PBL 24",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 120
+  },
+  "me5-25": {
+    "id": "me5-25",
+    "face": {
+      "front": {
+        "name": "Charjabug PBL 25",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-25/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charjabug PBL 25",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 100
+  },
+  "me5-26": {
+    "id": "me5-26",
+    "face": {
+      "front": {
+        "name": "Vikavolt PBL 26",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-26/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vikavolt PBL 26",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 160
+  },
+  "me5-27": {
+    "id": "me5-27",
+    "face": {
+      "front": {
+        "name": "Mega Zeraora ex PBL 27",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-27/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Zeraora ex PBL 27",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 270
+  },
+  "me5-28": {
+    "id": "me5-28",
+    "face": {
+      "front": {
+        "name": "Miraidon PBL 28",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-28/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miraidon PBL 28",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 1,
+    "hp": 120
+  },
+  "me5-29": {
+    "id": "me5-29",
+    "face": {
+      "front": {
+        "name": "Slowpoke PBL 29",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-29/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slowpoke PBL 29",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me5-30": {
+    "id": "me5-30",
+    "face": {
+      "front": {
+        "name": "Slowbro PBL 30",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-30/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slowbro PBL 30",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me5-31": {
+    "id": "me5-31",
+    "face": {
+      "front": {
+        "name": "Mega Slowbro ex PBL 31",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-31/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Slowbro ex PBL 31",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 3,
+    "hp": 330
+  },
+  "me5-32": {
+    "id": "me5-32",
+    "face": {
+      "front": {
+        "name": "Jynx PBL 32",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-32/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jynx PBL 32",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me5-33": {
+    "id": "me5-33",
+    "face": {
+      "front": {
+        "name": "Shuppet PBL 33",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-33/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuppet PBL 33",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 50
+  },
+  "me5-34": {
+    "id": "me5-34",
+    "face": {
+      "front": {
+        "name": "Banette PBL 34",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-34/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banette PBL 34",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 80
+  },
+  "me5-35": {
+    "id": "me5-35",
+    "face": {
+      "front": {
+        "name": "Spiritomb PBL 35",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-35/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiritomb PBL 35",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 1,
+    "hp": 60
+  },
+  "me5-36": {
+    "id": "me5-36",
+    "face": {
+      "front": {
+        "name": "Litwick PBL 36",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-36/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Litwick PBL 36",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-37": {
+    "id": "me5-37",
+    "face": {
+      "front": {
+        "name": "Lampent PBL 37",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-37/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lampent PBL 37",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me5-38": {
+    "id": "me5-38",
+    "face": {
+      "front": {
+        "name": "Mega Chandelure ex PBL 38",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-38/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Chandelure ex PBL 38",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 350
+  },
+  "me5-39": {
+    "id": "me5-39",
+    "face": {
+      "front": {
+        "name": "Dhelmise PBL 39",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-39/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dhelmise PBL 39",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 140
+  },
+  "me5-40": {
+    "id": "me5-40",
+    "face": {
+      "front": {
+        "name": "Marshadow PBL 40",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-40/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marshadow PBL 40",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me5-41": {
+    "id": "me5-41",
+    "face": {
+      "front": {
+        "name": "Annihilape PBL 41",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-41/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Annihilape PBL 41",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-42": {
+    "id": "me5-42",
+    "face": {
+      "front": {
+        "name": "Mankey PBL 42",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-42/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mankey PBL 42",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 50
+  },
+  "me5-43": {
+    "id": "me5-43",
+    "face": {
+      "front": {
+        "name": "Primeape PBL 43",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-43/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Primeape PBL 43",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 110
+  },
+  "me5-44": {
+    "id": "me5-44",
+    "face": {
+      "front": {
+        "name": "Cranidos PBL 44",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-44/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cranidos PBL 44",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 100
+  },
+  "me5-45": {
+    "id": "me5-45",
+    "face": {
+      "front": {
+        "name": "Rampardos ex PBL 45",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-45/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampardos ex PBL 45",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 330
+  },
+  "me5-46": {
+    "id": "me5-46",
+    "face": {
+      "front": {
+        "name": "Drilbur PBL 46",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-46/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drilbur PBL 46",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me5-47": {
+    "id": "me5-47",
+    "face": {
+      "front": {
+        "name": "Koraidon PBL 47",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-47/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Koraidon PBL 47",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me5-48": {
+    "id": "me5-48",
+    "face": {
+      "front": {
+        "name": "Mega Darkrai ex PBL 48",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-48/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Darkrai ex PBL 48",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 2,
+    "hp": 280
+  },
+  "me5-49": {
+    "id": "me5-49",
+    "face": {
+      "front": {
+        "name": "Vullaby PBL 49",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-49/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vullaby PBL 49",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-50": {
+    "id": "me5-50",
+    "face": {
+      "front": {
+        "name": "Mandibuzz PBL 50",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-50/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandibuzz PBL 50",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "me5-51": {
+    "id": "me5-51",
+    "face": {
+      "front": {
+        "name": "Inkay PBL 51",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-51/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inkay PBL 51",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 60
+  },
+  "me5-52": {
+    "id": "me5-52",
+    "face": {
+      "front": {
+        "name": "Malamar PBL 52",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-52/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malamar PBL 52",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 120
+  },
+  "me5-53": {
+    "id": "me5-53",
+    "face": {
+      "front": {
+        "name": "Nickit PBL 53",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-53/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nickit PBL 53",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-54": {
+    "id": "me5-54",
+    "face": {
+      "front": {
+        "name": "Thievul PBL 54",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-54/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thievul PBL 54",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me5-55": {
+    "id": "me5-55",
+    "face": {
+      "front": {
+        "name": "Morpeko ex PBL 55",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-55/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morpeko ex PBL 55",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 1,
+    "hp": 180
+  },
+  "me5-56": {
+    "id": "me5-56",
+    "face": {
+      "front": {
+        "name": "Zarude PBL 56",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-56/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zarude PBL 56",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 130
+  },
+  "me5-57": {
+    "id": "me5-57",
+    "face": {
+      "front": {
+        "name": "Maschiff PBL 57",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-57/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maschiff PBL 57",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 70
+  },
+  "me5-58": {
+    "id": "me5-58",
+    "face": {
+      "front": {
+        "name": "Mabosstiff PBL 58",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-58/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mabosstiff PBL 58",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 140
+  },
+  "me5-59": {
+    "id": "me5-59",
+    "face": {
+      "front": {
+        "name": "Chi-Yu PBL 59",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-59/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chi-Yu PBL 59",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me5-60": {
+    "id": "me5-60",
+    "face": {
+      "front": {
+        "name": "Skarmory PBL 60",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-60/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skarmory PBL 60",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 120
+  },
+  "me5-61": {
+    "id": "me5-61",
+    "face": {
+      "front": {
+        "name": "Shieldon PBL 61",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-61/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shieldon PBL 61",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 100
+  },
+  "me5-62": {
+    "id": "me5-62",
+    "face": {
+      "front": {
+        "name": "Bastiodon PBL 62",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-62/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bastiodon PBL 62",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 4,
+    "hp": 160
+  },
+  "me5-63": {
+    "id": "me5-63",
+    "face": {
+      "front": {
+        "name": "Bronzor PBL 63",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-63/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bronzor PBL 63",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 3,
+    "hp": 80
+  },
+  "me5-64": {
+    "id": "me5-64",
+    "face": {
+      "front": {
+        "name": "Bronzong PBL 64",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-64/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bronzong PBL 64",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me5-65": {
+    "id": "me5-65",
+    "face": {
+      "front": {
+        "name": "Mega Excadrill ex PBL 65",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-65/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Excadrill ex PBL 65",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Double Rare",
+    "Retreat cost": 4,
+    "hp": 340
+  },
+  "me5-66": {
+    "id": "me5-66",
+    "face": {
+      "front": {
+        "name": "Pikipek PBL 66",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-66/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pikipek PBL 66",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-67": {
+    "id": "me5-67",
+    "face": {
+      "front": {
+        "name": "Trumbeak PBL 67",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-67/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trumbeak PBL 67",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 90
+  },
+  "me5-68": {
+    "id": "me5-68",
+    "face": {
+      "front": {
+        "name": "Toucannon PBL 68",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-68/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toucannon PBL 68",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-69": {
+    "id": "me5-69",
+    "face": {
+      "front": {
+        "name": "Type: Null PBL 69",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-69/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Type: Null PBL 69",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 2,
+    "hp": 110
+  },
+  "me5-70": {
+    "id": "me5-70",
+    "face": {
+      "front": {
+        "name": "Silvally PBL 70",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-70/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silvally PBL 70",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Rare",
+    "Retreat cost": 2,
+    "hp": 140
+  },
+  "me5-71": {
+    "id": "me5-71",
+    "face": {
+      "front": {
+        "name": "Bombirdier PBL 71",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-71/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bombirdier PBL 71",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Common",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me5-72": {
+    "id": "me5-72",
+    "face": {
+      "front": {
+        "name": "Antique Armor Fossil PBL 72",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-72/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antique Armor Fossil PBL 72",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Common",
+    "hp": 60
+  },
+  "me5-73": {
+    "id": "me5-73",
+    "face": {
+      "front": {
+        "name": "Antique Skull Fossil PBL 73",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-73/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antique Skull Fossil PBL 73",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Common",
+    "hp": 60
+  },
+  "me5-74": {
+    "id": "me5-74",
+    "face": {
+      "front": {
+        "name": "Backtrack Badge PBL 74",
+        "type": "Trainer - Pokemon tool",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-74/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Backtrack Badge PBL 74",
+    "type": "Trainer - Pokemon tool",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-75": {
+    "id": "me5-75",
+    "face": {
+      "front": {
+        "name": "Dark Bell PBL 75",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-75/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Bell PBL 75",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-76": {
+    "id": "me5-76",
+    "face": {
+      "front": {
+        "name": "Fossil Quarry PBL 76",
+        "type": "Trainer - Stadium",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-76/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Quarry PBL 76",
+    "type": "Trainer - Stadium",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-77": {
+    "id": "me5-77",
+    "face": {
+      "front": {
+        "name": "Gladion's Final Battle PBL 77",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-77/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gladion's Final Battle PBL 77",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-78": {
+    "id": "me5-78",
+    "face": {
+      "front": {
+        "name": "Gwynn PBL 78",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-78/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwynn PBL 78",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-79": {
+    "id": "me5-79",
+    "face": {
+      "front": {
+        "name": "Jett PBL 79",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-79/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jett PBL 79",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-80": {
+    "id": "me5-80",
+    "face": {
+      "front": {
+        "name": "Misty's Vitality PBL 80",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-80/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Misty's Vitality PBL 80",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-81": {
+    "id": "me5-81",
+    "face": {
+      "front": {
+        "name": "Rust Syndicate Grunt PBL 81",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-81/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rust Syndicate Grunt PBL 81",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-82": {
+    "id": "me5-82",
+    "face": {
+      "front": {
+        "name": "Tremendous Bomb PBL 82",
+        "type": "Trainer - Pokemon tool",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-82/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tremendous Bomb PBL 82",
+    "type": "Trainer - Pokemon tool",
+    "cost": 0,
+    "rarity": "Uncommon",
+    "hp": 0
+  },
+  "me5-83": {
+    "id": "me5-83",
+    "face": {
+      "front": {
+        "name": "Shadowy Darkness Energy PBL 83",
+        "type": "Energy - Special",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-83/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shadowy Darkness Energy PBL 83",
+    "type": "Energy - Special",
+    "cost": 0,
+    "rarity": "Rare",
+    "hp": 0
+  },
+  "me5-84": {
+    "id": "me5-84",
+    "face": {
+      "front": {
+        "name": "Voltaic Lightning Energy PBL 84",
+        "type": "Energy - Special",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-84/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Voltaic Lightning Energy PBL 84",
+    "type": "Energy - Special",
+    "cost": 0,
+    "rarity": "Rare",
+    "hp": 0
+  },
+  "me5-85": {
+    "id": "me5-85",
+    "face": {
+      "front": {
+        "name": "Fomantis PBL 85",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-85/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fomantis PBL 85",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-86": {
+    "id": "me5-86",
+    "face": {
+      "front": {
+        "name": "Armarouge PBL 86",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-86/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armarouge PBL 86",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 140
+  },
+  "me5-87": {
+    "id": "me5-87",
+    "face": {
+      "front": {
+        "name": "Goldeen PBL 87",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-87/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goldeen PBL 87",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 70
+  },
+  "me5-88": {
+    "id": "me5-88",
+    "face": {
+      "front": {
+        "name": "Primarina PBL 88",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-88/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Primarina PBL 88",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-89": {
+    "id": "me5-89",
+    "face": {
+      "front": {
+        "name": "Manectric PBL 89",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-89/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manectric PBL 89",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 120
+  },
+  "me5-90": {
+    "id": "me5-90",
+    "face": {
+      "front": {
+        "name": "Slowbro PBL 90",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-90/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slowbro PBL 90",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 3,
+    "hp": 130
+  },
+  "me5-91": {
+    "id": "me5-91",
+    "face": {
+      "front": {
+        "name": "Dhelmise PBL 91",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-91/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dhelmise PBL 91",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 3,
+    "hp": 140
+  },
+  "me5-92": {
+    "id": "me5-92",
+    "face": {
+      "front": {
+        "name": "Thievul PBL 92",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-92/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thievul PBL 92",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 100
+  },
+  "me5-93": {
+    "id": "me5-93",
+    "face": {
+      "front": {
+        "name": "Bastiodon PBL 93",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-93/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bastiodon PBL 93",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 4,
+    "hp": 160
+  },
+  "me5-94": {
+    "id": "me5-94",
+    "face": {
+      "front": {
+        "name": "Toucannon PBL 94",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-94/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toucannon PBL 94",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 150
+  },
+  "me5-95": {
+    "id": "me5-95",
+    "face": {
+      "front": {
+        "name": "Silvally PBL 95",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-95/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silvally PBL 95",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 140
+  },
+  "me5-96": {
+    "id": "me5-96",
+    "face": {
+      "front": {
+        "name": "Lurantis ex PBL 96",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-96/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lurantis ex PBL 96",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 260
+  },
+  "me5-97": {
+    "id": "me5-97",
+    "face": {
+      "front": {
+        "name": "Wailord ex PBL 97",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-97/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wailord ex PBL 97",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 4,
+    "hp": 380
+  },
+  "me5-98": {
+    "id": "me5-98",
+    "face": {
+      "front": {
+        "name": "Mega Zeraora ex PBL 98",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-98/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Zeraora ex PBL 98",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 270
+  },
+  "me5-99": {
+    "id": "me5-99",
+    "face": {
+      "front": {
+        "name": "Mega Chandelure ex PBL 99",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-99/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Chandelure ex PBL 99",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 350
+  },
+  "me5-100": {
+    "id": "me5-100",
+    "face": {
+      "front": {
+        "name": "Rampardos ex PBL 100",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-100/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rampardos ex PBL 100",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 330
+  },
+  "me5-101": {
+    "id": "me5-101",
+    "face": {
+      "front": {
+        "name": "Mega Darkrai ex PBL 101",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-101/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Darkrai ex PBL 101",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 2,
+    "hp": 280
+  },
+  "me5-102": {
+    "id": "me5-102",
+    "face": {
+      "front": {
+        "name": "Morpeko ex PBL 102",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-102/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morpeko ex PBL 102",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 1,
+    "hp": 180
+  },
+  "me5-103": {
+    "id": "me5-103",
+    "face": {
+      "front": {
+        "name": "Mega Excadrill ex PBL 103",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-103/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Excadrill ex PBL 103",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "Retreat cost": 4,
+    "hp": 340
+  },
+  "me5-104": {
+    "id": "me5-104",
+    "face": {
+      "front": {
+        "name": "Brave Bangle PBL 104",
+        "type": "Trainer - Pokemon tool",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-104/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brave Bangle PBL 104",
+    "type": "Trainer - Pokemon tool",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-105": {
+    "id": "me5-105",
+    "face": {
+      "front": {
+        "name": "Crushing Hammer PBL 105",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-105/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crushing Hammer PBL 105",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-106": {
+    "id": "me5-106",
+    "face": {
+      "front": {
+        "name": "Dark Bell PBL 106",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-106/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dark Bell PBL 106",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-107": {
+    "id": "me5-107",
+    "face": {
+      "front": {
+        "name": "Energy Switch PBL 107",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-107/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energy Switch PBL 107",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-108": {
+    "id": "me5-108",
+    "face": {
+      "front": {
+        "name": "Gladion's Final Battle PBL 108",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-108/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gladion's Final Battle PBL 108",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-109": {
+    "id": "me5-109",
+    "face": {
+      "front": {
+        "name": "Gwynn PBL 109",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-109/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwynn PBL 109",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-110": {
+    "id": "me5-110",
+    "face": {
+      "front": {
+        "name": "Iron Defender PBL 110",
+        "type": "Trainer - Item",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-110/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Defender PBL 110",
+    "type": "Trainer - Item",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-111": {
+    "id": "me5-111",
+    "face": {
+      "front": {
+        "name": "Misty's Vitality PBL 111",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-111/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Misty's Vitality PBL 111",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-112": {
+    "id": "me5-112",
+    "face": {
+      "front": {
+        "name": "Rust Syndicate Grunt PBL 112",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-112/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rust Syndicate Grunt PBL 112",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-113": {
+    "id": "me5-113",
+    "face": {
+      "front": {
+        "name": "Tremendous Bomb PBL 113",
+        "type": "Trainer - Pokemon tool",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-113/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tremendous Bomb PBL 113",
+    "type": "Trainer - Pokemon tool",
+    "cost": 0,
+    "rarity": "Ultra Rare",
+    "hp": 0
+  },
+  "me5-114": {
+    "id": "me5-114",
+    "face": {
+      "front": {
+        "name": "Mega Zeraora ex PBL 114",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-114/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Zeraora ex PBL 114",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 270
+  },
+  "me5-115": {
+    "id": "me5-115",
+    "face": {
+      "front": {
+        "name": "Mega Chandelure ex PBL 115",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-115/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Chandelure ex PBL 115",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 350
+  },
+  "me5-116": {
+    "id": "me5-116",
+    "face": {
+      "front": {
+        "name": "Mega Darkrai ex PBL 116",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-116/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Darkrai ex PBL 116",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 2,
+    "hp": 280
+  },
+  "me5-117": {
+    "id": "me5-117",
+    "face": {
+      "front": {
+        "name": "Morpeko ex PBL 117",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-117/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morpeko ex PBL 117",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "Retreat cost": 1,
+    "hp": 180
+  },
+  "me5-118": {
+    "id": "me5-118",
+    "face": {
+      "front": {
+        "name": "Gladion's Final Battle PBL 118",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-118/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gladion's Final Battle PBL 118",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "hp": 0
+  },
+  "me5-119": {
+    "id": "me5-119",
+    "face": {
+      "front": {
+        "name": "Gwynn PBL 119",
+        "type": "Trainer - Supporter",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-119/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gwynn PBL 119",
+    "type": "Trainer - Supporter",
+    "cost": 0,
+    "rarity": "Special Illustration Rare",
+    "hp": 0
+  },
+  "me5-120": {
+    "id": "me5-120",
+    "face": {
+      "front": {
+        "name": "Mega Darkrai ex PBL 120",
+        "type": "Pokemon",
+        "cost": 0,
+        "image": "https://images.scrydex.com/pokemon/me5-120/large",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Darkrai ex PBL 120",
+    "type": "Pokemon",
+    "cost": 0,
+    "rarity": "Mega Hyper Rare",
+    "Retreat cost": 2,
+    "hp": 280
   }
 }
