@@ -1,228 +1,1094 @@
 [
-  {
-    "title": "Charizard Ex - Battle deck",
-    "id": "d9c9b80c-0b68-4dce-9545-a2a0da4e2029",
-    "game": "Pokemon",
-    "format": "Classic",
-    "cardCount": 60,
-    "createdAt": "2025-04-22T11:49:36.486Z",
-    "lastModifiedAt": "2025-04-24T14:43:44.658Z",
-    "deckList": {
-      "categoriesOrder": [
-        "Trainer - Item",
-        "Energy",
-        "Pokemon",
-        "Trainer - Stadium",
-        "Trainer - Supporter",
-        "Trainer - Pokemon tool"
-      ],
-      "Trainer - Item": [
-        {
-          "count": 4,
-          "id": "sv8pt5-101"
-        },
-        {
-          "count": 1,
-          "id": "sv5-157"
-        },
-        {
-          "count": 4,
-          "id": "sv4pt5-89"
-        },
-        {
-          "count": 1,
-          "id": "sv2-188"
-        },
-        {
-          "count": 1,
-          "id": "sv1-194"
-        },
-        {
-          "count": 4,
-          "id": "sv4pt5-91"
-        }
-      ],
-      "Energy": [
-        {
-          "count": 10,
-          "id": "sve-2"
-        }
-      ],
-      "Pokemon": [
-        {
-          "count": 3,
-          "id": "sv3-125"
-        },
-        {
-          "count": 4,
-          "id": "sv4pt5-7"
-        },
-        {
-          "count": 3,
-          "id": "sv4pt5-8"
-        },
-        {
-          "count": 3,
-          "id": "sv3pt5-146"
-        },
-        {
-          "count": 2,
-          "id": "sv3-164"
-        },
-        {
-          "count": 2,
-          "id": "sv3pt5-17"
-        },
-        {
-          "count": 3,
-          "id": "sv3pt5-16"
-        }
-      ],
-      "Trainer - Stadium": [
-        {
-          "count": 2,
-          "id": "sv4pt5-76"
-        }
-      ],
-      "Trainer - Supporter": [
-        {
-          "count": 2,
-          "id": "sv3-186"
-        },
-        {
-          "count": 2,
-          "id": "sv2-172"
-        },
-        {
-          "count": 4,
-          "id": "sv4pt5-80"
-        },
-        {
-          "count": 2,
-          "id": "sv4pt5-87"
-        }
-      ],
-      "Trainer - Pokemon tool": [
-        {
-          "count": 2,
-          "id": "sv4-178"
-        },
-        {
-          "count": 1,
-          "id": "sv1-169"
-        }
-      ]
-    }
-  },
-  {
-    "title": "Gardevoir Ex - Battle deck",
-    "id": "df7e1791-7bc9-4986-9cb0-2f69254c7af4",
-    "game": "Pokemon",
-    "format": "Classic",
-    "cardCount": 60,
-    "createdAt": "2025-04-24T14:44:04.873Z",
-    "lastModifiedAt": "2025-04-24T14:48:30.913Z",
-    "deckList": {
-      "categoriesOrder": [
-        "Pokemon",
-        "Energy",
-        "Trainer - Stadium",
-        "Trainer - Supporter",
-        "Trainer - Pokemon tool",
-        "Trainer - Item"
-      ],
-      "Pokemon": [
-        {
-          "count": 1,
-          "id": "swsh11-74"
-        },
-        {
-          "count": 4,
-          "id": "swsh12-68"
-        },
-        {
-          "count": 1,
-          "id": "swsh9-40"
-        },
-        {
-          "count": 1,
-          "id": "swsh10-46"
-        },
-        {
-          "count": 4,
-          "id": "swsh12-67"
-        },
-        {
-          "count": 3,
-          "id": "sv1-89"
-        },
-        {
-          "count": 3,
-          "id": "sv4pt5-29"
-        },
-        {
-          "count": 1,
-          "id": "sv3pt5-151"
-        }
-      ],
-      "Energy": [
-        {
-          "count": 13,
-          "id": "sve-5"
-        }
-      ],
-      "Trainer - Stadium": [
-        {
-          "count": 2,
-          "id": "sv2-171"
-        }
-      ],
-      "Trainer - Supporter": [
-        {
-          "count": 2,
-          "id": "sv1-166"
-        },
-        {
-          "count": 2,
-          "id": "sv2-172"
-        },
-        {
-          "count": 4,
-          "id": "sv2-185"
-        },
-        {
-          "count": 1,
-          "id": "sv1-175"
-        },
-        {
-          "count": 3,
-          "id": "sv4pt5-87"
-        }
-      ],
-      "Trainer - Pokemon tool": [
-        {
-          "count": 3,
-          "id": "sv2-173"
-        }
-      ],
-      "Trainer - Item": [
-        {
-          "count": 4,
-          "id": "sv1-181"
-        },
-        {
-          "count": 3,
-          "id": "sv1-191"
-        },
-        {
-          "count": 1,
-          "id": "sv2-188"
-        },
-        {
-          "count": 4,
-          "id": "sv1-196"
-        }
-      ]
-    }
+{
+  "title": "Dragapult ex Starter Deck",
+  "id": "67ee3ac5-afe2-4b5a-9cd9-2e372ccfafdf",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T01:27:39.506Z",
+  "lastModifiedAt": "2026-07-26T02:11:14.599Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Item",
+      "Trainer - Stadium",
+      "Energy - Special",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "sv6-130"
+      },
+      {
+        "count": 4,
+        "id": "sv6-129"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-20"
+      },
+      {
+        "count": 4,
+        "id": "sv6-128"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-18"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-19"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 2,
+        "id": "sv10-176"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      },
+      {
+        "count": 1,
+        "id": "sv7-133"
+      },
+      {
+        "count": 1,
+        "id": "me2-87"
+      },
+      {
+        "count": 1,
+        "id": "rsv10pt5-84"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "sv5-144"
+      },
+      {
+        "count": 4,
+        "id": "me1-125"
+      },
+      {
+        "count": 3,
+        "id": "me1-131"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 1,
+        "id": "me3-72"
+      },
+      {
+        "count": 1,
+        "id": "me1-130"
+      },
+      {
+        "count": 2,
+        "id": "me3-81"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv6-153"
+      }
+    ],
+    "Energy - Special": [
+      {
+        "count": 1,
+        "id": "sv5-162"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 4,
+        "id": "sve-5"
+      },
+      {
+        "count": 4,
+        "id": "sve-2"
+      }
+    ]
   }
-]
+},
+{
+  "title": "Mega Charizard X ex Starter Deck",
+  "id": "295d2bd6-6e70-4dee-a571-197083d1c56e",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T01:34:19.148Z",
+  "lastModifiedAt": "2026-07-26T02:15:32.985Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Trainer - Pokemon tool",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "me2-13"
+      },
+      {
+        "count": 1,
+        "id": "me2pt5-22"
+      },
+      {
+        "count": 2,
+        "id": "me2-12"
+      },
+      {
+        "count": 4,
+        "id": "me2-11"
+      },
+      {
+        "count": 2,
+        "id": "me2-18"
+      },
+      {
+        "count": 1,
+        "id": "me2-17"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me2-89"
+      },
+      {
+        "count": 2,
+        "id": "sv10-176"
+      },
+      {
+        "count": 1,
+        "id": "me3-76"
+      },
+      {
+        "count": 1,
+        "id": "sv6-155"
+      },
+      {
+        "count": 1,
+        "id": "me2-87"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "me2-85"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "me1-125"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 1,
+        "id": "me1-121"
+      },
+      {
+        "count": 1,
+        "id": "sv8-185"
+      },
+      {
+        "count": 2,
+        "id": "me3-81"
+      },
+      {
+        "count": 1,
+        "id": "sv10-164"
+      },
+      {
+        "count": 2,
+        "id": "rsv10pt5-82"
+      },
+      {
+        "count": 4,
+        "id": "me1-131"
+      }
+    ],
+    "Trainer - Pokemon tool": [
+      {
+        "count": 2,
+        "id": "zsv10pt5-79"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 11,
+        "id": "sve-2"
+      }
+    ]
+  }
+},
+{
+  "title": "Mega Lucario ex Starter Deck",
+  "id": "82a1c715-6168-4950-8267-3ff1cf1bf9dc",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T01:43:43.102Z",
+  "lastModifiedAt": "2026-07-26T01:53:49.362Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Trainer - Pokemon tool",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "me1-77"
+      },
+      {
+        "count": 4,
+        "id": "me1-76"
+      },
+      {
+        "count": 2,
+        "id": "me1-73"
+      },
+      {
+        "count": 2,
+        "id": "me1-72"
+      },
+      {
+        "count": 2,
+        "id": "me1-74"
+      },
+      {
+        "count": 2,
+        "id": "me1-75"
+      },
+      {
+        "count": 1,
+        "id": "me2pt5-122"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "sv2-172"
+      },
+      {
+        "count": 1,
+        "id": "rsv10pt5-84"
+      },
+      {
+        "count": 1,
+        "id": "sv5-160"
+      },
+      {
+        "count": 1,
+        "id": "me3-85"
+      },
+      {
+        "count": 1,
+        "id": "sv10-176"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv8-177"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "me1-116"
+      },
+      {
+        "count": 4,
+        "id": "me1-124"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 2,
+        "id": "me1-130"
+      },
+      {
+        "count": 1,
+        "id": "me3-81"
+      },
+      {
+        "count": 3,
+        "id": "me1-131"
+      }
+    ],
+    "Trainer - Pokemon tool": [
+      {
+        "count": 1,
+        "id": "sv5-154"
+      },
+      {
+        "count": 2,
+        "id": "zsv10pt5-79"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 10,
+        "id": "sve-6"
+      }
+    ]
+  }
+},
+{
+  "title": "Mega Manectric ex Starter Deck",
+  "id": "7253b425-9ae6-4624-9400-63cd051ae7fb",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T01:55:53.448Z",
+  "lastModifiedAt": "2026-07-26T02:00:26.913Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Trainer - Pokemon tool",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "me1-50"
+      },
+      {
+        "count": 3,
+        "id": "me1-49"
+      },
+      {
+        "count": 1,
+        "id": "me2pt5-61"
+      },
+      {
+        "count": 4,
+        "id": "zsv10pt5-31"
+      },
+      {
+        "count": 4,
+        "id": "zsv10pt5-30"
+      },
+      {
+        "count": 1,
+        "id": "zsv10pt5-34"
+      },
+      {
+        "count": 1,
+        "id": "sv10-78"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 3,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      },
+      {
+        "count": 2,
+        "id": "sv6-145"
+      },
+      {
+        "count": 2,
+        "id": "sv9-149"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 1,
+        "id": "me2pt5-185"
+      },
+      {
+        "count": 1,
+        "id": "sv10-176"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv8-177"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "sv8pt5-101"
+      },
+      {
+        "count": 4,
+        "id": "me1-131"
+      },
+      {
+        "count": 2,
+        "id": "me3-81"
+      },
+      {
+        "count": 1,
+        "id": "me3-72"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 1,
+        "id": "sv6-163"
+      },
+      {
+        "count": 1,
+        "id": "me1-130"
+      }
+    ],
+    "Trainer - Pokemon tool": [
+      {
+        "count": 2,
+        "id": "zsv10pt5-79"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 10,
+        "id": "sve-4"
+      }
+    ]
+  }
+},
+{
+  "title": "Mega Sharpedo ex Starter Deck",
+  "id": "feacd925-e7a0-4988-a0c6-a1f60e5d6a96",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T02:07:54.292Z",
+  "lastModifiedAt": "2026-07-26T02:10:39.572Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Item",
+      "Trainer - Pokemon tool",
+      "Trainer - Stadium",
+      "Energy - Special",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "me2-61"
+      },
+      {
+        "count": 3,
+        "id": "me2-68"
+      },
+      {
+        "count": 1,
+        "id": "me2-62"
+      },
+      {
+        "count": 3,
+        "id": "me2-60"
+      },
+      {
+        "count": 4,
+        "id": "me2-67"
+      },
+      {
+        "count": 2,
+        "id": "sv6-95"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-39"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me2-90"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      },
+      {
+        "count": 1,
+        "id": "rsv10pt5-84"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-59"
+      },
+      {
+        "count": 1,
+        "id": "sv10-176"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "sv5-144"
+      },
+      {
+        "count": 3,
+        "id": "me1-131"
+      },
+      {
+        "count": 2,
+        "id": "me2pt5-198"
+      },
+      {
+        "count": 1,
+        "id": "sv10-164"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-61"
+      }
+    ],
+    "Trainer - Pokemon tool": [
+      {
+        "count": 2,
+        "id": "me2pt5-181"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-55"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv6pt5-54"
+      }
+    ],
+    "Energy - Special": [
+      {
+        "count": 1,
+        "id": "sv6-167"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 10,
+        "id": "sve-7"
+      }
+    ]
+  }
+},
+{
+  "title": "Mega Venusaur ex Starter Deck",
+  "id": "8c5c4b01-af3b-4df5-a04f-9c031e3e5c8a",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T02:13:31.500Z",
+  "lastModifiedAt": "2026-07-26T02:17:09.352Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "me1-3"
+      },
+      {
+        "count": 4,
+        "id": "sv6-25"
+      },
+      {
+        "count": 2,
+        "id": "me1-10"
+      },
+      {
+        "count": 3,
+        "id": "me1-2"
+      },
+      {
+        "count": 3,
+        "id": "me1-1"
+      },
+      {
+        "count": 2,
+        "id": "me1-9"
+      },
+      {
+        "count": 2,
+        "id": "me1-8"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me2-87"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-57"
+      },
+      {
+        "count": 1,
+        "id": "sv6-155"
+      },
+      {
+        "count": 1,
+        "id": "sv10-176"
+      },
+      {
+        "count": 1,
+        "id": "me1-132"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 4,
+        "id": "me1-117"
+      },
+      {
+        "count": 1,
+        "id": "sv7-136"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "sv6-143"
+      },
+      {
+        "count": 3,
+        "id": "me1-131"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 2,
+        "id": "me3-81"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 10,
+        "id": "sve-1"
+      }
+    ]
+  }
+},
+{
+  "title": "N's Zoroark ex Starter Deck",
+  "id": "55098c74-bfdb-4827-93cb-547945f4580b",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T02:17:57.374Z",
+  "lastModifiedAt": "2026-07-26T02:19:39.662Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Trainer - Pokemon tool",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 4,
+        "id": "sv9-98"
+      },
+      {
+        "count": 4,
+        "id": "sv9-97"
+      },
+      {
+        "count": 2,
+        "id": "sv9-27"
+      },
+      {
+        "count": 2,
+        "id": "sv9-26"
+      },
+      {
+        "count": 1,
+        "id": "me2pt5-155"
+      },
+      {
+        "count": 1,
+        "id": "sv9-116"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-39"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 3,
+        "id": "sv8-170"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-59"
+      },
+      {
+        "count": 1,
+        "id": "sv10-176"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv9-152"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "sv5-144"
+      },
+      {
+        "count": 4,
+        "id": "sv9-153"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 2,
+        "id": "me3-81"
+      },
+      {
+        "count": 2,
+        "id": "me1-131"
+      },
+      {
+        "count": 1,
+        "id": "sv10-164"
+      },
+      {
+        "count": 1,
+        "id": "sv9-156"
+      }
+    ],
+    "Trainer - Pokemon tool": [
+      {
+        "count": 1,
+        "id": "zsv10pt5-79"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-55"
+      },
+      {
+        "count": 1,
+        "id": "sv5-152"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-63"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 8,
+        "id": "sve-7"
+      }
+    ]
+  }
+},
+{
+  "title": "Steven’s Metagross ex Starter Deck",
+  "id": "d2d6057e-12a5-4d52-a398-d57574a6c74c",
+  "cardCount": 60,
+  "createdAt": "2026-07-26T02:19:56.727Z",
+  "lastModifiedAt": "2026-07-26T02:21:36.730Z",
+  "game": "Pokemon",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Pokemon",
+      "Trainer - Supporter",
+      "Trainer - Stadium",
+      "Trainer - Item",
+      "Energy"
+    ],
+    "Pokemon": [
+      {
+        "count": 3,
+        "id": "sv10-145"
+      },
+      {
+        "count": 2,
+        "id": "sv10-144"
+      },
+      {
+        "count": 3,
+        "id": "sv10-143"
+      },
+      {
+        "count": 2,
+        "id": "rsv10pt5-45"
+      },
+      {
+        "count": 2,
+        "id": "rsv10pt5-44"
+      },
+      {
+        "count": 1,
+        "id": "me1-94"
+      },
+      {
+        "count": 1,
+        "id": "sv6pt5-38"
+      },
+      {
+        "count": 1,
+        "id": "zsv10pt5-67"
+      },
+      {
+        "count": 1,
+        "id": "me3-55"
+      },
+      {
+        "count": 1,
+        "id": "me3-62"
+      }
+    ],
+    "Trainer - Supporter": [
+      {
+        "count": 4,
+        "id": "me1-119"
+      },
+      {
+        "count": 2,
+        "id": "me1-114"
+      },
+      {
+        "count": 2,
+        "id": "me2-87"
+      },
+      {
+        "count": 2,
+        "id": "me3-76"
+      },
+      {
+        "count": 2,
+        "id": "sv10-176"
+      }
+    ],
+    "Trainer - Stadium": [
+      {
+        "count": 2,
+        "id": "sv5-148"
+      }
+    ],
+    "Trainer - Item": [
+      {
+        "count": 4,
+        "id": "me1-131"
+      },
+      {
+        "count": 2,
+        "id": "sv5-144"
+      },
+      {
+        "count": 2,
+        "id": "sv6pt5-61"
+      },
+      {
+        "count": 2,
+        "id": "me1-125"
+      },
+      {
+        "count": 1,
+        "id": "sv10-164"
+      },
+      {
+        "count": 1,
+        "id": "sv6-165"
+      },
+      {
+        "count": 2,
+        "id": "me1-130"
+      },
+      {
+        "count": 3,
+        "id": "me3-81"
+      }
+    ],
+    "Energy": [
+      {
+        "count": 6,
+        "id": "sve-8"
+      },
+      {
+        "count": 6,
+        "id": "sve-5"
+      }
+    ]
+  }
+}]
