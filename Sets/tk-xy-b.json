@@ -1,0 +1,397 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-b",
+    "name": "XY trainer Kit (Bisharp)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2014-11-01",
+    "code": "TK7A",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:32.816Z",
+  "cards": {
+    "tk-xy-b-2": {
+      "id": "tk-xy-b-2",
+      "localId": "2",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-1": {
+      "id": "tk-xy-b-1",
+      "localId": "1",
+      "set": "tk-xy-b",
+      "name": "Fletchling",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-5": {
+      "id": "tk-xy-b-5",
+      "localId": "5",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-3": {
+      "id": "tk-xy-b-3",
+      "localId": "3",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-7": {
+      "id": "tk-xy-b-7",
+      "localId": "7",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-10": {
+      "id": "tk-xy-b-10",
+      "localId": "10",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-8": {
+      "id": "tk-xy-b-8",
+      "localId": "8",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-9": {
+      "id": "tk-xy-b-9",
+      "localId": "9",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-11": {
+      "id": "tk-xy-b-11",
+      "localId": "11",
+      "set": "tk-xy-b",
+      "name": "Honedge",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-14": {
+      "id": "tk-xy-b-14",
+      "localId": "14",
+      "set": "tk-xy-b",
+      "name": "Doublade",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-13": {
+      "id": "tk-xy-b-13",
+      "localId": "13",
+      "set": "tk-xy-b",
+      "name": "Pawniard",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-15": {
+      "id": "tk-xy-b-15",
+      "localId": "15",
+      "set": "tk-xy-b",
+      "name": "Slakoth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-4": {
+      "id": "tk-xy-b-4",
+      "localId": "4",
+      "set": "tk-xy-b",
+      "name": "Vigoroth",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-17": {
+      "id": "tk-xy-b-17",
+      "localId": "17",
+      "set": "tk-xy-b",
+      "name": "Patrat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-16": {
+      "id": "tk-xy-b-16",
+      "localId": "16",
+      "set": "tk-xy-b",
+      "name": "Bisharp",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-6": {
+      "id": "tk-xy-b-6",
+      "localId": "6",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-12": {
+      "id": "tk-xy-b-12",
+      "localId": "12",
+      "set": "tk-xy-b",
+      "name": "Bidoof",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-18": {
+      "id": "tk-xy-b-18",
+      "localId": "18",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-21": {
+      "id": "tk-xy-b-21",
+      "localId": "21",
+      "set": "tk-xy-b",
+      "name": "Pawniard",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-20": {
+      "id": "tk-xy-b-20",
+      "localId": "20",
+      "set": "tk-xy-b",
+      "name": "Trevor",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:32:52+01:00"
+    },
+    "tk-xy-b-19": {
+      "id": "tk-xy-b-19",
+      "localId": "19",
+      "set": "tk-xy-b",
+      "name": "Tierno",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:32:52+01:00"
+    },
+    "tk-xy-b-22": {
+      "id": "tk-xy-b-22",
+      "localId": "22",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-23": {
+      "id": "tk-xy-b-23",
+      "localId": "23",
+      "set": "tk-xy-b",
+      "name": "Doublade",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-24": {
+      "id": "tk-xy-b-24",
+      "localId": "24",
+      "set": "tk-xy-b",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-25": {
+      "id": "tk-xy-b-25",
+      "localId": "25",
+      "set": "tk-xy-b",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-26": {
+      "id": "tk-xy-b-26",
+      "localId": "26",
+      "set": "tk-xy-b",
+      "name": "Slakoth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-27": {
+      "id": "tk-xy-b-27",
+      "localId": "27",
+      "set": "tk-xy-b",
+      "name": "Honedge",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-28": {
+      "id": "tk-xy-b-28",
+      "localId": "28",
+      "set": "tk-xy-b",
+      "name": "Vigoroth",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-29": {
+      "id": "tk-xy-b-29",
+      "localId": "29",
+      "set": "tk-xy-b",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-b-30": {
+      "id": "tk-xy-b-30",
+      "localId": "30",
+      "set": "tk-xy-b",
+      "name": "Bisharp",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    }
+  }
+}

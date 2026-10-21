@@ -1,0 +1,202 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2014xy",
+    "name": "McDonald's Collection 2014",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2014-05-23",
+    "code": "MCD14",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:32.314Z",
+  "cards": {
+    "2014xy-4": {
+      "id": "2014xy-4",
+      "localId": "4",
+      "set": "2014xy",
+      "name": "Froakie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-3": {
+      "id": "2014xy-3",
+      "localId": "3",
+      "set": "2014xy",
+      "name": "Fennekin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-5": {
+      "id": "2014xy-5",
+      "localId": "5",
+      "set": "2014xy",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-2": {
+      "id": "2014xy-2",
+      "localId": "2",
+      "set": "2014xy",
+      "name": "Chespin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-1": {
+      "id": "2014xy-1",
+      "localId": "1",
+      "set": "2014xy",
+      "name": "Weedle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-6": {
+      "id": "2014xy-6",
+      "localId": "6",
+      "set": "2014xy",
+      "name": "Inkay",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-7": {
+      "id": "2014xy-7",
+      "localId": "7",
+      "set": "2014xy",
+      "name": "Honedge",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-8": {
+      "id": "2014xy-8",
+      "localId": "8",
+      "set": "2014xy",
+      "name": "Snubbull",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-11": {
+      "id": "2014xy-11",
+      "localId": "11",
+      "set": "2014xy",
+      "name": "Fletchling",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-9": {
+      "id": "2014xy-9",
+      "localId": "9",
+      "set": "2014xy",
+      "name": "Swirlix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-12": {
+      "id": "2014xy-12",
+      "localId": "12",
+      "set": "2014xy",
+      "name": "Furfrou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2014xy-10": {
+      "id": "2014xy-10",
+      "localId": "10",
+      "set": "2014xy",
+      "name": "Bunnelby",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-04-19T20:57:59Z"
+    }
+  }
+}

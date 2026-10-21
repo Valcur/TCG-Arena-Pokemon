@@ -1,0 +1,391 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-sm-r",
+    "name": "SM trainer Kit (Alolan Raichu)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2017-04-21",
+    "code": "TK10A",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 29,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:38.612Z",
+  "cards": {
+    "tk-sm-r-2": {
+      "id": "tk-sm-r-2",
+      "localId": "2",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-08-03T19:18:38+01:00"
+    },
+    "tk-sm-r-3": {
+      "id": "tk-sm-r-3",
+      "localId": "3",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-6": {
+      "id": "tk-sm-r-6",
+      "localId": "6",
+      "set": "tk-sm-r",
+      "name": "Golbat",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-1": {
+      "id": "tk-sm-r-1",
+      "localId": "1",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-4": {
+      "id": "tk-sm-r-4",
+      "localId": "4",
+      "set": "tk-sm-r",
+      "name": "Stufful",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-5": {
+      "id": "tk-sm-r-5",
+      "localId": "5",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-7": {
+      "id": "tk-sm-r-7",
+      "localId": "7",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-9": {
+      "id": "tk-sm-r-9",
+      "localId": "9",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-8": {
+      "id": "tk-sm-r-8",
+      "localId": "8",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-11": {
+      "id": "tk-sm-r-11",
+      "localId": "11",
+      "set": "tk-sm-r",
+      "name": "Zubat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-12": {
+      "id": "tk-sm-r-12",
+      "localId": "12",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-10": {
+      "id": "tk-sm-r-10",
+      "localId": "10",
+      "set": "tk-sm-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-14": {
+      "id": "tk-sm-r-14",
+      "localId": "14",
+      "set": "tk-sm-r",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-13": {
+      "id": "tk-sm-r-13",
+      "localId": "13",
+      "set": "tk-sm-r",
+      "name": "Spearow",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-16": {
+      "id": "tk-sm-r-16",
+      "localId": "16",
+      "set": "tk-sm-r",
+      "name": "Grubbin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-18": {
+      "id": "tk-sm-r-18",
+      "localId": "18",
+      "set": "tk-sm-r",
+      "name": "Bewear",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-17": {
+      "id": "tk-sm-r-17",
+      "localId": "17",
+      "set": "tk-sm-r",
+      "name": "Alolan Raichu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-19": {
+      "id": "tk-sm-r-19",
+      "localId": "19",
+      "set": "tk-sm-r",
+      "name": "Hau",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-20": {
+      "id": "tk-sm-r-20",
+      "localId": "20",
+      "set": "tk-sm-r",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-08-03T19:18:38+01:00"
+    },
+    "tk-sm-r-21": {
+      "id": "tk-sm-r-21",
+      "localId": "21",
+      "set": "tk-sm-r",
+      "name": "Great Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-03T19:18:38+01:00"
+    },
+    "tk-sm-r-25": {
+      "id": "tk-sm-r-25",
+      "localId": "25",
+      "set": "tk-sm-r",
+      "name": "Great Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-03T19:18:38+01:00"
+    },
+    "tk-sm-r-24": {
+      "id": "tk-sm-r-24",
+      "localId": "24",
+      "set": "tk-sm-r",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-26": {
+      "id": "tk-sm-r-26",
+      "localId": "26",
+      "set": "tk-sm-r",
+      "name": "Togedemaru",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-27": {
+      "id": "tk-sm-r-27",
+      "localId": "27",
+      "set": "tk-sm-r",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-28": {
+      "id": "tk-sm-r-28",
+      "localId": "28",
+      "set": "tk-sm-r",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-15": {
+      "id": "tk-sm-r-15",
+      "localId": "15",
+      "set": "tk-sm-r",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-03T19:18:38+01:00"
+    },
+    "tk-sm-r-29": {
+      "id": "tk-sm-r-29",
+      "localId": "29",
+      "set": "tk-sm-r",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-23": {
+      "id": "tk-sm-r-23",
+      "localId": "23",
+      "set": "tk-sm-r",
+      "name": "Hau",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-22": {
+      "id": "tk-sm-r-22",
+      "localId": "22",
+      "set": "tk-sm-r",
+      "name": "Drowzee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:35:55+01:00"
+    },
+    "tk-sm-r-30": {
+      "id": "tk-sm-r-30",
+      "localId": "30",
+      "set": "tk-sm-r",
+      "name": "Alolan Raichu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:35:55+01:00"
+    }
+  }
+}

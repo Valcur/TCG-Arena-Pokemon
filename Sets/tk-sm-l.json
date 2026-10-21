@@ -1,0 +1,262 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-sm-l",
+    "name": "SM trainer Kit (Lycanroc)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2017-04-21",
+    "code": "TK10L",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 17,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:48:36.867Z",
+  "cards": {
+    "tk-sm-l-1": {
+      "id": "tk-sm-l-1",
+      "localId": "1",
+      "set": "tk-sm-l",
+      "name": "Caterpie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-4": {
+      "id": "tk-sm-l-4",
+      "localId": "4",
+      "set": "tk-sm-l",
+      "name": "Trumbeak",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-5": {
+      "id": "tk-sm-l-5",
+      "localId": "5",
+      "set": "tk-sm-l",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-08-03T19:17:46+01:00"
+    },
+    "tk-sm-l-11": {
+      "id": "tk-sm-l-11",
+      "localId": "11",
+      "set": "tk-sm-l",
+      "name": "Fletchling",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-12": {
+      "id": "tk-sm-l-12",
+      "localId": "12",
+      "set": "tk-sm-l",
+      "name": "Yungoos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-13": {
+      "id": "tk-sm-l-13",
+      "localId": "13",
+      "set": "tk-sm-l",
+      "name": "Fletchinder",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-14": {
+      "id": "tk-sm-l-14",
+      "localId": "14",
+      "set": "tk-sm-l",
+      "name": "Rockruff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-15": {
+      "id": "tk-sm-l-15",
+      "localId": "15",
+      "set": "tk-sm-l",
+      "name": "Pikipek",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-16": {
+      "id": "tk-sm-l-16",
+      "localId": "16",
+      "set": "tk-sm-l",
+      "name": "Lycanroc",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-18": {
+      "id": "tk-sm-l-18",
+      "localId": "18",
+      "set": "tk-sm-l",
+      "name": "Makuhita",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-19": {
+      "id": "tk-sm-l-19",
+      "localId": "19",
+      "set": "tk-sm-l",
+      "name": "Hau",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-21": {
+      "id": "tk-sm-l-21",
+      "localId": "21",
+      "set": "tk-sm-l",
+      "name": "Great Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-03T19:17:46+01:00"
+    },
+    "tk-sm-l-22": {
+      "id": "tk-sm-l-22",
+      "localId": "22",
+      "set": "tk-sm-l",
+      "name": "Toucannon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 140,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-23": {
+      "id": "tk-sm-l-23",
+      "localId": "23",
+      "set": "tk-sm-l",
+      "name": "Hau",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-25": {
+      "id": "tk-sm-l-25",
+      "localId": "25",
+      "set": "tk-sm-l",
+      "name": "Great Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-03T19:17:46+01:00"
+    },
+    "tk-sm-l-27": {
+      "id": "tk-sm-l-27",
+      "localId": "27",
+      "set": "tk-sm-l",
+      "name": "Big Malasada",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-29": {
+      "id": "tk-sm-l-29",
+      "localId": "29",
+      "set": "tk-sm-l",
+      "name": "Rockruff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    },
+    "tk-sm-l-30": {
+      "id": "tk-sm-l-30",
+      "localId": "30",
+      "set": "tk-sm-l",
+      "name": "Lycanroc",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:14:47+01:00"
+    }
+  }
+}

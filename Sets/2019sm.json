@@ -1,0 +1,202 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2019sm",
+    "name": "McDonald's Collection 2019",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2019-10-15",
+    "code": "MCD19",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:46.853Z",
+  "cards": {
+    "2019sm-2": {
+      "id": "2019sm-2",
+      "localId": "2",
+      "set": "2019sm",
+      "name": "Alolan Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 160,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-4": {
+      "id": "2019sm-4",
+      "localId": "4",
+      "set": "2019sm",
+      "name": "Alolan Sandshrew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-3": {
+      "id": "2019sm-3",
+      "localId": "3",
+      "set": "2019sm",
+      "name": "Magmar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-6": {
+      "id": "2019sm-6",
+      "localId": "6",
+      "set": "2019sm",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-5": {
+      "id": "2019sm-5",
+      "localId": "5",
+      "set": "2019sm",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-1": {
+      "id": "2019sm-1",
+      "localId": "1",
+      "set": "2019sm",
+      "name": "Caterpie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-8": {
+      "id": "2019sm-8",
+      "localId": "8",
+      "set": "2019sm",
+      "name": "Mankey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-10": {
+      "id": "2019sm-10",
+      "localId": "10",
+      "set": "2019sm",
+      "name": "Alolan Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-12": {
+      "id": "2019sm-12",
+      "localId": "12",
+      "set": "2019sm",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-7": {
+      "id": "2019sm-7",
+      "localId": "7",
+      "set": "2019sm",
+      "name": "Gastly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-11": {
+      "id": "2019sm-11",
+      "localId": "11",
+      "set": "2019sm",
+      "name": "Alolan Dugtrio",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T18:19:01Z"
+    },
+    "2019sm-9": {
+      "id": "2019sm-9",
+      "localId": "9",
+      "set": "2019sm",
+      "name": "Onix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T18:19:01Z"
+    }
+  }
+}

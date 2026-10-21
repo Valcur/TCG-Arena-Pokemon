@@ -1,0 +1,402 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-latia",
+    "name": "XY trainer Kit (Latias)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2015-04-29",
+    "code": "TK8A",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:33.879Z",
+  "cards": {
+    "tk-xy-latia-3": {
+      "id": "tk-xy-latia-3",
+      "localId": "3",
+      "set": "tk-xy-latia",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-4": {
+      "id": "tk-xy-latia-4",
+      "localId": "4",
+      "set": "tk-xy-latia",
+      "name": "Fletchling",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:33:51+01:00"
+    },
+    "tk-xy-latia-2": {
+      "id": "tk-xy-latia-2",
+      "localId": "2",
+      "set": "tk-xy-latia",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-1": {
+      "id": "tk-xy-latia-1",
+      "localId": "1",
+      "set": "tk-xy-latia",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-6": {
+      "id": "tk-xy-latia-6",
+      "localId": "6",
+      "set": "tk-xy-latia",
+      "name": "Lombre",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-7": {
+      "id": "tk-xy-latia-7",
+      "localId": "7",
+      "set": "tk-xy-latia",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-8": {
+      "id": "tk-xy-latia-8",
+      "localId": "8",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-10": {
+      "id": "tk-xy-latia-10",
+      "localId": "10",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-11": {
+      "id": "tk-xy-latia-11",
+      "localId": "11",
+      "set": "tk-xy-latia",
+      "name": "Lotad",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-9": {
+      "id": "tk-xy-latia-9",
+      "localId": "9",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-13": {
+      "id": "tk-xy-latia-13",
+      "localId": "13",
+      "set": "tk-xy-latia",
+      "name": "Tangela",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-12": {
+      "id": "tk-xy-latia-12",
+      "localId": "12",
+      "set": "tk-xy-latia",
+      "name": "Tangrowth",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-15": {
+      "id": "tk-xy-latia-15",
+      "localId": "15",
+      "set": "tk-xy-latia",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-14": {
+      "id": "tk-xy-latia-14",
+      "localId": "14",
+      "set": "tk-xy-latia",
+      "name": "Latias",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:33:51+01:00"
+    },
+    "tk-xy-latia-16": {
+      "id": "tk-xy-latia-16",
+      "localId": "16",
+      "set": "tk-xy-latia",
+      "name": "Surskit",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-17": {
+      "id": "tk-xy-latia-17",
+      "localId": "17",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-5": {
+      "id": "tk-xy-latia-5",
+      "localId": "5",
+      "set": "tk-xy-latia",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-18": {
+      "id": "tk-xy-latia-18",
+      "localId": "18",
+      "set": "tk-xy-latia",
+      "name": "Grovyle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-19": {
+      "id": "tk-xy-latia-19",
+      "localId": "19",
+      "set": "tk-xy-latia",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-20": {
+      "id": "tk-xy-latia-20",
+      "localId": "20",
+      "set": "tk-xy-latia",
+      "name": "Acro Bike",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:33:51+01:00"
+    },
+    "tk-xy-latia-21": {
+      "id": "tk-xy-latia-21",
+      "localId": "21",
+      "set": "tk-xy-latia",
+      "name": "Lombre",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-25": {
+      "id": "tk-xy-latia-25",
+      "localId": "25",
+      "set": "tk-xy-latia",
+      "name": "Tangrowth",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-23": {
+      "id": "tk-xy-latia-23",
+      "localId": "23",
+      "set": "tk-xy-latia",
+      "name": "Lotad",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-24": {
+      "id": "tk-xy-latia-24",
+      "localId": "24",
+      "set": "tk-xy-latia",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-22": {
+      "id": "tk-xy-latia-22",
+      "localId": "22",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-26": {
+      "id": "tk-xy-latia-26",
+      "localId": "26",
+      "set": "tk-xy-latia",
+      "name": "Tangela",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-27": {
+      "id": "tk-xy-latia-27",
+      "localId": "27",
+      "set": "tk-xy-latia",
+      "name": "Grovyle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latia-30": {
+      "id": "tk-xy-latia-30",
+      "localId": "30",
+      "set": "tk-xy-latia",
+      "name": "Latias",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:33:51+01:00"
+    },
+    "tk-xy-latia-29": {
+      "id": "tk-xy-latia-29",
+      "localId": "29",
+      "set": "tk-xy-latia",
+      "name": "Acro Bike",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:33:51+01:00"
+    },
+    "tk-xy-latia-28": {
+      "id": "tk-xy-latia-28",
+      "localId": "28",
+      "set": "tk-xy-latia",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    }
+  }
+}

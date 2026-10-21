@@ -1,0 +1,407 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "hgssp",
+    "name": "HGSS Black Star Promos",
+    "serie": "hgss",
+    "serieName": "HeartGold & SoulSilver",
+    "releaseDate": "2010-02-11",
+    "code": "PR-HS",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 26,
+      "normal": 7,
+      "official": 25,
+      "reverse": 0,
+      "total": 25
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:21.734Z",
+  "cards": {
+    "hgssp-HGSS02": {
+      "id": "hgssp-HGSS02",
+      "localId": "HGSS02",
+      "set": "hgssp",
+      "name": "Lugia",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS03": {
+      "id": "hgssp-HGSS03",
+      "localId": "HGSS03",
+      "set": "hgssp",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS04": {
+      "id": "hgssp-HGSS04",
+      "localId": "HGSS04",
+      "set": "hgssp",
+      "name": "Wobbuffet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04",
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "hgssp-HGSS05": {
+      "id": "hgssp-HGSS05",
+      "localId": "HGSS05",
+      "set": "hgssp",
+      "name": "Hoothoot",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS06": {
+      "id": "hgssp-HGSS06",
+      "localId": "HGSS06",
+      "set": "hgssp",
+      "name": "Noctowl",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS08": {
+      "id": "hgssp-HGSS08",
+      "localId": "HGSS08",
+      "set": "hgssp",
+      "name": "Meganium",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08",
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "hgssp-HGSS07": {
+      "id": "hgssp-HGSS07",
+      "localId": "HGSS07",
+      "set": "hgssp",
+      "name": "Feraligatr",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS09": {
+      "id": "hgssp-HGSS09",
+      "localId": "HGSS09",
+      "set": "hgssp",
+      "name": "Typhlosion",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS10": {
+      "id": "hgssp-HGSS10",
+      "localId": "HGSS10",
+      "set": "hgssp",
+      "name": "Latias",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS11": {
+      "id": "hgssp-HGSS11",
+      "localId": "HGSS11",
+      "set": "hgssp",
+      "name": "Latios",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS01": {
+      "id": "hgssp-HGSS01",
+      "localId": "HGSS01",
+      "set": "hgssp",
+      "name": "Ho-Oh",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS12": {
+      "id": "hgssp-HGSS12",
+      "localId": "HGSS12",
+      "set": "hgssp",
+      "name": "Cleffa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12",
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "hgssp-HGSS13": {
+      "id": "hgssp-HGSS13",
+      "localId": "HGSS13",
+      "set": "hgssp",
+      "name": "Smoochum",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS15": {
+      "id": "hgssp-HGSS15",
+      "localId": "HGSS15",
+      "set": "hgssp",
+      "name": "Shuckle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS17": {
+      "id": "hgssp-HGSS17",
+      "localId": "HGSS17",
+      "set": "hgssp",
+      "name": "Minun",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "hgssp-HGSS18": {
+      "id": "hgssp-HGSS18",
+      "localId": "HGSS18",
+      "set": "hgssp",
+      "name": "Tropical Tidal Wave",
+      "category": "Trainer",
+      "rarity": "Promo",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS19": {
+      "id": "hgssp-HGSS19",
+      "localId": "HGSS19",
+      "set": "hgssp",
+      "name": "Raikou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS20": {
+      "id": "hgssp-HGSS20",
+      "localId": "HGSS20",
+      "set": "hgssp",
+      "name": "Entei",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS21": {
+      "id": "hgssp-HGSS21",
+      "localId": "HGSS21",
+      "set": "hgssp",
+      "name": "Suicune",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS22": {
+      "id": "hgssp-HGSS22",
+      "localId": "HGSS22",
+      "set": "hgssp",
+      "name": "Porygon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS23": {
+      "id": "hgssp-HGSS23",
+      "localId": "HGSS23",
+      "set": "hgssp",
+      "name": "Porygon2",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS14": {
+      "id": "hgssp-HGSS14",
+      "localId": "HGSS14",
+      "set": "hgssp",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14",
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS24": {
+      "id": "hgssp-HGSS24",
+      "localId": "HGSS24",
+      "set": "hgssp",
+      "name": "Hitmonchan",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS25": {
+      "id": "hgssp-HGSS25",
+      "localId": "HGSS25",
+      "set": "hgssp",
+      "name": "Hitmonlee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-03T19:24:27+01:00"
+    },
+    "hgssp-HGSS16": {
+      "id": "hgssp-HGSS16",
+      "localId": "HGSS16",
+      "set": "hgssp",
+      "name": "Plusle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16",
+      "updated": "2026-08-03T19:24:27+01:00"
+    }
+  }
+}

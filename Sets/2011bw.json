@@ -1,0 +1,190 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2011bw",
+    "name": "McDonald's Collection 2011",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2011-06-17",
+    "code": "MCD11",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:24.110Z",
+  "cards": {
+    "2011bw-2": {
+      "id": "2011bw-2",
+      "localId": "2",
+      "set": "2011bw",
+      "name": "Maractus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-4": {
+      "id": "2011bw-4",
+      "localId": "4",
+      "set": "2011bw",
+      "name": "Oshawott",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-6": {
+      "id": "2011bw-6",
+      "localId": "6",
+      "set": "2011bw",
+      "name": "Blitzle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-1": {
+      "id": "2011bw-1",
+      "localId": "1",
+      "set": "2011bw",
+      "name": "Snivy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-3": {
+      "id": "2011bw-3",
+      "localId": "3",
+      "set": "2011bw",
+      "name": "Tepig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-5": {
+      "id": "2011bw-5",
+      "localId": "5",
+      "set": "2011bw",
+      "name": "Alomomola",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-7": {
+      "id": "2011bw-7",
+      "localId": "7",
+      "set": "2011bw",
+      "name": "Munna",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-9": {
+      "id": "2011bw-9",
+      "localId": "9",
+      "set": "2011bw",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Darkness"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-11": {
+      "id": "2011bw-11",
+      "localId": "11",
+      "set": "2011bw",
+      "name": "Pidove",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-10": {
+      "id": "2011bw-10",
+      "localId": "10",
+      "set": "2011bw",
+      "name": "Klink",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Metal"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-8": {
+      "id": "2011bw-8",
+      "localId": "8",
+      "set": "2011bw",
+      "name": "Sandile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    },
+    "2011bw-12": {
+      "id": "2011bw-12",
+      "localId": "12",
+      "set": "2011bw",
+      "name": "Audino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "updated": "2026-08-13T20:58:05+01:00"
+    }
+  }
+}

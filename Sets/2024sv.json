@@ -1,0 +1,247 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2024sv",
+    "name": "McDonald's Collection 2024",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2024-12-04",
+    "code": "MCD24",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 7,
+      "normal": 8,
+      "official": 15,
+      "reverse": 0,
+      "total": 15
+    }
+  },
+  "updatedAt": "2026-10-21T16:26:08.703Z",
+  "cards": {
+    "2024sv-4": {
+      "id": "2024sv-4",
+      "localId": "4",
+      "set": "2024sv",
+      "name": "Jigglypuff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-5": {
+      "id": "2024sv-5",
+      "localId": "5",
+      "set": "2024sv",
+      "name": "Hatenna",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-2": {
+      "id": "2024sv-2",
+      "localId": "2",
+      "set": "2024sv",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-1": {
+      "id": "2024sv-1",
+      "localId": "1",
+      "set": "2024sv",
+      "name": "Charizard",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 170,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-6": {
+      "id": "2024sv-6",
+      "localId": "6",
+      "set": "2024sv",
+      "name": "Dragapult",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-3": {
+      "id": "2024sv-3",
+      "localId": "3",
+      "set": "2024sv",
+      "name": "Miraidon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-8": {
+      "id": "2024sv-8",
+      "localId": "8",
+      "set": "2024sv",
+      "name": "Koraidon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-12": {
+      "id": "2024sv-12",
+      "localId": "12",
+      "set": "2024sv",
+      "name": "Dragonite",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 160,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-11": {
+      "id": "2024sv-11",
+      "localId": "11",
+      "set": "2024sv",
+      "name": "Roaring Moon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-9": {
+      "id": "2024sv-9",
+      "localId": "9",
+      "set": "2024sv",
+      "name": "Umbreon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-10": {
+      "id": "2024sv-10",
+      "localId": "10",
+      "set": "2024sv",
+      "name": "Hydreigon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 180,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-7": {
+      "id": "2024sv-7",
+      "localId": "7",
+      "set": "2024sv",
+      "name": "Quagsire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-29T18:16:43Z"
+    },
+    "2024sv-14": {
+      "id": "2024sv-14",
+      "localId": "14",
+      "set": "2024sv",
+      "name": "Rayquaza",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-10T22:19:20Z"
+    },
+    "2024sv-15": {
+      "id": "2024sv-15",
+      "localId": "15",
+      "set": "2024sv",
+      "name": "Drampa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T13:48:43+01:00"
+    },
+    "2024sv-13": {
+      "id": "2024sv-13",
+      "localId": "13",
+      "set": "2024sv",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T13:48:43+01:00"
+    }
+  }
+}

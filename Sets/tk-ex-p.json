@@ -1,0 +1,187 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-ex-p",
+    "name": "EX trainer Kit 2 (Plusle)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2006-03-01",
+    "code": "TK2P",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 11,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:11.321Z",
+  "cards": {
+    "tk-ex-p-2": {
+      "id": "tk-ex-p-2",
+      "localId": "2",
+      "set": "tk-ex-p",
+      "name": "Electrike",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-6": {
+      "id": "tk-ex-p-6",
+      "localId": "6",
+      "set": "tk-ex-p",
+      "name": "Plusle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-1": {
+      "id": "tk-ex-p-1",
+      "localId": "1",
+      "set": "tk-ex-p",
+      "name": "Beldum",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-5": {
+      "id": "tk-ex-p-5",
+      "localId": "5",
+      "set": "tk-ex-p",
+      "name": "Metang",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "tk-ex-p-10": {
+      "id": "tk-ex-p-10",
+      "localId": "10",
+      "set": "tk-ex-p",
+      "name": "Professor Cozmo's Discovery",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-7": {
+      "id": "tk-ex-p-7",
+      "localId": "7",
+      "set": "tk-ex-p",
+      "name": "Spoink",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-9": {
+      "id": "tk-ex-p-9",
+      "localId": "9",
+      "set": "tk-ex-p",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-8": {
+      "id": "tk-ex-p-8",
+      "localId": "8",
+      "set": "tk-ex-p",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-3": {
+      "id": "tk-ex-p-3",
+      "localId": "3",
+      "set": "tk-ex-p",
+      "name": "Grumpig",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-4": {
+      "id": "tk-ex-p-4",
+      "localId": "4",
+      "set": "tk-ex-p",
+      "name": "Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-12": {
+      "id": "tk-ex-p-12",
+      "localId": "12",
+      "set": "tk-ex-p",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-13T20:25:25+01:00"
+    },
+    "tk-ex-p-11": {
+      "id": "tk-ex-p-11",
+      "localId": "11",
+      "set": "tk-ex-p",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:25:25+01:00"
+    }
+  }
+}

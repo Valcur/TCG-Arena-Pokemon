@@ -1,0 +1,379 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-hs-r",
+    "name": "HS trainer Kit (Raichu)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2010-05-01",
+    "code": "TK4R",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 29,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:21.842Z",
+  "cards": {
+    "tk-hs-r-4": {
+      "id": "tk-hs-r-4",
+      "localId": "4",
+      "set": "tk-hs-r",
+      "name": "Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-5": {
+      "id": "tk-hs-r-5",
+      "localId": "5",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-3": {
+      "id": "tk-hs-r-3",
+      "localId": "3",
+      "set": "tk-hs-r",
+      "name": "Flaaffy",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-6": {
+      "id": "tk-hs-r-6",
+      "localId": "6",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-2": {
+      "id": "tk-hs-r-2",
+      "localId": "2",
+      "set": "tk-hs-r",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-1": {
+      "id": "tk-hs-r-1",
+      "localId": "1",
+      "set": "tk-hs-r",
+      "name": "Moomoo Milk",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-11": {
+      "id": "tk-hs-r-11",
+      "localId": "11",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-8": {
+      "id": "tk-hs-r-8",
+      "localId": "8",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-9": {
+      "id": "tk-hs-r-9",
+      "localId": "9",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-7": {
+      "id": "tk-hs-r-7",
+      "localId": "7",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-10": {
+      "id": "tk-hs-r-10",
+      "localId": "10",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-12": {
+      "id": "tk-hs-r-12",
+      "localId": "12",
+      "set": "tk-hs-r",
+      "name": "Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-15": {
+      "id": "tk-hs-r-15",
+      "localId": "15",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-13": {
+      "id": "tk-hs-r-13",
+      "localId": "13",
+      "set": "tk-hs-r",
+      "name": "Mareep",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-16": {
+      "id": "tk-hs-r-16",
+      "localId": "16",
+      "set": "tk-hs-r",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-14": {
+      "id": "tk-hs-r-14",
+      "localId": "14",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-18": {
+      "id": "tk-hs-r-18",
+      "localId": "18",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-17": {
+      "id": "tk-hs-r-17",
+      "localId": "17",
+      "set": "tk-hs-r",
+      "name": "Flaaffy",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-19": {
+      "id": "tk-hs-r-19",
+      "localId": "19",
+      "set": "tk-hs-r",
+      "name": "Raichu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-23": {
+      "id": "tk-hs-r-23",
+      "localId": "23",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-20": {
+      "id": "tk-hs-r-20",
+      "localId": "20",
+      "set": "tk-hs-r",
+      "name": "Mareep",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-21": {
+      "id": "tk-hs-r-21",
+      "localId": "21",
+      "set": "tk-hs-r",
+      "name": "Copycat",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-22": {
+      "id": "tk-hs-r-22",
+      "localId": "22",
+      "set": "tk-hs-r",
+      "name": "Pokémon Collector",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-24": {
+      "id": "tk-hs-r-24",
+      "localId": "24",
+      "set": "tk-hs-r",
+      "name": "Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-25": {
+      "id": "tk-hs-r-25",
+      "localId": "25",
+      "set": "tk-hs-r",
+      "name": "Poké Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-29": {
+      "id": "tk-hs-r-29",
+      "localId": "29",
+      "set": "tk-hs-r",
+      "name": "Energy Switch",
+      "category": "Trainer",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-27": {
+      "id": "tk-hs-r-27",
+      "localId": "27",
+      "set": "tk-hs-r",
+      "name": "Pokémon Collector",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-28": {
+      "id": "tk-hs-r-28",
+      "localId": "28",
+      "set": "tk-hs-r",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-26": {
+      "id": "tk-hs-r-26",
+      "localId": "26",
+      "set": "tk-hs-r",
+      "name": "Moomoo Milk",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    },
+    "tk-hs-r-30": {
+      "id": "tk-hs-r-30",
+      "localId": "30",
+      "set": "tk-hs-r",
+      "name": "Raichu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-27T17:17:00+01:00"
+    }
+  }
+}

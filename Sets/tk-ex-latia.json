@@ -1,0 +1,164 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-ex-latia",
+    "name": "EX trainer Kit (Latias)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2004-07-01",
+    "code": "TK1A",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 9,
+      "official": 10,
+      "reverse": 0,
+      "total": 10
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:05.078Z",
+  "cards": {
+    "tk-ex-latia-2": {
+      "id": "tk-ex-latia-2",
+      "localId": "2",
+      "set": "tk-ex-latia",
+      "name": "Combusken",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-6": {
+      "id": "tk-ex-latia-6",
+      "localId": "6",
+      "set": "tk-ex-latia",
+      "name": "Skitty",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-5": {
+      "id": "tk-ex-latia-5",
+      "localId": "5",
+      "set": "tk-ex-latia",
+      "name": "Numel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-3": {
+      "id": "tk-ex-latia-3",
+      "localId": "3",
+      "set": "tk-ex-latia",
+      "name": "Delcatty",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-4": {
+      "id": "tk-ex-latia-4",
+      "localId": "4",
+      "set": "tk-ex-latia",
+      "name": "Latias",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-8": {
+      "id": "tk-ex-latia-8",
+      "localId": "8",
+      "set": "tk-ex-latia",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-10": {
+      "id": "tk-ex-latia-10",
+      "localId": "10",
+      "set": "tk-ex-latia",
+      "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "types": [
+        "Fire"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-7": {
+      "id": "tk-ex-latia-7",
+      "localId": "7",
+      "set": "tk-ex-latia",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-1": {
+      "id": "tk-ex-latia-1",
+      "localId": "1",
+      "set": "tk-ex-latia",
+      "name": "Bagon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-12T21:56:01+01:00"
+    },
+    "tk-ex-latia-9": {
+      "id": "tk-ex-latia-9",
+      "localId": "9",
+      "set": "tk-ex-latia",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-12T21:56:01+01:00"
+    }
+  }
+}

@@ -1,0 +1,1022 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "swsh12.5gg",
+    "name": "Crown Zenith Galarian Gallery",
+    "serie": "swsh",
+    "serieName": "Sword & Shield",
+    "releaseDate": "2023-01-20",
+    "code": "CRZ",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 70,
+      "normal": 0,
+      "official": 70,
+      "reverse": 0,
+      "total": 70
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:59.680Z",
+  "cards": {
+    "swsh12.5gg-GG01": {
+      "id": "swsh12.5gg-GG01",
+      "localId": "GG01",
+      "set": "swsh12.5gg",
+      "name": "Hisuian Voltorb",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG03": {
+      "id": "swsh12.5gg-GG03",
+      "localId": "GG03",
+      "set": "swsh12.5gg",
+      "name": "Magmortar",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG06": {
+      "id": "swsh12.5gg-GG06",
+      "localId": "GG06",
+      "set": "swsh12.5gg",
+      "name": "Manaphy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG04": {
+      "id": "swsh12.5gg-GG04",
+      "localId": "GG04",
+      "set": "swsh12.5gg",
+      "name": "Oricorio",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG05": {
+      "id": "swsh12.5gg-GG05",
+      "localId": "GG05",
+      "set": "swsh12.5gg",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG07": {
+      "id": "swsh12.5gg-GG07",
+      "localId": "GG07",
+      "set": "swsh12.5gg",
+      "name": "Keldeo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG08": {
+      "id": "swsh12.5gg-GG08",
+      "localId": "GG08",
+      "set": "swsh12.5gg",
+      "name": "Electivire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 140,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG10": {
+      "id": "swsh12.5gg-GG10",
+      "localId": "GG10",
+      "set": "swsh12.5gg",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG09": {
+      "id": "swsh12.5gg-GG09",
+      "localId": "GG09",
+      "set": "swsh12.5gg",
+      "name": "Toxtricity",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG11": {
+      "id": "swsh12.5gg-GG11",
+      "localId": "GG11",
+      "set": "swsh12.5gg",
+      "name": "Lunatone",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG15": {
+      "id": "swsh12.5gg-GG15",
+      "localId": "GG15",
+      "set": "swsh12.5gg",
+      "name": "Solrock",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG12": {
+      "id": "swsh12.5gg-GG12",
+      "localId": "GG12",
+      "set": "swsh12.5gg",
+      "name": "Deoxys",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG13": {
+      "id": "swsh12.5gg-GG13",
+      "localId": "GG13",
+      "set": "swsh12.5gg",
+      "name": "Diancie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG16": {
+      "id": "swsh12.5gg-GG16",
+      "localId": "GG16",
+      "set": "swsh12.5gg",
+      "name": "Absol",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG14": {
+      "id": "swsh12.5gg-GG14",
+      "localId": "GG14",
+      "set": "swsh12.5gg",
+      "name": "Comfey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG02": {
+      "id": "swsh12.5gg-GG02",
+      "localId": "GG02",
+      "set": "swsh12.5gg",
+      "name": "Kricketune",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG17": {
+      "id": "swsh12.5gg-GG17",
+      "localId": "GG17",
+      "set": "swsh12.5gg",
+      "name": "Thievul",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG18": {
+      "id": "swsh12.5gg-GG18",
+      "localId": "GG18",
+      "set": "swsh12.5gg",
+      "name": "Magnezone",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 150,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG20": {
+      "id": "swsh12.5gg-GG20",
+      "localId": "GG20",
+      "set": "swsh12.5gg",
+      "name": "Latias",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG19": {
+      "id": "swsh12.5gg-GG19",
+      "localId": "GG19",
+      "set": "swsh12.5gg",
+      "name": "Altaria",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG21": {
+      "id": "swsh12.5gg-GG21",
+      "localId": "GG21",
+      "set": "swsh12.5gg",
+      "name": "Hisuian Goodra",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG22": {
+      "id": "swsh12.5gg-GG22",
+      "localId": "GG22",
+      "set": "swsh12.5gg",
+      "name": "Ditto",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG24": {
+      "id": "swsh12.5gg-GG24",
+      "localId": "GG24",
+      "set": "swsh12.5gg",
+      "name": "Miltank",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG23": {
+      "id": "swsh12.5gg-GG23",
+      "localId": "GG23",
+      "set": "swsh12.5gg",
+      "name": "Dunsparce",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG26": {
+      "id": "swsh12.5gg-GG26",
+      "localId": "GG26",
+      "set": "swsh12.5gg",
+      "name": "Riolu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG25": {
+      "id": "swsh12.5gg-GG25",
+      "localId": "GG25",
+      "set": "swsh12.5gg",
+      "name": "Bibarel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG27": {
+      "id": "swsh12.5gg-GG27",
+      "localId": "GG27",
+      "set": "swsh12.5gg",
+      "name": "Swablu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG28": {
+      "id": "swsh12.5gg-GG28",
+      "localId": "GG28",
+      "set": "swsh12.5gg",
+      "name": "Duskull",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG29": {
+      "id": "swsh12.5gg-GG29",
+      "localId": "GG29",
+      "set": "swsh12.5gg",
+      "name": "Bidoof",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG32": {
+      "id": "swsh12.5gg-GG32",
+      "localId": "GG32",
+      "set": "swsh12.5gg",
+      "name": "Paras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG31": {
+      "id": "swsh12.5gg-GG31",
+      "localId": "GG31",
+      "set": "swsh12.5gg",
+      "name": "Turtwig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG30": {
+      "id": "swsh12.5gg-GG30",
+      "localId": "GG30",
+      "set": "swsh12.5gg",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG33": {
+      "id": "swsh12.5gg-GG33",
+      "localId": "GG33",
+      "set": "swsh12.5gg",
+      "name": "Poochyena",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG34": {
+      "id": "swsh12.5gg-GG34",
+      "localId": "GG34",
+      "set": "swsh12.5gg",
+      "name": "Mareep",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG36": {
+      "id": "swsh12.5gg-GG36",
+      "localId": "GG36",
+      "set": "swsh12.5gg",
+      "name": "Entei V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG35": {
+      "id": "swsh12.5gg-GG35",
+      "localId": "GG35",
+      "set": "swsh12.5gg",
+      "name": "Leafeon VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 260,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG39": {
+      "id": "swsh12.5gg-GG39",
+      "localId": "GG39",
+      "set": "swsh12.5gg",
+      "name": "Lumineon V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 170,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG37": {
+      "id": "swsh12.5gg-GG37",
+      "localId": "GG37",
+      "set": "swsh12.5gg",
+      "name": "Simisear VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 260,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG38": {
+      "id": "swsh12.5gg-GG38",
+      "localId": "GG38",
+      "set": "swsh12.5gg",
+      "name": "Suicune V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 210,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG40": {
+      "id": "swsh12.5gg-GG40",
+      "localId": "GG40",
+      "set": "swsh12.5gg",
+      "name": "Glaceon VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 260,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG41": {
+      "id": "swsh12.5gg-GG41",
+      "localId": "GG41",
+      "set": "swsh12.5gg",
+      "name": "Raikou V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 200,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG43": {
+      "id": "swsh12.5gg-GG43",
+      "localId": "GG43",
+      "set": "swsh12.5gg",
+      "name": "Zeraora VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG42": {
+      "id": "swsh12.5gg-GG42",
+      "localId": "GG42",
+      "set": "swsh12.5gg",
+      "name": "Zeraora VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Ultra Rare",
+      "hp": 320,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG45": {
+      "id": "swsh12.5gg-GG45",
+      "localId": "GG45",
+      "set": "swsh12.5gg",
+      "name": "Deoxys VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Ultra Rare",
+      "hp": 330,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG46": {
+      "id": "swsh12.5gg-GG46",
+      "localId": "GG46",
+      "set": "swsh12.5gg",
+      "name": "Deoxys VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG44": {
+      "id": "swsh12.5gg-GG44",
+      "localId": "GG44",
+      "set": "swsh12.5gg",
+      "name": "Mewtwo VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 280,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG47": {
+      "id": "swsh12.5gg-GG47",
+      "localId": "GG47",
+      "set": "swsh12.5gg",
+      "name": "Hatterene VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Ultra Rare",
+      "hp": 320,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG48": {
+      "id": "swsh12.5gg-GG48",
+      "localId": "GG48",
+      "set": "swsh12.5gg",
+      "name": "Zacian V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG49": {
+      "id": "swsh12.5gg-GG49",
+      "localId": "GG49",
+      "set": "swsh12.5gg",
+      "name": "Drapion V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 210,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG51": {
+      "id": "swsh12.5gg-GG51",
+      "localId": "GG51",
+      "set": "swsh12.5gg",
+      "name": "Hisuian Samurott V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG52": {
+      "id": "swsh12.5gg-GG52",
+      "localId": "GG52",
+      "set": "swsh12.5gg",
+      "name": "Hisuian Samurott VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG50": {
+      "id": "swsh12.5gg-GG50",
+      "localId": "GG50",
+      "set": "swsh12.5gg",
+      "name": "Darkrai VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG55": {
+      "id": "swsh12.5gg-GG55",
+      "localId": "GG55",
+      "set": "swsh12.5gg",
+      "name": "Regigigas VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 300,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 4,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG53": {
+      "id": "swsh12.5gg-GG53",
+      "localId": "GG53",
+      "set": "swsh12.5gg",
+      "name": "Hoopa V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG54": {
+      "id": "swsh12.5gg-GG54",
+      "localId": "GG54",
+      "set": "swsh12.5gg",
+      "name": "Zamazenta V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG56": {
+      "id": "swsh12.5gg-GG56",
+      "localId": "GG56",
+      "set": "swsh12.5gg",
+      "name": "Hisuian Zoroark VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG57": {
+      "id": "swsh12.5gg-GG57",
+      "localId": "GG57",
+      "set": "swsh12.5gg",
+      "name": "Adaman",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG58": {
+      "id": "swsh12.5gg-GG58",
+      "localId": "GG58",
+      "set": "swsh12.5gg",
+      "name": "Cheren's Care",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG59": {
+      "id": "swsh12.5gg-GG59",
+      "localId": "GG59",
+      "set": "swsh12.5gg",
+      "name": "Colress's Experiment",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG61": {
+      "id": "swsh12.5gg-GG61",
+      "localId": "GG61",
+      "set": "swsh12.5gg",
+      "name": "Gardenia's Vigor",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG62": {
+      "id": "swsh12.5gg-GG62",
+      "localId": "GG62",
+      "set": "swsh12.5gg",
+      "name": "Grant",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG60": {
+      "id": "swsh12.5gg-GG60",
+      "localId": "GG60",
+      "set": "swsh12.5gg",
+      "name": "Cynthia's Ambition",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG64": {
+      "id": "swsh12.5gg-GG64",
+      "localId": "GG64",
+      "set": "swsh12.5gg",
+      "name": "Melony",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG63": {
+      "id": "swsh12.5gg-GG63",
+      "localId": "GG63",
+      "set": "swsh12.5gg",
+      "name": "Irida",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG65": {
+      "id": "swsh12.5gg-GG65",
+      "localId": "GG65",
+      "set": "swsh12.5gg",
+      "name": "Raihan",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG69": {
+      "id": "swsh12.5gg-GG69",
+      "localId": "GG69",
+      "set": "swsh12.5gg",
+      "name": "Giratina VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG67": {
+      "id": "swsh12.5gg-GG67",
+      "localId": "GG67",
+      "set": "swsh12.5gg",
+      "name": "Origin Forme Palkia VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:55:06+01:00"
+    },
+    "swsh12.5gg-GG70": {
+      "id": "swsh12.5gg-GG70",
+      "localId": "GG70",
+      "set": "swsh12.5gg",
+      "name": "Arceus VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG68": {
+      "id": "swsh12.5gg-GG68",
+      "localId": "GG68",
+      "set": "swsh12.5gg",
+      "name": "Origin Forme Dialga VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-14T19:14:35+01:00"
+    },
+    "swsh12.5gg-GG66": {
+      "id": "swsh12.5gg-GG66",
+      "localId": "GG66",
+      "set": "swsh12.5gg",
+      "name": "Roxanne",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-14T19:14:35+01:00"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "xya",
+    "name": "Yellow A Alternate",
+    "serie": "xy",
+    "serieName": "XY",
+    "releaseDate": "2014-02-05",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 6,
+      "reverse": 0,
+      "total": 6
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:31.771Z",
+  "cards": {
+    "xya-24a": {
+      "id": "xya-24a",
+      "localId": "24a",
+      "set": "xya",
+      "name": "M Manectric-EX",
+      "category": "Pokemon",
+      "stage": "MEGA",
+      "rarity": "Rare",
+      "hp": 210,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-03-10T13:44:57+01:00"
+    },
+    "xya-54a": {
+      "id": "xya-54a",
+      "localId": "54a",
+      "set": "xya",
+      "name": "Zygarde-EX",
+      "category": "Pokemon",
+      "rarity": "Rare",
+      "hp": 190,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-03-10T13:44:57+01:00"
+    },
+    "xya-92a": {
+      "id": "xya-92a",
+      "localId": "92a",
+      "set": "xya",
+      "name": "Trainers’ Mail",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-03-10T13:44:57+01:00"
+    },
+    "xya-107a": {
+      "id": "xya-107a",
+      "localId": "107a",
+      "set": "xya",
+      "name": "Professor Sycamore",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-03-10T13:44:57+01:00"
+    },
+    "xya-28a": {
+      "id": "xya-28a",
+      "localId": "28a",
+      "set": "xya",
+      "name": "Jolteon-EX",
+      "category": "Pokemon",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-03-10T13:44:57+01:00"
+    },
+    "xya-55a": {
+      "id": "xya-55a",
+      "localId": "55a",
+      "set": "xya",
+      "name": "M Lucario-EX",
+      "category": "Pokemon",
+      "stage": "MEGA",
+      "rarity": "Rare",
+      "hp": 220,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-03-10T13:44:57+01:00"
+    }
+  }
+}

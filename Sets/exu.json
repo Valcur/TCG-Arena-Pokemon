@@ -1,0 +1,442 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "exu",
+    "name": "Unseen Forces Unown Collection",
+    "serie": "ex",
+    "serieName": "EX",
+    "releaseDate": "2005-08-22",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 28,
+      "normal": 0,
+      "official": 28,
+      "reverse": 0,
+      "total": 28
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:07.952Z",
+  "cards": {
+    "exu-C": {
+      "id": "exu-C",
+      "localId": "C",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-A": {
+      "id": "exu-A",
+      "localId": "A",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-!": {
+      "id": "exu-!",
+      "localId": "!",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-D": {
+      "id": "exu-D",
+      "localId": "D",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-%3F": {
+      "id": "exu-%3F",
+      "localId": "%3F",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-G": {
+      "id": "exu-G",
+      "localId": "G",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-B": {
+      "id": "exu-B",
+      "localId": "B",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-F": {
+      "id": "exu-F",
+      "localId": "F",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-E": {
+      "id": "exu-E",
+      "localId": "E",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-K": {
+      "id": "exu-K",
+      "localId": "K",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-H": {
+      "id": "exu-H",
+      "localId": "H",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-M": {
+      "id": "exu-M",
+      "localId": "M",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-N": {
+      "id": "exu-N",
+      "localId": "N",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-J": {
+      "id": "exu-J",
+      "localId": "J",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-L": {
+      "id": "exu-L",
+      "localId": "L",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-P": {
+      "id": "exu-P",
+      "localId": "P",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-O": {
+      "id": "exu-O",
+      "localId": "O",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-U": {
+      "id": "exu-U",
+      "localId": "U",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-R": {
+      "id": "exu-R",
+      "localId": "R",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-S": {
+      "id": "exu-S",
+      "localId": "S",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-T": {
+      "id": "exu-T",
+      "localId": "T",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-Q": {
+      "id": "exu-Q",
+      "localId": "Q",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-I": {
+      "id": "exu-I",
+      "localId": "I",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-Y": {
+      "id": "exu-Y",
+      "localId": "Y",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-W": {
+      "id": "exu-W",
+      "localId": "W",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-Z": {
+      "id": "exu-Z",
+      "localId": "Z",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-X": {
+      "id": "exu-X",
+      "localId": "X",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    },
+    "exu-V": {
+      "id": "exu-V",
+      "localId": "V",
+      "set": "exu",
+      "name": "Unown",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:26:22+01:00"
+    }
+  }
+}

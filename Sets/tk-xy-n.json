@@ -1,0 +1,382 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-n",
+    "name": "XY trainer Kit (Noivern)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2014-03-12",
+    "code": "TK6N",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:31.958Z",
+  "cards": {
+    "tk-xy-n-2": {
+      "id": "tk-xy-n-2",
+      "localId": "2",
+      "set": "tk-xy-n",
+      "name": "Gourgeist",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-3": {
+      "id": "tk-xy-n-3",
+      "localId": "3",
+      "set": "tk-xy-n",
+      "name": "Arbok",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-4": {
+      "id": "tk-xy-n-4",
+      "localId": "4",
+      "set": "tk-xy-n",
+      "name": "Bunnelby",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-6": {
+      "id": "tk-xy-n-6",
+      "localId": "6",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-5": {
+      "id": "tk-xy-n-5",
+      "localId": "5",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-1": {
+      "id": "tk-xy-n-1",
+      "localId": "1",
+      "set": "tk-xy-n",
+      "name": "Spoink",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-9": {
+      "id": "tk-xy-n-9",
+      "localId": "9",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-7": {
+      "id": "tk-xy-n-7",
+      "localId": "7",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-8": {
+      "id": "tk-xy-n-8",
+      "localId": "8",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-11": {
+      "id": "tk-xy-n-11",
+      "localId": "11",
+      "set": "tk-xy-n",
+      "name": "Pumpkaboo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-10": {
+      "id": "tk-xy-n-10",
+      "localId": "10",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-12": {
+      "id": "tk-xy-n-12",
+      "localId": "12",
+      "set": "tk-xy-n",
+      "name": "Noibat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-13": {
+      "id": "tk-xy-n-13",
+      "localId": "13",
+      "set": "tk-xy-n",
+      "name": "Noivern",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:03:17+01:00"
+    },
+    "tk-xy-n-14": {
+      "id": "tk-xy-n-14",
+      "localId": "14",
+      "set": "tk-xy-n",
+      "name": "Pokémon Catcher",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:03:17+01:00"
+    },
+    "tk-xy-n-16": {
+      "id": "tk-xy-n-16",
+      "localId": "16",
+      "set": "tk-xy-n",
+      "name": "Ekans",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-15": {
+      "id": "tk-xy-n-15",
+      "localId": "15",
+      "set": "tk-xy-n",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-18": {
+      "id": "tk-xy-n-18",
+      "localId": "18",
+      "set": "tk-xy-n",
+      "name": "Pumpkaboo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-17": {
+      "id": "tk-xy-n-17",
+      "localId": "17",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-19": {
+      "id": "tk-xy-n-19",
+      "localId": "19",
+      "set": "tk-xy-n",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-23": {
+      "id": "tk-xy-n-23",
+      "localId": "23",
+      "set": "tk-xy-n",
+      "name": "Noibat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2024-06-18T00:34:39+02:00"
+    },
+    "tk-xy-n-21": {
+      "id": "tk-xy-n-21",
+      "localId": "21",
+      "set": "tk-xy-n",
+      "name": "Poké Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2021-10-18T11:53:03+02:00"
+    },
+    "tk-xy-n-20": {
+      "id": "tk-xy-n-20",
+      "localId": "20",
+      "set": "tk-xy-n",
+      "name": "Furfrou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-22": {
+      "id": "tk-xy-n-22",
+      "localId": "22",
+      "set": "tk-xy-n",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-24": {
+      "id": "tk-xy-n-24",
+      "localId": "24",
+      "set": "tk-xy-n",
+      "name": "Professor’s Letter",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:03:17+01:00"
+    },
+    "tk-xy-n-25": {
+      "id": "tk-xy-n-25",
+      "localId": "25",
+      "set": "tk-xy-n",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-26": {
+      "id": "tk-xy-n-26",
+      "localId": "26",
+      "set": "tk-xy-n",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-30": {
+      "id": "tk-xy-n-30",
+      "localId": "30",
+      "set": "tk-xy-n",
+      "name": "Noivern",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:03:17+01:00"
+    },
+    "tk-xy-n-29": {
+      "id": "tk-xy-n-29",
+      "localId": "29",
+      "set": "tk-xy-n",
+      "name": "Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2021-10-18T11:53:03+02:00"
+    },
+    "tk-xy-n-28": {
+      "id": "tk-xy-n-28",
+      "localId": "28",
+      "set": "tk-xy-n",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-n-27": {
+      "id": "tk-xy-n-27",
+      "localId": "27",
+      "set": "tk-xy-n",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    }
+  }
+}

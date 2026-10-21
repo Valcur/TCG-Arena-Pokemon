@@ -1,0 +1,402 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-su",
+    "name": "XY trainer Kit (Suicune)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2016-04-27",
+    "code": "TK9S",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:36.155Z",
+  "cards": {
+    "tk-xy-su-2": {
+      "id": "tk-xy-su-2",
+      "localId": "2",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-1": {
+      "id": "tk-xy-su-1",
+      "localId": "1",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-3": {
+      "id": "tk-xy-su-3",
+      "localId": "3",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-4": {
+      "id": "tk-xy-su-4",
+      "localId": "4",
+      "set": "tk-xy-su",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:13:21+01:00"
+    },
+    "tk-xy-su-5": {
+      "id": "tk-xy-su-5",
+      "localId": "5",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-6": {
+      "id": "tk-xy-su-6",
+      "localId": "6",
+      "set": "tk-xy-su",
+      "name": "Frogadier",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-7": {
+      "id": "tk-xy-su-7",
+      "localId": "7",
+      "set": "tk-xy-su",
+      "name": "Ducklett",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-8": {
+      "id": "tk-xy-su-8",
+      "localId": "8",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-12": {
+      "id": "tk-xy-su-12",
+      "localId": "12",
+      "set": "tk-xy-su",
+      "name": "Seaking",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-10": {
+      "id": "tk-xy-su-10",
+      "localId": "10",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-9": {
+      "id": "tk-xy-su-9",
+      "localId": "9",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-11": {
+      "id": "tk-xy-su-11",
+      "localId": "11",
+      "set": "tk-xy-su",
+      "name": "Froakie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-14": {
+      "id": "tk-xy-su-14",
+      "localId": "14",
+      "set": "tk-xy-su",
+      "name": "Suicune",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:13:21+01:00"
+    },
+    "tk-xy-su-15": {
+      "id": "tk-xy-su-15",
+      "localId": "15",
+      "set": "tk-xy-su",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-17": {
+      "id": "tk-xy-su-17",
+      "localId": "17",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-18": {
+      "id": "tk-xy-su-18",
+      "localId": "18",
+      "set": "tk-xy-su",
+      "name": "Swanna",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 0,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-16": {
+      "id": "tk-xy-su-16",
+      "localId": "16",
+      "set": "tk-xy-su",
+      "name": "Piplup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-13": {
+      "id": "tk-xy-su-13",
+      "localId": "13",
+      "set": "tk-xy-su",
+      "name": "Goldeen",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-20": {
+      "id": "tk-xy-su-20",
+      "localId": "20",
+      "set": "tk-xy-su",
+      "name": "Tierno",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:13:21+01:00"
+    },
+    "tk-xy-su-21": {
+      "id": "tk-xy-su-21",
+      "localId": "21",
+      "set": "tk-xy-su",
+      "name": "Frogadier",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-19": {
+      "id": "tk-xy-su-19",
+      "localId": "19",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-24": {
+      "id": "tk-xy-su-24",
+      "localId": "24",
+      "set": "tk-xy-su",
+      "name": "Ducklett",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-23": {
+      "id": "tk-xy-su-23",
+      "localId": "23",
+      "set": "tk-xy-su",
+      "name": "Froakie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-22": {
+      "id": "tk-xy-su-22",
+      "localId": "22",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-25": {
+      "id": "tk-xy-su-25",
+      "localId": "25",
+      "set": "tk-xy-su",
+      "name": "Seaking",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-28": {
+      "id": "tk-xy-su-28",
+      "localId": "28",
+      "set": "tk-xy-su",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-27": {
+      "id": "tk-xy-su-27",
+      "localId": "27",
+      "set": "tk-xy-su",
+      "name": "Swanna",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 0,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-29": {
+      "id": "tk-xy-su-29",
+      "localId": "29",
+      "set": "tk-xy-su",
+      "name": "Tierno",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T21:13:21+01:00"
+    },
+    "tk-xy-su-26": {
+      "id": "tk-xy-su-26",
+      "localId": "26",
+      "set": "tk-xy-su",
+      "name": "Goldeen",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-su-30": {
+      "id": "tk-xy-su-30",
+      "localId": "30",
+      "set": "tk-xy-su",
+      "name": "Suicune",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T21:13:21+01:00"
+    }
+  }
+}

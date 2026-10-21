@@ -1,0 +1,1117 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "sm7.5",
+    "name": "Dragon Majesty",
+    "serie": "sm",
+    "serieName": "Sun & Moon",
+    "releaseDate": "2018-09-07",
+    "code": "DRM",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 70,
+      "reverse": 0,
+      "total": 78
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:41.686Z",
+  "cards": {
+    "sm7.5-4": {
+      "id": "sm7.5-4",
+      "localId": "4",
+      "set": "sm7.5",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-2": {
+      "id": "sm7.5-2",
+      "localId": "2",
+      "set": "sm7.5",
+      "name": "Charmeleon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-3": {
+      "id": "sm7.5-3",
+      "localId": "3",
+      "set": "sm7.5",
+      "name": "Charizard",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-1": {
+      "id": "sm7.5-1",
+      "localId": "1",
+      "set": "sm7.5",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-6": {
+      "id": "sm7.5-6",
+      "localId": "6",
+      "set": "sm7.5",
+      "name": "Blaziken",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 150,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-5": {
+      "id": "sm7.5-5",
+      "localId": "5",
+      "set": "sm7.5",
+      "name": "Combusken",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-7": {
+      "id": "sm7.5-7",
+      "localId": "7",
+      "set": "sm7.5",
+      "name": "Victini ◇",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-9": {
+      "id": "sm7.5-9",
+      "localId": "9",
+      "set": "sm7.5",
+      "name": "Darmanitan",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-11": {
+      "id": "sm7.5-11",
+      "localId": "11",
+      "set": "sm7.5",
+      "name": "Reshiram GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-8": {
+      "id": "sm7.5-8",
+      "localId": "8",
+      "set": "sm7.5",
+      "name": "Darumaka",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-12": {
+      "id": "sm7.5-12",
+      "localId": "12",
+      "set": "sm7.5",
+      "name": "Litten",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-10": {
+      "id": "sm7.5-10",
+      "localId": "10",
+      "set": "sm7.5",
+      "name": "Heatmor",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-13": {
+      "id": "sm7.5-13",
+      "localId": "13",
+      "set": "sm7.5",
+      "name": "Salandit",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-14": {
+      "id": "sm7.5-14",
+      "localId": "14",
+      "set": "sm7.5",
+      "name": "Salazzle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-15": {
+      "id": "sm7.5-15",
+      "localId": "15",
+      "set": "sm7.5",
+      "name": "Horsea",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 40,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-16": {
+      "id": "sm7.5-16",
+      "localId": "16",
+      "set": "sm7.5",
+      "name": "Horsea",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-18": {
+      "id": "sm7.5-18",
+      "localId": "18",
+      "set": "sm7.5",
+      "name": "Kingdra GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-17": {
+      "id": "sm7.5-17",
+      "localId": "17",
+      "set": "sm7.5",
+      "name": "Seadra",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-19": {
+      "id": "sm7.5-19",
+      "localId": "19",
+      "set": "sm7.5",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-20": {
+      "id": "sm7.5-20",
+      "localId": "20",
+      "set": "sm7.5",
+      "name": "Gyarados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Water"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-21": {
+      "id": "sm7.5-21",
+      "localId": "21",
+      "set": "sm7.5",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-23": {
+      "id": "sm7.5-23",
+      "localId": "23",
+      "set": "sm7.5",
+      "name": "Croconaw",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-22": {
+      "id": "sm7.5-22",
+      "localId": "22",
+      "set": "sm7.5",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-24": {
+      "id": "sm7.5-24",
+      "localId": "24",
+      "set": "sm7.5",
+      "name": "Feraligatr",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-25": {
+      "id": "sm7.5-25",
+      "localId": "25",
+      "set": "sm7.5",
+      "name": "Wooper",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-26": {
+      "id": "sm7.5-26",
+      "localId": "26",
+      "set": "sm7.5",
+      "name": "Quagsire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-27": {
+      "id": "sm7.5-27",
+      "localId": "27",
+      "set": "sm7.5",
+      "name": "Corsola",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-29": {
+      "id": "sm7.5-29",
+      "localId": "29",
+      "set": "sm7.5",
+      "name": "Milotic",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-30": {
+      "id": "sm7.5-30",
+      "localId": "30",
+      "set": "sm7.5",
+      "name": "Phione",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-28": {
+      "id": "sm7.5-28",
+      "localId": "28",
+      "set": "sm7.5",
+      "name": "Feebas",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-32": {
+      "id": "sm7.5-32",
+      "localId": "32",
+      "set": "sm7.5",
+      "name": "Trapinch",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-31": {
+      "id": "sm7.5-31",
+      "localId": "31",
+      "set": "sm7.5",
+      "name": "Wishiwashi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-35": {
+      "id": "sm7.5-35",
+      "localId": "35",
+      "set": "sm7.5",
+      "name": "Dratini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-34": {
+      "id": "sm7.5-34",
+      "localId": "34",
+      "set": "sm7.5",
+      "name": "Dratini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-36": {
+      "id": "sm7.5-36",
+      "localId": "36",
+      "set": "sm7.5",
+      "name": "Dragonair",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-37": {
+      "id": "sm7.5-37",
+      "localId": "37",
+      "set": "sm7.5",
+      "name": "Dragonite GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 250,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-38": {
+      "id": "sm7.5-38",
+      "localId": "38",
+      "set": "sm7.5",
+      "name": "Vibrava",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T01:02:25Z"
+    },
+    "sm7.5-39": {
+      "id": "sm7.5-39",
+      "localId": "39",
+      "set": "sm7.5",
+      "name": "Flygon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-41": {
+      "id": "sm7.5-41",
+      "localId": "41",
+      "set": "sm7.5",
+      "name": "Altaria GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 200,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-42": {
+      "id": "sm7.5-42",
+      "localId": "42",
+      "set": "sm7.5",
+      "name": "Bagon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-43": {
+      "id": "sm7.5-43",
+      "localId": "43",
+      "set": "sm7.5",
+      "name": "Shelgon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-44": {
+      "id": "sm7.5-44",
+      "localId": "44",
+      "set": "sm7.5",
+      "name": "Salamence GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 250,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-45": {
+      "id": "sm7.5-45",
+      "localId": "45",
+      "set": "sm7.5",
+      "name": "Druddigon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-46": {
+      "id": "sm7.5-46",
+      "localId": "46",
+      "set": "sm7.5",
+      "name": "Zekrom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-47": {
+      "id": "sm7.5-47",
+      "localId": "47",
+      "set": "sm7.5",
+      "name": "Kyurem",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-49": {
+      "id": "sm7.5-49",
+      "localId": "49",
+      "set": "sm7.5",
+      "name": "Zygarde",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 130,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-48": {
+      "id": "sm7.5-48",
+      "localId": "48",
+      "set": "sm7.5",
+      "name": "White Kyurem GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 190,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-50": {
+      "id": "sm7.5-50",
+      "localId": "50",
+      "set": "sm7.5",
+      "name": "Turtonator",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-51": {
+      "id": "sm7.5-51",
+      "localId": "51",
+      "set": "sm7.5",
+      "name": "Drampa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-52": {
+      "id": "sm7.5-52",
+      "localId": "52",
+      "set": "sm7.5",
+      "name": "Jangmo-o",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-33": {
+      "id": "sm7.5-33",
+      "localId": "33",
+      "set": "sm7.5",
+      "name": "Hydreigon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-40": {
+      "id": "sm7.5-40",
+      "localId": "40",
+      "set": "sm7.5",
+      "name": "Altaria",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 80,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-53": {
+      "id": "sm7.5-53",
+      "localId": "53",
+      "set": "sm7.5",
+      "name": "Hakamo-o",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-56": {
+      "id": "sm7.5-56",
+      "localId": "56",
+      "set": "sm7.5",
+      "name": "Swablu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-54": {
+      "id": "sm7.5-54",
+      "localId": "54",
+      "set": "sm7.5",
+      "name": "Kommo-o",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-55": {
+      "id": "sm7.5-55",
+      "localId": "55",
+      "set": "sm7.5",
+      "name": "Kangaskhan",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-57": {
+      "id": "sm7.5-57",
+      "localId": "57",
+      "set": "sm7.5",
+      "name": "Swablu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-58": {
+      "id": "sm7.5-58",
+      "localId": "58",
+      "set": "sm7.5",
+      "name": "Blaine’s Last Stand",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-59": {
+      "id": "sm7.5-59",
+      "localId": "59",
+      "set": "sm7.5",
+      "name": "Dragon Talon",
+      "category": "Trainer",
+      "trainerType": "Tool",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-61": {
+      "id": "sm7.5-61",
+      "localId": "61",
+      "set": "sm7.5",
+      "name": "Lance ◇",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-60": {
+      "id": "sm7.5-60",
+      "localId": "60",
+      "set": "sm7.5",
+      "name": "Fiery Flint",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-62": {
+      "id": "sm7.5-62",
+      "localId": "62",
+      "set": "sm7.5",
+      "name": "Switch Raft",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-64": {
+      "id": "sm7.5-64",
+      "localId": "64",
+      "set": "sm7.5",
+      "name": "Zinnia",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-63": {
+      "id": "sm7.5-63",
+      "localId": "63",
+      "set": "sm7.5",
+      "name": "Wela Volcano Park",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-66": {
+      "id": "sm7.5-66",
+      "localId": "66",
+      "set": "sm7.5",
+      "name": "Kingdra GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-68": {
+      "id": "sm7.5-68",
+      "localId": "68",
+      "set": "sm7.5",
+      "name": "Altaria GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 200,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-67": {
+      "id": "sm7.5-67",
+      "localId": "67",
+      "set": "sm7.5",
+      "name": "Dragonite GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 250,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-69": {
+      "id": "sm7.5-69",
+      "localId": "69",
+      "set": "sm7.5",
+      "name": "Blaine’s Last Stand",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-72": {
+      "id": "sm7.5-72",
+      "localId": "72",
+      "set": "sm7.5",
+      "name": "Altaria GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 200,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-71": {
+      "id": "sm7.5-71",
+      "localId": "71",
+      "set": "sm7.5",
+      "name": "Reshiram GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-74": {
+      "id": "sm7.5-74",
+      "localId": "74",
+      "set": "sm7.5",
+      "name": "White Kyurem GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 190,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-73": {
+      "id": "sm7.5-73",
+      "localId": "73",
+      "set": "sm7.5",
+      "name": "Salamence GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 250,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-65": {
+      "id": "sm7.5-65",
+      "localId": "65",
+      "set": "sm7.5",
+      "name": "Reshiram GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-70": {
+      "id": "sm7.5-70",
+      "localId": "70",
+      "set": "sm7.5",
+      "name": "Zinnia",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-75": {
+      "id": "sm7.5-75",
+      "localId": "75",
+      "set": "sm7.5",
+      "name": "Dragon Talon",
+      "category": "Trainer",
+      "trainerType": "Tool",
+      "rarity": "Secret Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-77": {
+      "id": "sm7.5-77",
+      "localId": "77",
+      "set": "sm7.5",
+      "name": "Switch Raft",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Secret Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-76": {
+      "id": "sm7.5-76",
+      "localId": "76",
+      "set": "sm7.5",
+      "name": "Fiery Flint",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Secret Rare",
+      "updated": "2026-08-16T22:09:48+01:00"
+    },
+    "sm7.5-78": {
+      "id": "sm7.5-78",
+      "localId": "78",
+      "set": "sm7.5",
+      "name": "Ultra Necrozma GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 190,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T22:09:48+01:00"
+    }
+  }
+}

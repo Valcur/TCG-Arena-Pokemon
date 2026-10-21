@@ -1,0 +1,474 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "mfb",
+    "name": "My First Battle",
+    "serie": "sv",
+    "serieName": "Scarlet & Violet",
+    "releaseDate": "2023-09-29",
+    "code": "MFB",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 48,
+      "official": 48,
+      "reverse": 0,
+      "total": 48
+    }
+  },
+  "updatedAt": "2026-10-21T16:48:36.886Z",
+  "cards": {
+    "mfb-1": {
+      "id": "mfb-1",
+      "localId": "1",
+      "set": "mfb",
+      "name": "Bulbasaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-2": {
+      "id": "mfb-2",
+      "localId": "2",
+      "set": "mfb",
+      "name": "Ivysaur",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-3": {
+      "id": "mfb-3",
+      "localId": "3",
+      "set": "mfb",
+      "name": "Oddish",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-05-23T17:47:39+01:00"
+    },
+    "mfb-4": {
+      "id": "mfb-4",
+      "localId": "4",
+      "set": "mfb",
+      "name": "Gloom",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-5": {
+      "id": "mfb-5",
+      "localId": "5",
+      "set": "mfb",
+      "name": "Exeggcute",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-6": {
+      "id": "mfb-6",
+      "localId": "6",
+      "set": "mfb",
+      "name": "Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-7": {
+      "id": "mfb-7",
+      "localId": "7",
+      "set": "mfb",
+      "name": "Scyther",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-8": {
+      "id": "mfb-8",
+      "localId": "8",
+      "set": "mfb",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-9": {
+      "id": "mfb-9",
+      "localId": "9",
+      "set": "mfb",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-10": {
+      "id": "mfb-10",
+      "localId": "10",
+      "set": "mfb",
+      "name": "Charmeleon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-11": {
+      "id": "mfb-11",
+      "localId": "11",
+      "set": "mfb",
+      "name": "Vulpix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-12": {
+      "id": "mfb-12",
+      "localId": "12",
+      "set": "mfb",
+      "name": "Ninetales",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-13": {
+      "id": "mfb-13",
+      "localId": "13",
+      "set": "mfb",
+      "name": "Growlithe",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-14": {
+      "id": "mfb-14",
+      "localId": "14",
+      "set": "mfb",
+      "name": "Arcanine",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-15": {
+      "id": "mfb-15",
+      "localId": "15",
+      "set": "mfb",
+      "name": "Magmar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-16": {
+      "id": "mfb-16",
+      "localId": "16",
+      "set": "mfb",
+      "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-17": {
+      "id": "mfb-17",
+      "localId": "17",
+      "set": "mfb",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-18": {
+      "id": "mfb-18",
+      "localId": "18",
+      "set": "mfb",
+      "name": "Raichu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-19": {
+      "id": "mfb-19",
+      "localId": "19",
+      "set": "mfb",
+      "name": "Magnemite",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "mfb-20": {
+      "id": "mfb-20",
+      "localId": "20",
+      "set": "mfb",
+      "name": "Magneton",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-21": {
+      "id": "mfb-21",
+      "localId": "21",
+      "set": "mfb",
+      "name": "Voltorb",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-22": {
+      "id": "mfb-22",
+      "localId": "22",
+      "set": "mfb",
+      "name": "Electrode",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-23": {
+      "id": "mfb-23",
+      "localId": "23",
+      "set": "mfb",
+      "name": "Electabuzz",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-24": {
+      "id": "mfb-24",
+      "localId": "24",
+      "set": "mfb",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-25": {
+      "id": "mfb-25",
+      "localId": "25",
+      "set": "mfb",
+      "name": "Squirtle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-26": {
+      "id": "mfb-26",
+      "localId": "26",
+      "set": "mfb",
+      "name": "Wartortle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-27": {
+      "id": "mfb-27",
+      "localId": "27",
+      "set": "mfb",
+      "name": "Poliwag",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-28": {
+      "id": "mfb-28",
+      "localId": "28",
+      "set": "mfb",
+      "name": "Poliwhirl",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-29": {
+      "id": "mfb-29",
+      "localId": "29",
+      "set": "mfb",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-08-12T22:03:00Z"
+    },
+    "mfb-30": {
+      "id": "mfb-30",
+      "localId": "30",
+      "set": "mfb",
+      "name": "Gyarados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 160,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-31": {
+      "id": "mfb-31",
+      "localId": "31",
+      "set": "mfb",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-05-23T17:25:07+01:00"
+    },
+    "mfb-32": {
+      "id": "mfb-32",
+      "localId": "32",
+      "set": "mfb",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-33": {
+      "id": "mfb-33",
+      "localId": "33",
+      "set": "mfb",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    },
+    "mfb-34": {
+      "id": "mfb-34",
+      "localId": "34",
+      "set": "mfb",
+      "name": "Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-04-14T22:39:39+01:00"
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "cel25cc",
+    "name": "Celebrations Classic Collection",
+    "serie": "swsh",
+    "serieName": "Sword & Shield",
+    "releaseDate": "2021-10-08",
+    "code": "CEL",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 25,
+      "normal": 0,
+      "official": 25,
+      "reverse": 0,
+      "total": 25
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:53.828Z",
+  "cards": {
+    "cel25cc-CC006": {
+      "id": "cel25cc-CC006",
+      "localId": "CC006",
+      "set": "cel25cc",
+      "name": "Here Comes Team Rocket!",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Classic Collection",
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC005": {
+      "id": "cel25cc-CC005",
+      "localId": "CC005",
+      "set": "cel25cc",
+      "name": "Dark Gyarados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Classic Collection",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-10T22:19:43Z"
+    },
+    "cel25cc-CC003": {
+      "id": "cel25cc-CC003",
+      "localId": "CC003",
+      "set": "cel25cc",
+      "name": "Venusaur",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Classic Collection",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC004": {
+      "id": "cel25cc-CC004",
+      "localId": "CC004",
+      "set": "cel25cc",
+      "name": "Imposter Professor Oak",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Classic Collection",
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC001": {
+      "id": "cel25cc-CC001",
+      "localId": "CC001",
+      "set": "cel25cc",
+      "name": "Blastoise",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Classic Collection",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC007": {
+      "id": "cel25cc-CC007",
+      "localId": "CC007",
+      "set": "cel25cc",
+      "name": "Rocket's Zapdos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC009": {
+      "id": "cel25cc-CC009",
+      "localId": "CC009",
+      "set": "cel25cc",
+      "name": "Cleffa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC008": {
+      "id": "cel25cc-CC008",
+      "localId": "CC008",
+      "set": "cel25cc",
+      "name": "_____'s Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 50,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC010": {
+      "id": "cel25cc-CC010",
+      "localId": "CC010",
+      "set": "cel25cc",
+      "name": "Shining Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC011": {
+      "id": "cel25cc-CC011",
+      "localId": "CC011",
+      "set": "cel25cc",
+      "name": "Team Magma's Groudon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-10T22:19:43Z"
+    },
+    "cel25cc-CC002": {
+      "id": "cel25cc-CC002",
+      "localId": "CC002",
+      "set": "cel25cc",
+      "name": "Charizard",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Classic Collection",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC012": {
+      "id": "cel25cc-CC012",
+      "localId": "CC012",
+      "set": "cel25cc",
+      "name": "Rocket's Admin.",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Classic Collection",
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC013": {
+      "id": "cel25cc-CC013",
+      "localId": "CC013",
+      "set": "cel25cc",
+      "name": "Mew ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC014": {
+      "id": "cel25cc-CC014",
+      "localId": "CC014",
+      "set": "cel25cc",
+      "name": "Gardevoir ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Classic Collection",
+      "hp": 150,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC016": {
+      "id": "cel25cc-CC016",
+      "localId": "CC016",
+      "set": "cel25cc",
+      "name": "Claydol",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Classic Collection",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC015": {
+      "id": "cel25cc-CC015",
+      "localId": "CC015",
+      "set": "cel25cc",
+      "name": "Umbreon ☆",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC017": {
+      "id": "cel25cc-CC017",
+      "localId": "CC017",
+      "set": "cel25cc",
+      "name": "Luxray GL LV.X",
+      "category": "Pokemon",
+      "stage": "LEVEL-UP",
+      "rarity": "Classic Collection",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC018": {
+      "id": "cel25cc-CC018",
+      "localId": "CC018",
+      "set": "cel25cc",
+      "name": "Garchomp C LV.X",
+      "category": "Pokemon",
+      "stage": "LEVEL-UP",
+      "rarity": "Classic Collection",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC019": {
+      "id": "cel25cc-CC019",
+      "localId": "CC019",
+      "set": "cel25cc",
+      "name": "Donphan",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Classic Collection",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC020": {
+      "id": "cel25cc-CC020",
+      "localId": "CC020",
+      "set": "cel25cc",
+      "name": "Reshiram",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC021": {
+      "id": "cel25cc-CC021",
+      "localId": "CC021",
+      "set": "cel25cc",
+      "name": "Zekrom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 130,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC022": {
+      "id": "cel25cc-CC022",
+      "localId": "CC022",
+      "set": "cel25cc",
+      "name": "Mewtwo EX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 170,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC023": {
+      "id": "cel25cc-CC023",
+      "localId": "CC023",
+      "set": "cel25cc",
+      "name": "Xerneas EX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 170,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC024": {
+      "id": "cel25cc-CC024",
+      "localId": "CC024",
+      "set": "cel25cc",
+      "name": "M Rayquaza EX",
+      "category": "Pokemon",
+      "stage": "MEGA",
+      "rarity": "Classic Collection",
+      "hp": 220,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    },
+    "cel25cc-CC025": {
+      "id": "cel25cc-CC025",
+      "localId": "CC025",
+      "set": "cel25cc",
+      "name": "Tapu Lele GX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Classic Collection",
+      "hp": 170,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-11T09:55:22+01:00"
+    }
+  }
+}

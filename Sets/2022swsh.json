@@ -1,0 +1,247 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2022swsh",
+    "name": "McDonald's Collection 2022",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2022-08-03",
+    "code": "MCD22",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 15,
+      "normal": 0,
+      "official": 15,
+      "reverse": 0,
+      "total": 15
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:58.064Z",
+  "cards": {
+    "2022swsh-5": {
+      "id": "2022swsh-5",
+      "localId": "5",
+      "set": "2022swsh",
+      "name": "Victini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-1": {
+      "id": "2022swsh-1",
+      "localId": "1",
+      "set": "2022swsh",
+      "name": "Ledyba",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-2": {
+      "id": "2022swsh-2",
+      "localId": "2",
+      "set": "2022swsh",
+      "name": "Rowlet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-6": {
+      "id": "2022swsh-6",
+      "localId": "6",
+      "set": "2022swsh",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-10": {
+      "id": "2022swsh-10",
+      "localId": "10",
+      "set": "2022swsh",
+      "name": "Tynamo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-8": {
+      "id": "2022swsh-8",
+      "localId": "8",
+      "set": "2022swsh",
+      "name": "Chinchou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2022swsh-9": {
+      "id": "2022swsh-9",
+      "localId": "9",
+      "set": "2022swsh",
+      "name": "Flaaffy",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2022swsh-7": {
+      "id": "2022swsh-7",
+      "localId": "7",
+      "set": "2022swsh",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-4": {
+      "id": "2022swsh-4",
+      "localId": "4",
+      "set": "2022swsh",
+      "name": "Growlithe",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-3": {
+      "id": "2022swsh-3",
+      "localId": "3",
+      "set": "2022swsh",
+      "name": "Gossifleur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-11": {
+      "id": "2022swsh-11",
+      "localId": "11",
+      "set": "2022swsh",
+      "name": "Cutiefly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-12": {
+      "id": "2022swsh-12",
+      "localId": "12",
+      "set": "2022swsh",
+      "name": "Bewear",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-13": {
+      "id": "2022swsh-13",
+      "localId": "13",
+      "set": "2022swsh",
+      "name": "Pangoro",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-14": {
+      "id": "2022swsh-14",
+      "localId": "14",
+      "set": "2022swsh",
+      "name": "Drampa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:19:39+01:00"
+    },
+    "2022swsh-15": {
+      "id": "2022swsh-15",
+      "localId": "15",
+      "set": "2022swsh",
+      "name": "Smeargle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:19:39+01:00"
+    }
+  }
+}

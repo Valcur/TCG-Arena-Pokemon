@@ -1,0 +1,97 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "ex5.5",
+    "name": "Poké Card Creator Pack",
+    "serie": "ex",
+    "serieName": "EX",
+    "releaseDate": "2004-07-01",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 5,
+      "official": 5,
+      "reverse": 0,
+      "total": 5
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:04.984Z",
+  "cards": {
+    "ex5.5-3": {
+      "id": "ex5.5-3",
+      "localId": "3",
+      "set": "ex5.5",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-10T13:32:18+01:00"
+    },
+    "ex5.5-2": {
+      "id": "ex5.5-2",
+      "localId": "2",
+      "set": "ex5.5",
+      "name": "Wurmple",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-10T13:32:18+01:00"
+    },
+    "ex5.5-5": {
+      "id": "ex5.5-5",
+      "localId": "5",
+      "set": "ex5.5",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-10T13:32:18+01:00"
+    },
+    "ex5.5-1": {
+      "id": "ex5.5-1",
+      "localId": "1",
+      "set": "ex5.5",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-10T13:32:18+01:00"
+    },
+    "ex5.5-4": {
+      "id": "ex5.5-4",
+      "localId": "4",
+      "set": "ex5.5",
+      "name": "Mudkip",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-10T13:32:18+01:00"
+    }
+  }
+}

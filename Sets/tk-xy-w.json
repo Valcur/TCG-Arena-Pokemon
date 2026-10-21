@@ -1,0 +1,430 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-w",
+    "name": "XY trainer Kit (Wigglytuff)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2014-11-01",
+    "code": "TK7B",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:32.907Z",
+  "cards": {
+    "tk-xy-w-1": {
+      "id": "tk-xy-w-1",
+      "localId": "1",
+      "set": "tk-xy-w",
+      "name": "Swirlix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-2": {
+      "id": "tk-xy-w-2",
+      "localId": "2",
+      "set": "tk-xy-w",
+      "name": "Pidgeotto",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-5": {
+      "id": "tk-xy-w-5",
+      "localId": "5",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-4": {
+      "id": "tk-xy-w-4",
+      "localId": "4",
+      "set": "tk-xy-w",
+      "name": "Sentret",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-6": {
+      "id": "tk-xy-w-6",
+      "localId": "6",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-3": {
+      "id": "tk-xy-w-3",
+      "localId": "3",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-10": {
+      "id": "tk-xy-w-10",
+      "localId": "10",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-7": {
+      "id": "tk-xy-w-7",
+      "localId": "7",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-9": {
+      "id": "tk-xy-w-9",
+      "localId": "9",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-8": {
+      "id": "tk-xy-w-8",
+      "localId": "8",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-11": {
+      "id": "tk-xy-w-11",
+      "localId": "11",
+      "set": "tk-xy-w",
+      "name": "Pidgey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-12": {
+      "id": "tk-xy-w-12",
+      "localId": "12",
+      "set": "tk-xy-w",
+      "name": "Jigglypuff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-13": {
+      "id": "tk-xy-w-13",
+      "localId": "13",
+      "set": "tk-xy-w",
+      "name": "Clefairy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-18": {
+      "id": "tk-xy-w-18",
+      "localId": "18",
+      "set": "tk-xy-w",
+      "name": "Swirlix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-14": {
+      "id": "tk-xy-w-14",
+      "localId": "14",
+      "set": "tk-xy-w",
+      "name": "Wigglytuff",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 100,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-16": {
+      "id": "tk-xy-w-16",
+      "localId": "16",
+      "set": "tk-xy-w",
+      "name": "Clefable",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-15": {
+      "id": "tk-xy-w-15",
+      "localId": "15",
+      "set": "tk-xy-w",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-17": {
+      "id": "tk-xy-w-17",
+      "localId": "17",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-19": {
+      "id": "tk-xy-w-19",
+      "localId": "19",
+      "set": "tk-xy-w",
+      "name": "Clefairy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-21": {
+      "id": "tk-xy-w-21",
+      "localId": "21",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-20": {
+      "id": "tk-xy-w-20",
+      "localId": "20",
+      "set": "tk-xy-w",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-22": {
+      "id": "tk-xy-w-22",
+      "localId": "22",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-23": {
+      "id": "tk-xy-w-23",
+      "localId": "23",
+      "set": "tk-xy-w",
+      "name": "Pidgeotto",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-24": {
+      "id": "tk-xy-w-24",
+      "localId": "24",
+      "set": "tk-xy-w",
+      "name": "Trevor",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:33:16+01:00"
+    },
+    "tk-xy-w-25": {
+      "id": "tk-xy-w-25",
+      "localId": "25",
+      "set": "tk-xy-w",
+      "name": "Jigglypuff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-26": {
+      "id": "tk-xy-w-26",
+      "localId": "26",
+      "set": "tk-xy-w",
+      "name": "Tierno",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:33:16+01:00"
+    },
+    "tk-xy-w-27": {
+      "id": "tk-xy-w-27",
+      "localId": "27",
+      "set": "tk-xy-w",
+      "name": "Fairy Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-29": {
+      "id": "tk-xy-w-29",
+      "localId": "29",
+      "set": "tk-xy-w",
+      "name": "Pidgey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-28": {
+      "id": "tk-xy-w-28",
+      "localId": "28",
+      "set": "tk-xy-w",
+      "name": "Clefable",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-w-30": {
+      "id": "tk-xy-w-30",
+      "localId": "30",
+      "set": "tk-xy-w",
+      "name": "Wigglytuff",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 100,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    }
+  }
+}

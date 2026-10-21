@@ -1,0 +1,193 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2015xy",
+    "name": "McDonald's Collection 2015",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2015-11-27",
+    "code": "MCD15",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:35.257Z",
+  "cards": {
+    "2015xy-2": {
+      "id": "2015xy-2",
+      "localId": "2",
+      "set": "2015xy",
+      "name": "Lotad",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-4": {
+      "id": "2015xy-4",
+      "localId": "4",
+      "set": "2015xy",
+      "name": "Staryu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "2015xy-6": {
+      "id": "2015xy-6",
+      "localId": "6",
+      "set": "2015xy",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-1": {
+      "id": "2015xy-1",
+      "localId": "1",
+      "set": "2015xy",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-3": {
+      "id": "2015xy-3",
+      "localId": "3",
+      "set": "2015xy",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-5": {
+      "id": "2015xy-5",
+      "localId": "5",
+      "set": "2015xy",
+      "name": "Mudkip",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-7": {
+      "id": "2015xy-7",
+      "localId": "7",
+      "set": "2015xy",
+      "name": "Electrike",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-9": {
+      "id": "2015xy-9",
+      "localId": "9",
+      "set": "2015xy",
+      "name": "Meditite",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Fighting"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-8": {
+      "id": "2015xy-8",
+      "localId": "8",
+      "set": "2015xy",
+      "name": "Rhyhorn",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-11": {
+      "id": "2015xy-11",
+      "localId": "11",
+      "set": "2015xy",
+      "name": "Zigzagoon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-12": {
+      "id": "2015xy-12",
+      "localId": "12",
+      "set": "2015xy",
+      "name": "Skitty",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-04-19T20:57:59Z"
+    },
+    "2015xy-10": {
+      "id": "2015xy-10",
+      "localId": "10",
+      "set": "2015xy",
+      "name": "Marill",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2026-04-19T20:57:59Z"
+    }
+  }
+}

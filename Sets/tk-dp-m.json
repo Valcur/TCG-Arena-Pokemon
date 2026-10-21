@@ -1,0 +1,190 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-dp-m",
+    "name": "DP trainer Kit (Manaphy)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2007-09-01",
+    "code": "TK3M",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 11,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:14.630Z",
+  "cards": {
+    "tk-dp-m-2": {
+      "id": "tk-dp-m-2",
+      "localId": "2",
+      "set": "tk-dp-m",
+      "name": "Floatzel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-3": {
+      "id": "tk-dp-m-3",
+      "localId": "3",
+      "set": "tk-dp-m",
+      "name": "Goldeen",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-1": {
+      "id": "tk-dp-m-1",
+      "localId": "1",
+      "set": "tk-dp-m",
+      "name": "Buizel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-6": {
+      "id": "tk-dp-m-6",
+      "localId": "6",
+      "set": "tk-dp-m",
+      "name": "Prinplup",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-4": {
+      "id": "tk-dp-m-4",
+      "localId": "4",
+      "set": "tk-dp-m",
+      "name": "Manaphy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-5": {
+      "id": "tk-dp-m-5",
+      "localId": "5",
+      "set": "tk-dp-m",
+      "name": "Piplup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-11": {
+      "id": "tk-dp-m-11",
+      "localId": "11",
+      "set": "tk-dp-m",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-12": {
+      "id": "tk-dp-m-12",
+      "localId": "12",
+      "set": "tk-dp-m",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "retreat": 0,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-8": {
+      "id": "tk-dp-m-8",
+      "localId": "8",
+      "set": "tk-dp-m",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-10": {
+      "id": "tk-dp-m-10",
+      "localId": "10",
+      "set": "tk-dp-m",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-7": {
+      "id": "tk-dp-m-7",
+      "localId": "7",
+      "set": "tk-dp-m",
+      "name": "Seaking",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:14:40+01:00"
+    },
+    "tk-dp-m-9": {
+      "id": "tk-dp-m-9",
+      "localId": "9",
+      "set": "tk-dp-m",
+      "name": "Dusk Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:14:40+01:00"
+    }
+  }
+}

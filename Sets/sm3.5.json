@@ -1,0 +1,1111 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "sm3.5",
+    "name": "Shining Legends",
+    "serie": "sm",
+    "serieName": "Sun & Moon",
+    "releaseDate": "2017-10-06",
+    "code": "SLG",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 73,
+      "reverse": 0,
+      "total": 78
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:39.730Z",
+  "cards": {
+    "sm3.5-4": {
+      "id": "sm3.5-4",
+      "localId": "4",
+      "set": "sm3.5",
+      "name": "Shroomish",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-2": {
+      "id": "sm3.5-2",
+      "localId": "2",
+      "set": "sm3.5",
+      "name": "Ivysaur",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-1": {
+      "id": "sm3.5-1",
+      "localId": "1",
+      "set": "sm3.5",
+      "name": "Bulbasaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-6": {
+      "id": "sm3.5-6",
+      "localId": "6",
+      "set": "sm3.5",
+      "name": "Carnivine",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-3": {
+      "id": "sm3.5-3",
+      "localId": "3",
+      "set": "sm3.5",
+      "name": "Venusaur",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 160,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-5": {
+      "id": "sm3.5-5",
+      "localId": "5",
+      "set": "sm3.5",
+      "name": "Breloom",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-8": {
+      "id": "sm3.5-8",
+      "localId": "8",
+      "set": "sm3.5",
+      "name": "Virizion",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-11": {
+      "id": "sm3.5-11",
+      "localId": "11",
+      "set": "sm3.5",
+      "name": "Torkoal",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-12": {
+      "id": "sm3.5-12",
+      "localId": "12",
+      "set": "sm3.5",
+      "name": "Larvesta",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-10": {
+      "id": "sm3.5-10",
+      "localId": "10",
+      "set": "sm3.5",
+      "name": "Entei GX",
+      "category": "Pokemon",
+      "rarity": "Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "sm3.5-7": {
+      "id": "sm3.5-7",
+      "localId": "7",
+      "set": "sm3.5",
+      "name": "Shaymin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-9": {
+      "id": "sm3.5-9",
+      "localId": "9",
+      "set": "sm3.5",
+      "name": "Shining Genesect",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-14": {
+      "id": "sm3.5-14",
+      "localId": "14",
+      "set": "sm3.5",
+      "name": "Reshiram",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-13": {
+      "id": "sm3.5-13",
+      "localId": "13",
+      "set": "sm3.5",
+      "name": "Volcarona",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-16": {
+      "id": "sm3.5-16",
+      "localId": "16",
+      "set": "sm3.5",
+      "name": "Torracat",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-15": {
+      "id": "sm3.5-15",
+      "localId": "15",
+      "set": "sm3.5",
+      "name": "Litten",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-18": {
+      "id": "sm3.5-18",
+      "localId": "18",
+      "set": "sm3.5",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-17": {
+      "id": "sm3.5-17",
+      "localId": "17",
+      "set": "sm3.5",
+      "name": "Incineroar",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 170,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-19": {
+      "id": "sm3.5-19",
+      "localId": "19",
+      "set": "sm3.5",
+      "name": "Croconaw",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-20": {
+      "id": "sm3.5-20",
+      "localId": "20",
+      "set": "sm3.5",
+      "name": "Feraligatr",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 160,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-21": {
+      "id": "sm3.5-21",
+      "localId": "21",
+      "set": "sm3.5",
+      "name": "Qwilfish",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-22": {
+      "id": "sm3.5-22",
+      "localId": "22",
+      "set": "sm3.5",
+      "name": "Buizel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-23": {
+      "id": "sm3.5-23",
+      "localId": "23",
+      "set": "sm3.5",
+      "name": "Floatzel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-24": {
+      "id": "sm3.5-24",
+      "localId": "24",
+      "set": "sm3.5",
+      "name": "Palkia",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-26": {
+      "id": "sm3.5-26",
+      "localId": "26",
+      "set": "sm3.5",
+      "name": "Keldeo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-27": {
+      "id": "sm3.5-27",
+      "localId": "27",
+      "set": "sm3.5",
+      "name": "Shining Volcanion",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-25": {
+      "id": "sm3.5-25",
+      "localId": "25",
+      "set": "sm3.5",
+      "name": "Manaphy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-28": {
+      "id": "sm3.5-28",
+      "localId": "28",
+      "set": "sm3.5",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-29": {
+      "id": "sm3.5-29",
+      "localId": "29",
+      "set": "sm3.5",
+      "name": "Raichu GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 210,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-30": {
+      "id": "sm3.5-30",
+      "localId": "30",
+      "set": "sm3.5",
+      "name": "Voltorb",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-31": {
+      "id": "sm3.5-31",
+      "localId": "31",
+      "set": "sm3.5",
+      "name": "Electrode",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-32": {
+      "id": "sm3.5-32",
+      "localId": "32",
+      "set": "sm3.5",
+      "name": "Raikou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-33": {
+      "id": "sm3.5-33",
+      "localId": "33",
+      "set": "sm3.5",
+      "name": "Plusle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "sm3.5-34": {
+      "id": "sm3.5-34",
+      "localId": "34",
+      "set": "sm3.5",
+      "name": "Minun",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "sm3.5-35": {
+      "id": "sm3.5-35",
+      "localId": "35",
+      "set": "sm3.5",
+      "name": "Zekrom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-36": {
+      "id": "sm3.5-36",
+      "localId": "36",
+      "set": "sm3.5",
+      "name": "Ekans",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-37": {
+      "id": "sm3.5-37",
+      "localId": "37",
+      "set": "sm3.5",
+      "name": "Arbok",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-38": {
+      "id": "sm3.5-38",
+      "localId": "38",
+      "set": "sm3.5",
+      "name": "Jynx",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-39": {
+      "id": "sm3.5-39",
+      "localId": "39",
+      "set": "sm3.5",
+      "name": "Mewtwo GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 190,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-41": {
+      "id": "sm3.5-41",
+      "localId": "41",
+      "set": "sm3.5",
+      "name": "Latios",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "sm3.5-40": {
+      "id": "sm3.5-40",
+      "localId": "40",
+      "set": "sm3.5",
+      "name": "Shining Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-42": {
+      "id": "sm3.5-42",
+      "localId": "42",
+      "set": "sm3.5",
+      "name": "Shining Jirachi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-43": {
+      "id": "sm3.5-43",
+      "localId": "43",
+      "set": "sm3.5",
+      "name": "Golett",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-44": {
+      "id": "sm3.5-44",
+      "localId": "44",
+      "set": "sm3.5",
+      "name": "Golurk",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 4,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "sm3.5-45": {
+      "id": "sm3.5-45",
+      "localId": "45",
+      "set": "sm3.5",
+      "name": "Marshadow",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-46": {
+      "id": "sm3.5-46",
+      "localId": "46",
+      "set": "sm3.5",
+      "name": "Stunfisk",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-47": {
+      "id": "sm3.5-47",
+      "localId": "47",
+      "set": "sm3.5",
+      "name": "Spiritomb",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-48": {
+      "id": "sm3.5-48",
+      "localId": "48",
+      "set": "sm3.5",
+      "name": "Purrloin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-49": {
+      "id": "sm3.5-49",
+      "localId": "49",
+      "set": "sm3.5",
+      "name": "Liepard",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-50": {
+      "id": "sm3.5-50",
+      "localId": "50",
+      "set": "sm3.5",
+      "name": "Scraggy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-51": {
+      "id": "sm3.5-51",
+      "localId": "51",
+      "set": "sm3.5",
+      "name": "Scrafty",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-55": {
+      "id": "sm3.5-55",
+      "localId": "55",
+      "set": "sm3.5",
+      "name": "Hoopa",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-52": {
+      "id": "sm3.5-52",
+      "localId": "52",
+      "set": "sm3.5",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "sm3.5-56": {
+      "id": "sm3.5-56",
+      "localId": "56",
+      "set": "sm3.5",
+      "name": "Shining Rayquaza",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 120,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-54": {
+      "id": "sm3.5-54",
+      "localId": "54",
+      "set": "sm3.5",
+      "name": "Yveltal",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-57": {
+      "id": "sm3.5-57",
+      "localId": "57",
+      "set": "sm3.5",
+      "name": "Shining Arceus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-53": {
+      "id": "sm3.5-53",
+      "localId": "53",
+      "set": "sm3.5",
+      "name": "Zoroark GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 210,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-59": {
+      "id": "sm3.5-59",
+      "localId": "59",
+      "set": "sm3.5",
+      "name": "Energy Retrieval",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-62": {
+      "id": "sm3.5-62",
+      "localId": "62",
+      "set": "sm3.5",
+      "name": "Lillie",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-63": {
+      "id": "sm3.5-63",
+      "localId": "63",
+      "set": "sm3.5",
+      "name": "Pokémon Breeder",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-58": {
+      "id": "sm3.5-58",
+      "localId": "58",
+      "set": "sm3.5",
+      "name": "Damage Mover",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-61": {
+      "id": "sm3.5-61",
+      "localId": "61",
+      "set": "sm3.5",
+      "name": "Hau",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-60": {
+      "id": "sm3.5-60",
+      "localId": "60",
+      "set": "sm3.5",
+      "name": "Great Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-64": {
+      "id": "sm3.5-64",
+      "localId": "64",
+      "set": "sm3.5",
+      "name": "Pokémon Catcher",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-66": {
+      "id": "sm3.5-66",
+      "localId": "66",
+      "set": "sm3.5",
+      "name": "Super Scoop Up",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-67": {
+      "id": "sm3.5-67",
+      "localId": "67",
+      "set": "sm3.5",
+      "name": "Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-01-07T20:36:31+01:00"
+    },
+    "sm3.5-69": {
+      "id": "sm3.5-69",
+      "localId": "69",
+      "set": "sm3.5",
+      "name": "Double Colorless Energy",
+      "category": "Energy",
+      "energyType": "Special",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-68": {
+      "id": "sm3.5-68",
+      "localId": "68",
+      "set": "sm3.5",
+      "name": "Ultra Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-65": {
+      "id": "sm3.5-65",
+      "localId": "65",
+      "set": "sm3.5",
+      "name": "Sophocles",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-70": {
+      "id": "sm3.5-70",
+      "localId": "70",
+      "set": "sm3.5",
+      "name": "Warp Energy",
+      "category": "Energy",
+      "energyType": "Special",
+      "rarity": "Uncommon",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-71": {
+      "id": "sm3.5-71",
+      "localId": "71",
+      "set": "sm3.5",
+      "name": "Entei GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-03-17T23:24:59Z"
+    },
+    "sm3.5-72": {
+      "id": "sm3.5-72",
+      "localId": "72",
+      "set": "sm3.5",
+      "name": "Mewtwo GX",
+      "category": "Pokemon",
+      "rarity": "Ultra Rare",
+      "hp": 190,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-73": {
+      "id": "sm3.5-73",
+      "localId": "73",
+      "set": "sm3.5",
+      "name": "Pokémon Breeder",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-74": {
+      "id": "sm3.5-74",
+      "localId": "74",
+      "set": "sm3.5",
+      "name": "Entei GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 180,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-03-17T23:24:59Z"
+    },
+    "sm3.5-75": {
+      "id": "sm3.5-75",
+      "localId": "75",
+      "set": "sm3.5",
+      "name": "Raichu GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 210,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-76": {
+      "id": "sm3.5-76",
+      "localId": "76",
+      "set": "sm3.5",
+      "name": "Mewtwo GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 190,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-77": {
+      "id": "sm3.5-77",
+      "localId": "77",
+      "set": "sm3.5",
+      "name": "Zoroark GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 210,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    },
+    "sm3.5-78": {
+      "id": "sm3.5-78",
+      "localId": "78",
+      "set": "sm3.5",
+      "name": "Mewtwo GX",
+      "category": "Pokemon",
+      "rarity": "Secret Rare",
+      "hp": 190,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T17:18:26+01:00"
+    }
+  }
+}

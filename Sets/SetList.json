@@ -1,0 +1,1517 @@
+{
+  "sets": {
+    "2011bw": {
+      "name": "McDonald's Collection 2011",
+      "serie": "mc",
+      "releaseDate": "2011-06-17",
+      "total": 12,
+      "cards": 12
+    },
+    "2012bw": {
+      "name": "McDonald's Collection 2012",
+      "serie": "mc",
+      "releaseDate": "2012-06-15",
+      "total": 12,
+      "cards": 12
+    },
+    "2014xy": {
+      "name": "McDonald's Collection 2014",
+      "serie": "mc",
+      "releaseDate": "2014-05-23",
+      "total": 12,
+      "cards": 12
+    },
+    "2015xy": {
+      "name": "McDonald's Collection 2015",
+      "serie": "mc",
+      "releaseDate": "2015-11-27",
+      "total": 12,
+      "cards": 12
+    },
+    "2016xy": {
+      "name": "McDonald's Collection 2016",
+      "serie": "mc",
+      "releaseDate": "2016-08-20",
+      "total": 12,
+      "cards": 12
+    },
+    "2017sm": {
+      "name": "McDonald's Collection 2017",
+      "serie": "mc",
+      "releaseDate": "2017-08-03",
+      "total": 12,
+      "cards": 12
+    },
+    "2018sm": {
+      "name": "McDonald's Collection 2018",
+      "serie": "mc",
+      "releaseDate": "2018-10-19",
+      "total": 12,
+      "cards": 12
+    },
+    "2019sm": {
+      "name": "McDonald's Collection 2019",
+      "serie": "mc",
+      "releaseDate": "2019-10-15",
+      "total": 12,
+      "cards": 12
+    },
+    "2021swsh": {
+      "name": "McDonald's Collection 2021",
+      "serie": "mc",
+      "releaseDate": "2021-02-09",
+      "total": 25,
+      "cards": 25
+    },
+    "2022swsh": {
+      "name": "McDonald's Collection 2022",
+      "serie": "mc",
+      "releaseDate": "2022-08-03",
+      "total": 15,
+      "cards": 15
+    },
+    "2023sv": {
+      "name": "McDonald's Collection 2023",
+      "serie": "mc",
+      "releaseDate": "2023-08-01",
+      "total": 15,
+      "cards": 15
+    },
+    "2024sv": {
+      "name": "McDonald's Collection 2024",
+      "serie": "mc",
+      "releaseDate": "2024-12-04",
+      "total": 15,
+      "cards": 15
+    },
+    "30th": {
+      "name": "30th Celebration",
+      "serie": "me",
+      "releaseDate": "2026-09-16",
+      "total": 161,
+      "cards": 161
+    },
+    "30th-c": {
+      "name": "30th Classic Collection",
+      "serie": "me",
+      "releaseDate": "2026-09-16",
+      "total": 30,
+      "cards": 30
+    },
+    "A1": {
+      "name": "Genetic Apex",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A1a": {
+      "name": "Mythical Island",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A2": {
+      "name": "Space-Time Smackdown",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A2a": {
+      "name": "Triumphant Light",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A2b": {
+      "name": "Shining Revelry",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A3": {
+      "name": "Celestial Guardians",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A3a": {
+      "name": "Extradimensional Crisis",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A3b": {
+      "name": "Eevee Grove",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A4": {
+      "name": "Wisdom of Sea and Sky",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "A4a": {
+      "name": "Secluded Springs",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "B1": {
+      "name": "Mega Rising",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "B1a": {
+      "name": "Crimson Blaze",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "B2": {
+      "name": "Fantastical Parade",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "B2a": {
+      "name": "Paldean Wonders",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "P-A": {
+      "name": "Promos-A",
+      "serie": "tcgp",
+      "excluded": true
+    },
+    "base1": {
+      "name": "Base Set",
+      "serie": "base",
+      "releaseDate": "1999-01-09",
+      "total": 102,
+      "cards": 102
+    },
+    "base2": {
+      "name": "Jungle",
+      "serie": "base",
+      "releaseDate": "1999-06-16",
+      "total": 64,
+      "cards": 64
+    },
+    "base3": {
+      "name": "Fossil",
+      "serie": "base",
+      "releaseDate": "1999-10-10",
+      "total": 62,
+      "cards": 62
+    },
+    "base4": {
+      "name": "Base Set 2",
+      "serie": "base",
+      "releaseDate": "2000-02-24",
+      "total": 130,
+      "cards": 130
+    },
+    "base5": {
+      "name": "Team Rocket",
+      "serie": "base",
+      "releaseDate": "2000-04-24",
+      "total": 83,
+      "cards": 83
+    },
+    "basep": {
+      "name": "Wizards Black Star Promos",
+      "serie": "base",
+      "releaseDate": "1999-07-01",
+      "total": 53,
+      "cards": 53
+    },
+    "bog": {
+      "name": "Best of game",
+      "serie": "ecard",
+      "releaseDate": "2002-12-01",
+      "total": 9,
+      "cards": 9
+    },
+    "bw1": {
+      "name": "Black & White",
+      "serie": "bw",
+      "releaseDate": "2011-04-25",
+      "total": 115,
+      "cards": 115
+    },
+    "bw10": {
+      "name": "Plasma Blast",
+      "serie": "bw",
+      "releaseDate": "2013-08-14",
+      "total": 105,
+      "cards": 105
+    },
+    "bw11": {
+      "name": "Legendary Treasures",
+      "serie": "bw",
+      "releaseDate": "2013-11-06",
+      "total": 140,
+      "cards": 140
+    },
+    "bw2": {
+      "name": "Emerging Powers",
+      "serie": "bw",
+      "releaseDate": "2011-08-31",
+      "total": 98,
+      "cards": 98
+    },
+    "bw3": {
+      "name": "Noble Victories",
+      "serie": "bw",
+      "releaseDate": "2011-11-16",
+      "total": 102,
+      "cards": 102
+    },
+    "bw4": {
+      "name": "Next Destinies",
+      "serie": "bw",
+      "releaseDate": "2012-02-08",
+      "total": 103,
+      "cards": 103
+    },
+    "bw5": {
+      "name": "Dark Explorers",
+      "serie": "bw",
+      "releaseDate": "2012-05-09",
+      "total": 111,
+      "cards": 111
+    },
+    "bw6": {
+      "name": "Dragons Exalted",
+      "serie": "bw",
+      "releaseDate": "2012-08-15",
+      "total": 128,
+      "cards": 128
+    },
+    "bw7": {
+      "name": "Boundaries Crossed",
+      "serie": "bw",
+      "releaseDate": "2012-11-07",
+      "total": 153,
+      "cards": 153
+    },
+    "bw8": {
+      "name": "Plasma Storm",
+      "serie": "bw",
+      "releaseDate": "2013-02-06",
+      "total": 138,
+      "cards": 138
+    },
+    "bw9": {
+      "name": "Plasma Freeze",
+      "serie": "bw",
+      "releaseDate": "2013-05-08",
+      "total": 122,
+      "cards": 122
+    },
+    "bwp": {
+      "name": "BW Black Star Promos",
+      "serie": "bw",
+      "releaseDate": "2011-04-26",
+      "total": 101,
+      "cards": 101
+    },
+    "cel25": {
+      "name": "Celebrations",
+      "serie": "swsh",
+      "releaseDate": "2021-10-08",
+      "total": 25,
+      "cards": 25
+    },
+    "cel25cc": {
+      "name": "Celebrations Classic Collection",
+      "serie": "swsh",
+      "releaseDate": "2021-10-08",
+      "total": 25,
+      "cards": 25
+    },
+    "col1": {
+      "name": "Call of Legends",
+      "serie": "col",
+      "releaseDate": "2011-02-09",
+      "total": 106,
+      "cards": 106
+    },
+    "dc1": {
+      "name": "Double Crisis",
+      "serie": "xy",
+      "releaseDate": "2015-03-25",
+      "total": 34,
+      "cards": 34
+    },
+    "det1": {
+      "name": "Detective Pikachu",
+      "serie": "sm",
+      "releaseDate": "2019-03-29",
+      "total": 18,
+      "cards": 18
+    },
+    "dp1": {
+      "name": "Diamond & Pearl",
+      "serie": "dp",
+      "releaseDate": "2007-05-01",
+      "total": 130,
+      "cards": 130
+    },
+    "dp2": {
+      "name": "Mysterious Treasures",
+      "serie": "dp",
+      "releaseDate": "2007-08-01",
+      "total": 124,
+      "cards": 124
+    },
+    "dp3": {
+      "name": "Secret Wonders",
+      "serie": "dp",
+      "releaseDate": "2007-11-01",
+      "total": 132,
+      "cards": 132
+    },
+    "dp4": {
+      "name": "Great Encounters",
+      "serie": "dp",
+      "releaseDate": "2008-02-01",
+      "total": 106,
+      "cards": 106
+    },
+    "dp5": {
+      "name": "Majestic Dawn",
+      "serie": "dp",
+      "releaseDate": "2008-05-01",
+      "total": 100,
+      "cards": 100
+    },
+    "dp6": {
+      "name": "Legends Awakened",
+      "serie": "dp",
+      "releaseDate": "2008-08-01",
+      "total": 146,
+      "cards": 146
+    },
+    "dp7": {
+      "name": "Stormfront",
+      "serie": "dp",
+      "releaseDate": "2008-11-01",
+      "total": 106,
+      "cards": 106
+    },
+    "dpp": {
+      "name": "DP Black Star Promos",
+      "serie": "dp",
+      "releaseDate": "2007-05-01",
+      "total": 56,
+      "cards": 56
+    },
+    "dv1": {
+      "name": "Dragon Vault",
+      "serie": "bw",
+      "releaseDate": "2012-10-05",
+      "total": 21,
+      "cards": 21
+    },
+    "ecard1": {
+      "name": "Expedition Base Set",
+      "serie": "ecard",
+      "releaseDate": "2002-09-15",
+      "total": 165,
+      "cards": 165
+    },
+    "ecard2": {
+      "name": "Aquapolis",
+      "serie": "ecard",
+      "releaseDate": "2003-01-15",
+      "total": 186,
+      "cards": 186
+    },
+    "ecard3": {
+      "name": "Skyridge",
+      "serie": "ecard",
+      "releaseDate": "2003-05-12",
+      "total": 182,
+      "cards": 182
+    },
+    "ex1": {
+      "name": "Ruby & Sapphire",
+      "serie": "ex",
+      "releaseDate": "2003-07-01",
+      "total": 109,
+      "cards": 109
+    },
+    "ex10": {
+      "name": "Unseen Forces",
+      "serie": "ex",
+      "releaseDate": "2005-08-22",
+      "total": 117,
+      "cards": 117
+    },
+    "ex11": {
+      "name": "Delta Species",
+      "serie": "ex",
+      "releaseDate": "2005-10-31",
+      "total": 114,
+      "cards": 114
+    },
+    "ex12": {
+      "name": "Legend Maker",
+      "serie": "ex",
+      "releaseDate": "2006-02-13",
+      "total": 93,
+      "cards": 93
+    },
+    "ex13": {
+      "name": "Holon Phantoms",
+      "serie": "ex",
+      "releaseDate": "2006-05-03",
+      "total": 111,
+      "cards": 111
+    },
+    "ex14": {
+      "name": "Crystal Guardians",
+      "serie": "ex",
+      "releaseDate": "2006-08-30",
+      "total": 100,
+      "cards": 100
+    },
+    "ex15": {
+      "name": "Dragon Frontiers",
+      "serie": "ex",
+      "releaseDate": "2006-11-08",
+      "total": 101,
+      "cards": 101
+    },
+    "ex16": {
+      "name": "Power Keepers",
+      "serie": "ex",
+      "releaseDate": "2007-02-17",
+      "total": 108,
+      "cards": 108
+    },
+    "ex2": {
+      "name": "Sandstorm",
+      "serie": "ex",
+      "releaseDate": "2003-09-18",
+      "total": 100,
+      "cards": 100
+    },
+    "ex3": {
+      "name": "Dragon",
+      "serie": "ex",
+      "releaseDate": "2003-11-24",
+      "total": 100,
+      "cards": 100
+    },
+    "ex4": {
+      "name": "Team Magma vs Team Aqua",
+      "serie": "ex",
+      "releaseDate": "2004-03-01",
+      "total": 97,
+      "cards": 97
+    },
+    "ex5": {
+      "name": "Hidden Legends",
+      "serie": "ex",
+      "releaseDate": "2004-06-01",
+      "total": 102,
+      "cards": 102
+    },
+    "ex5.5": {
+      "name": "Poké Card Creator Pack",
+      "serie": "ex",
+      "releaseDate": "2004-07-01",
+      "total": 5,
+      "cards": 5
+    },
+    "ex6": {
+      "name": "FireRed & LeafGreen",
+      "serie": "ex",
+      "releaseDate": "2004-09-01",
+      "total": 116,
+      "cards": 116
+    },
+    "ex7": {
+      "name": "Team Rocket Returns",
+      "serie": "ex",
+      "releaseDate": "2004-11-01",
+      "total": 111,
+      "cards": 111
+    },
+    "ex8": {
+      "name": "Deoxys",
+      "serie": "ex",
+      "releaseDate": "2005-02-01",
+      "total": 108,
+      "cards": 108
+    },
+    "ex9": {
+      "name": "Emerald",
+      "serie": "ex",
+      "releaseDate": "2005-05-09",
+      "total": 107,
+      "cards": 107
+    },
+    "exu": {
+      "name": "Unseen Forces Unown Collection",
+      "serie": "ex",
+      "releaseDate": "2005-08-22",
+      "total": 28,
+      "cards": 28
+    },
+    "fut2020": {
+      "name": "Pokémon Futsal 2020",
+      "serie": "swsh",
+      "releaseDate": "2020-09-11",
+      "total": 5,
+      "cards": 5
+    },
+    "g1": {
+      "name": "Generations",
+      "serie": "xy",
+      "releaseDate": "2016-02-22",
+      "total": 117,
+      "cards": 117
+    },
+    "gym1": {
+      "name": "Gym Heroes",
+      "serie": "gym",
+      "releaseDate": "2000-08-14",
+      "total": 132,
+      "cards": 132
+    },
+    "gym2": {
+      "name": "Gym Challenge",
+      "serie": "gym",
+      "releaseDate": "2000-10-16",
+      "total": 132,
+      "cards": 132
+    },
+    "hgss1": {
+      "name": "HeartGold SoulSilver",
+      "serie": "hgss",
+      "releaseDate": "2010-02-10",
+      "total": 124,
+      "cards": 124
+    },
+    "hgss2": {
+      "name": "Unleashed",
+      "serie": "hgss",
+      "releaseDate": "2010-05-12",
+      "total": 96,
+      "cards": 96
+    },
+    "hgss3": {
+      "name": "Undaunted",
+      "serie": "hgss",
+      "releaseDate": "2010-08-18",
+      "total": 91,
+      "cards": 91
+    },
+    "hgss4": {
+      "name": "Triumphant",
+      "serie": "hgss",
+      "releaseDate": "2010-11-03",
+      "total": 103,
+      "cards": 103
+    },
+    "hgssp": {
+      "name": "HGSS Black Star Promos",
+      "serie": "hgss",
+      "releaseDate": "2010-02-11",
+      "total": 25,
+      "cards": 25
+    },
+    "jumbo": {
+      "name": "Jumbo cards",
+      "serie": "misc",
+      "releaseDate": "2000-02-01",
+      "total": 160,
+      "cards": 0
+    },
+    "lc": {
+      "name": "Legendary Collection",
+      "serie": "lc",
+      "releaseDate": "2002-05-24",
+      "total": 110,
+      "cards": 110
+    },
+    "me01": {
+      "name": "Mega Evolution",
+      "serie": "me",
+      "releaseDate": "2025-09-26",
+      "total": 188,
+      "cards": 188
+    },
+    "me02": {
+      "name": "Phantasmal Flames",
+      "serie": "me",
+      "releaseDate": "2025-11-14",
+      "total": 130,
+      "cards": 130
+    },
+    "me02.5": {
+      "name": "Ascended Heroes",
+      "serie": "me",
+      "releaseDate": "2026-01-30",
+      "total": 295,
+      "cards": 295
+    },
+    "me03": {
+      "name": "Perfect Order",
+      "serie": "me",
+      "releaseDate": "2026-03-27",
+      "total": 124,
+      "cards": 124
+    },
+    "me04": {
+      "name": "Chaos Rising",
+      "serie": "me",
+      "releaseDate": "2026-05-22",
+      "total": 122,
+      "cards": 122
+    },
+    "me05": {
+      "name": "Pitch Black",
+      "serie": "me",
+      "releaseDate": "2026-07-17",
+      "total": 120,
+      "cards": 120
+    },
+    "mee": {
+      "name": "Mega Evolution Energy",
+      "serie": "me",
+      "releaseDate": "2025-09-25",
+      "total": 16,
+      "cards": 16
+    },
+    "mep": {
+      "name": "MEP Black Star Promos",
+      "serie": "me",
+      "releaseDate": "2025-09-26",
+      "total": 112,
+      "cards": 112
+    },
+    "mfb": {
+      "name": "My First Battle",
+      "serie": "sv",
+      "releaseDate": "2023-09-29",
+      "total": 48,
+      "cards": 34,
+      "noImage": 34
+    },
+    "miscp": {
+      "name": "Miscellaneous Promos",
+      "serie": "misc",
+      "releaseDate": "1996-01-01",
+      "total": 1,
+      "cards": 1
+    },
+    "neo1": {
+      "name": "Neo Genesis",
+      "serie": "neo",
+      "releaseDate": "2000-12-16",
+      "total": 111,
+      "cards": 111
+    },
+    "neo2": {
+      "name": "Neo Discovery",
+      "serie": "neo",
+      "releaseDate": "2001-06-01",
+      "total": 75,
+      "cards": 75
+    },
+    "neo3": {
+      "name": "Neo Revelation",
+      "serie": "neo",
+      "releaseDate": "2001-09-21",
+      "total": 66,
+      "cards": 66
+    },
+    "neo4": {
+      "name": "Neo Destiny",
+      "serie": "neo",
+      "releaseDate": "2002-02-28",
+      "total": 113,
+      "cards": 113
+    },
+    "np": {
+      "name": "Nintendo Black Star Promos",
+      "serie": "pop",
+      "releaseDate": "2003-10-01",
+      "total": 40,
+      "cards": 40
+    },
+    "pl1": {
+      "name": "Platinum",
+      "serie": "pl",
+      "releaseDate": "2009-02-11",
+      "total": 133,
+      "cards": 133
+    },
+    "pl2": {
+      "name": "Rising Rivals",
+      "serie": "pl",
+      "releaseDate": "2009-05-16",
+      "total": 120,
+      "cards": 120
+    },
+    "pl3": {
+      "name": "Supreme Victors",
+      "serie": "pl",
+      "releaseDate": "2009-08-19",
+      "total": 153,
+      "cards": 153
+    },
+    "pl4": {
+      "name": "Arceus",
+      "serie": "pl",
+      "releaseDate": "2009-11-04",
+      "total": 111,
+      "cards": 111
+    },
+    "pop1": {
+      "name": "POP Series 1",
+      "serie": "pop",
+      "releaseDate": "2004-09-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop2": {
+      "name": "POP Series 2",
+      "serie": "pop",
+      "releaseDate": "2005-08-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop3": {
+      "name": "POP Series 3",
+      "serie": "pop",
+      "releaseDate": "2006-04-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop4": {
+      "name": "POP Series 4",
+      "serie": "pop",
+      "releaseDate": "2006-08-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop5": {
+      "name": "POP Series 5",
+      "serie": "pop",
+      "releaseDate": "2007-03-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop6": {
+      "name": "POP Series 6",
+      "serie": "pop",
+      "releaseDate": "2007-09-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop7": {
+      "name": "POP Series 7",
+      "serie": "pop",
+      "releaseDate": "2008-03-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop8": {
+      "name": "POP Series 8",
+      "serie": "pop",
+      "releaseDate": "2008-09-01",
+      "total": 17,
+      "cards": 17
+    },
+    "pop9": {
+      "name": "POP Series 9",
+      "serie": "pop",
+      "releaseDate": "2009-03-01",
+      "total": 17,
+      "cards": 17
+    },
+    "rc": {
+      "name": "Radiant Collection",
+      "serie": "bw",
+      "releaseDate": "2013-11-06",
+      "total": 25,
+      "cards": 0
+    },
+    "ru1": {
+      "name": "Pokémon Rumble",
+      "serie": "pl",
+      "releaseDate": "2009-12-02",
+      "total": 16,
+      "cards": 16
+    },
+    "si1": {
+      "name": "Southern Islands",
+      "serie": "neo",
+      "releaseDate": "2001-07-31",
+      "total": 18,
+      "cards": 18
+    },
+    "sm1": {
+      "name": "Sun & Moon",
+      "serie": "sm",
+      "releaseDate": "2017-02-03",
+      "total": 172,
+      "cards": 172
+    },
+    "sm10": {
+      "name": "Unbroken Bonds",
+      "serie": "sm",
+      "releaseDate": "2019-05-03",
+      "total": 234,
+      "cards": 234
+    },
+    "sm11": {
+      "name": "Unified Minds",
+      "serie": "sm",
+      "releaseDate": "2019-08-02",
+      "total": 258,
+      "cards": 258
+    },
+    "sm115": {
+      "name": "Hidden Fates",
+      "serie": "sm",
+      "releaseDate": "2019-08-23",
+      "total": 69,
+      "cards": 69
+    },
+    "sm12": {
+      "name": "Cosmic Eclipse",
+      "serie": "sm",
+      "releaseDate": "2019-11-01",
+      "total": 271,
+      "cards": 271
+    },
+    "sm2": {
+      "name": "Guardians Rising",
+      "serie": "sm",
+      "releaseDate": "2017-05-05",
+      "total": 169,
+      "cards": 169
+    },
+    "sm3": {
+      "name": "Burning Shadows",
+      "serie": "sm",
+      "releaseDate": "2017-08-04",
+      "total": 169,
+      "cards": 169
+    },
+    "sm3.5": {
+      "name": "Shining Legends",
+      "serie": "sm",
+      "releaseDate": "2017-10-06",
+      "total": 78,
+      "cards": 78
+    },
+    "sm4": {
+      "name": "Crimson Invasion",
+      "serie": "sm",
+      "releaseDate": "2017-11-03",
+      "total": 125,
+      "cards": 125
+    },
+    "sm5": {
+      "name": "Ultra Prism",
+      "serie": "sm",
+      "releaseDate": "2018-02-02",
+      "total": 173,
+      "cards": 173
+    },
+    "sm6": {
+      "name": "Forbidden Light",
+      "serie": "sm",
+      "releaseDate": "2018-05-04",
+      "total": 146,
+      "cards": 146
+    },
+    "sm7": {
+      "name": "Celestial Storm",
+      "serie": "sm",
+      "releaseDate": "2018-08-03",
+      "total": 183,
+      "cards": 183
+    },
+    "sm7.5": {
+      "name": "Dragon Majesty",
+      "serie": "sm",
+      "releaseDate": "2018-09-07",
+      "total": 78,
+      "cards": 78
+    },
+    "sm8": {
+      "name": "Lost Thunder",
+      "serie": "sm",
+      "releaseDate": "2018-11-02",
+      "total": 236,
+      "cards": 236
+    },
+    "sm9": {
+      "name": "Team Up",
+      "serie": "sm",
+      "releaseDate": "2019-01-31",
+      "total": 196,
+      "cards": 196
+    },
+    "sma": {
+      "name": "Hidden Fates Shiny Vault",
+      "serie": "sm",
+      "releaseDate": "2019-08-23",
+      "total": 94,
+      "cards": 94
+    },
+    "smp": {
+      "name": "SM Black Star Promos",
+      "serie": "sm",
+      "releaseDate": "2017-02-03",
+      "total": 248,
+      "cards": 248
+    },
+    "sp": {
+      "name": "Sample",
+      "serie": "ecard",
+      "releaseDate": "2002-08-01",
+      "total": 10,
+      "cards": 0
+    },
+    "sv01": {
+      "name": "Scarlet & Violet",
+      "serie": "sv",
+      "releaseDate": "2023-03-31",
+      "total": 258,
+      "cards": 258
+    },
+    "sv02": {
+      "name": "Paldea Evolved",
+      "serie": "sv",
+      "releaseDate": "2023-06-09",
+      "total": 279,
+      "cards": 279
+    },
+    "sv03": {
+      "name": "Obsidian Flames",
+      "serie": "sv",
+      "releaseDate": "2023-08-11",
+      "total": 230,
+      "cards": 230
+    },
+    "sv03.5": {
+      "name": "151",
+      "serie": "sv",
+      "releaseDate": "2023-09-22",
+      "total": 207,
+      "cards": 207
+    },
+    "sv04": {
+      "name": "Paradox Rift",
+      "serie": "sv",
+      "releaseDate": "2023-11-03",
+      "total": 266,
+      "cards": 266
+    },
+    "sv04.5": {
+      "name": "Paldean Fates",
+      "serie": "sv",
+      "releaseDate": "2024-01-26",
+      "total": 245,
+      "cards": 245
+    },
+    "sv05": {
+      "name": "Temporal Forces",
+      "serie": "sv",
+      "releaseDate": "2024-03-22",
+      "total": 218,
+      "cards": 218
+    },
+    "sv06": {
+      "name": "Twilight Masquerade",
+      "serie": "sv",
+      "releaseDate": "2024-05-24",
+      "total": 226,
+      "cards": 226
+    },
+    "sv06.5": {
+      "name": "Shrouded Fable",
+      "serie": "sv",
+      "releaseDate": "2024-08-02",
+      "total": 99,
+      "cards": 99
+    },
+    "sv07": {
+      "name": "Stellar Crown",
+      "serie": "sv",
+      "releaseDate": "2024-09-13",
+      "total": 175,
+      "cards": 175
+    },
+    "sv08": {
+      "name": "Surging Sparks",
+      "serie": "sv",
+      "releaseDate": "2024-11-08",
+      "total": 252,
+      "cards": 252
+    },
+    "sv08.5": {
+      "name": "Prismatic Evolutions",
+      "serie": "sv",
+      "releaseDate": "2025-01-17",
+      "total": 180,
+      "cards": 180
+    },
+    "sv09": {
+      "name": "Journey Together",
+      "serie": "sv",
+      "releaseDate": "2025-03-28",
+      "total": 190,
+      "cards": 190
+    },
+    "sv10": {
+      "name": "Destined Rivals",
+      "serie": "sv",
+      "releaseDate": "2025-05-30",
+      "total": 244,
+      "cards": 244
+    },
+    "sv10.5b": {
+      "name": "Black Bolt",
+      "serie": "sv",
+      "releaseDate": "2025-07-17",
+      "total": 172,
+      "cards": 172
+    },
+    "sv10.5w": {
+      "name": "White Flare",
+      "serie": "sv",
+      "releaseDate": "2025-07-17",
+      "total": 173,
+      "cards": 173
+    },
+    "sve": {
+      "name": "Scarlet & Violet Energy",
+      "serie": "sv",
+      "releaseDate": "2023-03-31",
+      "total": 24,
+      "cards": 24
+    },
+    "svp": {
+      "name": "SVP Black Star Promos",
+      "serie": "sv",
+      "releaseDate": "2023-03-31",
+      "total": 226,
+      "cards": 226
+    },
+    "swsh1": {
+      "name": "Sword & Shield",
+      "serie": "swsh",
+      "releaseDate": "2020-02-07",
+      "total": 216,
+      "cards": 216
+    },
+    "swsh10": {
+      "name": "Astral Radiance",
+      "serie": "swsh",
+      "releaseDate": "2022-05-27",
+      "total": 216,
+      "cards": 216
+    },
+    "swsh10.5": {
+      "name": "Pokémon GO",
+      "serie": "swsh",
+      "releaseDate": "2022-07-01",
+      "total": 88,
+      "cards": 88
+    },
+    "swsh10tg": {
+      "name": "Astral Radiance Trainer Gallery",
+      "serie": "swsh",
+      "releaseDate": "2022-05-27",
+      "total": 30,
+      "cards": 30
+    },
+    "swsh11": {
+      "name": "Lost Origin",
+      "serie": "swsh",
+      "releaseDate": "2022-09-09",
+      "total": 217,
+      "cards": 217
+    },
+    "swsh11tg": {
+      "name": "Lost Origin Trainer Gallery",
+      "serie": "swsh",
+      "releaseDate": "2022-09-09",
+      "total": 30,
+      "cards": 30
+    },
+    "swsh12": {
+      "name": "Silver Tempest",
+      "serie": "swsh",
+      "releaseDate": "2022-11-11",
+      "total": 215,
+      "cards": 215
+    },
+    "swsh12.5": {
+      "name": "Crown Zenith",
+      "serie": "swsh",
+      "releaseDate": "2023-01-20",
+      "total": 160,
+      "cards": 160
+    },
+    "swsh12.5gg": {
+      "name": "Crown Zenith Galarian Gallery",
+      "serie": "swsh",
+      "releaseDate": "2023-01-20",
+      "total": 70,
+      "cards": 70
+    },
+    "swsh12tg": {
+      "name": "Silver Tempest Trainer Gallery",
+      "serie": "swsh",
+      "releaseDate": "2022-11-11",
+      "total": 30,
+      "cards": 30
+    },
+    "swsh2": {
+      "name": "Rebel Clash",
+      "serie": "swsh",
+      "releaseDate": "2020-05-01",
+      "total": 209,
+      "cards": 209
+    },
+    "swsh3": {
+      "name": "Darkness Ablaze",
+      "serie": "swsh",
+      "releaseDate": "2020-08-14",
+      "total": 201,
+      "cards": 201
+    },
+    "swsh3.5": {
+      "name": "Champion's Path",
+      "serie": "swsh",
+      "releaseDate": "2020-09-25",
+      "total": 80,
+      "cards": 80
+    },
+    "swsh4": {
+      "name": "Vivid Voltage",
+      "serie": "swsh",
+      "releaseDate": "2020-11-13",
+      "total": 203,
+      "cards": 203
+    },
+    "swsh4.5": {
+      "name": "Shining Fates",
+      "serie": "swsh",
+      "releaseDate": "2021-02-19",
+      "total": 73,
+      "cards": 73
+    },
+    "swsh4.5sv": {
+      "name": "Shining Fates Shiny Vault",
+      "serie": "swsh",
+      "releaseDate": "2021-02-19",
+      "total": 122,
+      "cards": 122
+    },
+    "swsh5": {
+      "name": "Battle Styles",
+      "serie": "swsh",
+      "releaseDate": "2021-03-19",
+      "total": 183,
+      "cards": 183
+    },
+    "swsh6": {
+      "name": "Chilling Reign",
+      "serie": "swsh",
+      "releaseDate": "2021-06-18",
+      "total": 233,
+      "cards": 233
+    },
+    "swsh7": {
+      "name": "Evolving Skies",
+      "serie": "swsh",
+      "releaseDate": "2021-08-27",
+      "total": 237,
+      "cards": 237
+    },
+    "swsh8": {
+      "name": "Fusion Strike",
+      "serie": "swsh",
+      "releaseDate": "2021-11-12",
+      "total": 284,
+      "cards": 284
+    },
+    "swsh9": {
+      "name": "Brilliant Stars",
+      "serie": "swsh",
+      "releaseDate": "2022-02-25",
+      "total": 186,
+      "cards": 186
+    },
+    "swsh9tg": {
+      "name": "Brilliant Stars Trainer Gallery",
+      "serie": "swsh",
+      "releaseDate": "2022-02-25",
+      "total": 30,
+      "cards": 30
+    },
+    "swshp": {
+      "name": "SWSH Black Star Promos",
+      "serie": "swsh",
+      "releaseDate": "2019-11-15",
+      "total": 307,
+      "cards": 307
+    },
+    "tk-bw-e": {
+      "name": "BW trainer Kit (Excadrill)",
+      "serie": "tk",
+      "releaseDate": "2011-09-01",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-bw-z": {
+      "name": "BW trainer Kit (Zoroark)",
+      "serie": "tk",
+      "releaseDate": "2011-09-01",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-dp-l": {
+      "name": "DP trainer Kit (Lucario)",
+      "serie": "tk",
+      "releaseDate": "2007-09-01",
+      "total": 11,
+      "cards": 11
+    },
+    "tk-dp-m": {
+      "name": "DP trainer Kit (Manaphy)",
+      "serie": "tk",
+      "releaseDate": "2007-09-01",
+      "total": 12,
+      "cards": 12
+    },
+    "tk-ex-latia": {
+      "name": "EX trainer Kit (Latias)",
+      "serie": "tk",
+      "releaseDate": "2004-07-01",
+      "total": 10,
+      "cards": 10
+    },
+    "tk-ex-latio": {
+      "name": "EX trainer Kit (Latios)",
+      "serie": "tk",
+      "releaseDate": "2004-07-01",
+      "total": 10,
+      "cards": 10
+    },
+    "tk-ex-m": {
+      "name": "EX trainer Kit 2 (Minun)",
+      "serie": "tk",
+      "releaseDate": "2006-03-01",
+      "total": 12,
+      "cards": 12
+    },
+    "tk-ex-p": {
+      "name": "EX trainer Kit 2 (Plusle)",
+      "serie": "tk",
+      "releaseDate": "2006-03-01",
+      "total": 12,
+      "cards": 12
+    },
+    "tk-hs-g": {
+      "name": "HS trainer Kit (Gyarados)",
+      "serie": "tk",
+      "releaseDate": "2010-05-01",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-hs-r": {
+      "name": "HS trainer Kit (Raichu)",
+      "serie": "tk",
+      "releaseDate": "2010-05-01",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-sm-l": {
+      "name": "SM trainer Kit (Lycanroc)",
+      "serie": "tk",
+      "releaseDate": "2017-04-21",
+      "total": 30,
+      "cards": 18,
+      "noImage": 18
+    },
+    "tk-sm-r": {
+      "name": "SM trainer Kit (Alolan Raichu)",
+      "serie": "tk",
+      "releaseDate": "2017-04-21",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-b": {
+      "name": "XY trainer Kit (Bisharp)",
+      "serie": "tk",
+      "releaseDate": "2014-11-01",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-latia": {
+      "name": "XY trainer Kit (Latias)",
+      "serie": "tk",
+      "releaseDate": "2015-04-29",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-latio": {
+      "name": "XY trainer Kit (Latios)",
+      "serie": "tk",
+      "releaseDate": "2015-04-29",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-n": {
+      "name": "XY trainer Kit (Noivern)",
+      "serie": "tk",
+      "releaseDate": "2014-03-12",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-p": {
+      "name": "XY trainer Kit (Pikachu Libre)",
+      "serie": "tk",
+      "releaseDate": "2016-04-27",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-su": {
+      "name": "XY trainer Kit (Suicune)",
+      "serie": "tk",
+      "releaseDate": "2016-04-27",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-sy": {
+      "name": "XY trainer Kit (Sylveon)",
+      "serie": "tk",
+      "releaseDate": "2014-03-12",
+      "total": 30,
+      "cards": 30
+    },
+    "tk-xy-w": {
+      "name": "XY trainer Kit (Wigglytuff)",
+      "serie": "tk",
+      "releaseDate": "2014-11-01",
+      "total": 30,
+      "cards": 30
+    },
+    "wp": {
+      "name": "W Promotional",
+      "serie": "base",
+      "releaseDate": "1999-09-01",
+      "total": 7,
+      "cards": 0
+    },
+    "xy0": {
+      "name": "Kalos Starter Set",
+      "serie": "xy",
+      "releaseDate": "2013-11-08",
+      "total": 39,
+      "cards": 39
+    },
+    "xy1": {
+      "name": "XY",
+      "serie": "xy",
+      "releaseDate": "2014-02-05",
+      "total": 146,
+      "cards": 146
+    },
+    "xy10": {
+      "name": "Fates Collide",
+      "serie": "xy",
+      "releaseDate": "2016-05-02",
+      "total": 129,
+      "cards": 129
+    },
+    "xy11": {
+      "name": "Steam Siege",
+      "serie": "xy",
+      "releaseDate": "2016-08-03",
+      "total": 116,
+      "cards": 116
+    },
+    "xy12": {
+      "name": "Evolutions",
+      "serie": "xy",
+      "releaseDate": "2016-11-02",
+      "total": 113,
+      "cards": 113
+    },
+    "xy2": {
+      "name": "Flashfire",
+      "serie": "xy",
+      "releaseDate": "2014-05-07",
+      "total": 110,
+      "cards": 110
+    },
+    "xy3": {
+      "name": "Furious Fists",
+      "serie": "xy",
+      "releaseDate": "2014-08-13",
+      "total": 114,
+      "cards": 114
+    },
+    "xy4": {
+      "name": "Phantom Forces",
+      "serie": "xy",
+      "releaseDate": "2014-11-05",
+      "total": 124,
+      "cards": 124
+    },
+    "xy5": {
+      "name": "Primal Clash",
+      "serie": "xy",
+      "releaseDate": "2015-02-04",
+      "total": 164,
+      "cards": 164
+    },
+    "xy6": {
+      "name": "Roaring Skies",
+      "serie": "xy",
+      "releaseDate": "2015-05-06",
+      "total": 112,
+      "cards": 112
+    },
+    "xy7": {
+      "name": "Ancient Origins",
+      "serie": "xy",
+      "releaseDate": "2015-08-12",
+      "total": 101,
+      "cards": 101
+    },
+    "xy8": {
+      "name": "BREAKthrough",
+      "serie": "xy",
+      "releaseDate": "2015-11-04",
+      "total": 165,
+      "cards": 165
+    },
+    "xy9": {
+      "name": "BREAKpoint",
+      "serie": "xy",
+      "releaseDate": "2016-02-03",
+      "total": 126,
+      "cards": 126
+    },
+    "xya": {
+      "name": "Yellow A Alternate",
+      "serie": "xy",
+      "releaseDate": "2014-02-05",
+      "total": 6,
+      "cards": 6
+    },
+    "xyp": {
+      "name": "XY Black Star Promos",
+      "serie": "xy",
+      "releaseDate": "2013-10-12",
+      "total": 216,
+      "cards": 216
+    }
+  },
+  "updatedAt": "2026-10-21T16:48:36.887Z"
+}

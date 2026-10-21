@@ -1,0 +1,190 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2016xy",
+    "name": "McDonald's Collection 2016",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2016-08-20",
+    "code": "MCD16",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:36.959Z",
+  "cards": {
+    "2016xy-1": {
+      "id": "2016xy-1",
+      "localId": "1",
+      "set": "2016xy",
+      "name": "Vulpix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-3": {
+      "id": "2016xy-3",
+      "localId": "3",
+      "set": "2016xy",
+      "name": "Fennekin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-4": {
+      "id": "2016xy-4",
+      "localId": "4",
+      "set": "2016xy",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-5": {
+      "id": "2016xy-5",
+      "localId": "5",
+      "set": "2016xy",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-6": {
+      "id": "2016xy-6",
+      "localId": "6",
+      "set": "2016xy",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-2": {
+      "id": "2016xy-2",
+      "localId": "2",
+      "set": "2016xy",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-9": {
+      "id": "2016xy-9",
+      "localId": "9",
+      "set": "2016xy",
+      "name": "Togepi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-7": {
+      "id": "2016xy-7",
+      "localId": "7",
+      "set": "2016xy",
+      "name": "Scraggy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-8": {
+      "id": "2016xy-8",
+      "localId": "8",
+      "set": "2016xy",
+      "name": "Jigglypuff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-10": {
+      "id": "2016xy-10",
+      "localId": "10",
+      "set": "2016xy",
+      "name": "Dedenne",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fairy"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-12": {
+      "id": "2016xy-12",
+      "localId": "12",
+      "set": "2016xy",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    },
+    "2016xy-11": {
+      "id": "2016xy-11",
+      "localId": "11",
+      "set": "2016xy",
+      "name": "Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "updated": "2026-07-01T21:16:24+01:00"
+    }
+  }
+}

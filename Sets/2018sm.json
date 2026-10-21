@@ -1,0 +1,202 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2018sm",
+    "name": "McDonald's Collection 2018",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2018-10-19",
+    "code": "MCD18",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 12,
+      "normal": 0,
+      "official": 12,
+      "reverse": 0,
+      "total": 12
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:41.756Z",
+  "cards": {
+    "2018sm-1": {
+      "id": "2018sm-1",
+      "localId": "1",
+      "set": "2018sm",
+      "name": "Growlithe",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-3": {
+      "id": "2018sm-3",
+      "localId": "3",
+      "set": "2018sm",
+      "name": "Horsea",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-5": {
+      "id": "2018sm-5",
+      "localId": "5",
+      "set": "2018sm",
+      "name": "Slowpoke",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-2": {
+      "id": "2018sm-2",
+      "localId": "2",
+      "set": "2018sm",
+      "name": "Psyduck",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-6": {
+      "id": "2018sm-6",
+      "localId": "6",
+      "set": "2018sm",
+      "name": "Machop",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-7": {
+      "id": "2018sm-7",
+      "localId": "7",
+      "set": "2018sm",
+      "name": "Cubone",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-9": {
+      "id": "2018sm-9",
+      "localId": "9",
+      "set": "2018sm",
+      "name": "Dratini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-11": {
+      "id": "2018sm-11",
+      "localId": "11",
+      "set": "2018sm",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-10": {
+      "id": "2018sm-10",
+      "localId": "10",
+      "set": "2018sm",
+      "name": "Chansey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-8": {
+      "id": "2018sm-8",
+      "localId": "8",
+      "set": "2018sm",
+      "name": "Magnemite",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-12": {
+      "id": "2018sm-12",
+      "localId": "12",
+      "set": "2018sm",
+      "name": "Porygon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T19:25:45Z"
+    },
+    "2018sm-4": {
+      "id": "2018sm-4",
+      "localId": "4",
+      "set": "2018sm",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T19:25:45Z"
+    }
+  }
+}

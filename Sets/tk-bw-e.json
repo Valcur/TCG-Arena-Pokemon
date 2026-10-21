@@ -1,0 +1,382 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-bw-e",
+    "name": "BW trainer Kit (Excadrill)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2011-09-01",
+    "code": "TK5E",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 29,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:24.541Z",
+  "cards": {
+    "tk-bw-e-1": {
+      "id": "tk-bw-e-1",
+      "localId": "1",
+      "set": "tk-bw-e",
+      "name": "Lillipup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-4": {
+      "id": "tk-bw-e-4",
+      "localId": "4",
+      "set": "tk-bw-e",
+      "name": "Energy Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-3": {
+      "id": "tk-bw-e-3",
+      "localId": "3",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-8": {
+      "id": "tk-bw-e-8",
+      "localId": "8",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-9": {
+      "id": "tk-bw-e-9",
+      "localId": "9",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-7": {
+      "id": "tk-bw-e-7",
+      "localId": "7",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-5": {
+      "id": "tk-bw-e-5",
+      "localId": "5",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-2": {
+      "id": "tk-bw-e-2",
+      "localId": "2",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-6": {
+      "id": "tk-bw-e-6",
+      "localId": "6",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-10": {
+      "id": "tk-bw-e-10",
+      "localId": "10",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-11": {
+      "id": "tk-bw-e-11",
+      "localId": "11",
+      "set": "tk-bw-e",
+      "name": "Timburr",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-12": {
+      "id": "tk-bw-e-12",
+      "localId": "12",
+      "set": "tk-bw-e",
+      "name": "Audino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-14": {
+      "id": "tk-bw-e-14",
+      "localId": "14",
+      "set": "tk-bw-e",
+      "name": "Gurdurr",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-15": {
+      "id": "tk-bw-e-15",
+      "localId": "15",
+      "set": "tk-bw-e",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-13": {
+      "id": "tk-bw-e-13",
+      "localId": "13",
+      "set": "tk-bw-e",
+      "name": "Drilbur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-17": {
+      "id": "tk-bw-e-17",
+      "localId": "17",
+      "set": "tk-bw-e",
+      "name": "Excadrill",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-19": {
+      "id": "tk-bw-e-19",
+      "localId": "19",
+      "set": "tk-bw-e",
+      "name": "Herdier",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-21": {
+      "id": "tk-bw-e-21",
+      "localId": "21",
+      "set": "tk-bw-e",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-22": {
+      "id": "tk-bw-e-22",
+      "localId": "22",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-16": {
+      "id": "tk-bw-e-16",
+      "localId": "16",
+      "set": "tk-bw-e",
+      "name": "PlusPower",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-23": {
+      "id": "tk-bw-e-23",
+      "localId": "23",
+      "set": "tk-bw-e",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-18": {
+      "id": "tk-bw-e-18",
+      "localId": "18",
+      "set": "tk-bw-e",
+      "name": "Audino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-20": {
+      "id": "tk-bw-e-20",
+      "localId": "20",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-24": {
+      "id": "tk-bw-e-24",
+      "localId": "24",
+      "set": "tk-bw-e",
+      "name": "Pokémon Communication",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-25": {
+      "id": "tk-bw-e-25",
+      "localId": "25",
+      "set": "tk-bw-e",
+      "name": "Drilbur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-27": {
+      "id": "tk-bw-e-27",
+      "localId": "27",
+      "set": "tk-bw-e",
+      "name": "Lillipup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-26": {
+      "id": "tk-bw-e-26",
+      "localId": "26",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    },
+    "tk-bw-e-29": {
+      "id": "tk-bw-e-29",
+      "localId": "29",
+      "set": "tk-bw-e",
+      "name": "Timburr",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-30": {
+      "id": "tk-bw-e-30",
+      "localId": "30",
+      "set": "tk-bw-e",
+      "name": "Excadrill",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-15T23:28:40+01:00"
+    },
+    "tk-bw-e-28": {
+      "id": "tk-bw-e-28",
+      "localId": "28",
+      "set": "tk-bw-e",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "updated": "2026-08-03T19:19:05+01:00"
+    }
+  }
+}

@@ -1,306 +1,262 @@
-[
-  {
-    "id": "sve-1",
-    "name": "Basic Grass Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "1",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
-    },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/1.png",
-      "large": "https://images.pokemontcg.io/sve/1_hires.png"
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "sve",
+    "name": "Scarlet & Violet Energy",
+    "serie": "sv",
+    "serieName": "Scarlet & Violet",
+    "releaseDate": "2023-03-31",
+    "code": "SVE",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 40,
+      "official": 24,
+      "reverse": 72,
+      "total": 24
     }
   },
-  {
-    "id": "sve-2",
-    "name": "Basic Fire Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "2",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+  "updatedAt": "2026-10-21T16:26:01.337Z",
+  "cards": {
+    "sve-004": {
+      "id": "sve-004",
+      "localId": "004",
+      "set": "sve",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/2.png",
-      "large": "https://images.pokemontcg.io/sve/2_hires.png"
-    }
-  },
-  {
-    "id": "sve-3",
-    "name": "Basic Water Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "3",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-003": {
+      "id": "sve-003",
+      "localId": "003",
+      "set": "sve",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/3.png",
-      "large": "https://images.pokemontcg.io/sve/3_hires.png"
-    }
-  },
-  {
-    "id": "sve-4",
-    "name": "Basic Lightning Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "4",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-006": {
+      "id": "sve-006",
+      "localId": "006",
+      "set": "sve",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/4.png",
-      "large": "https://images.pokemontcg.io/sve/4_hires.png"
-    }
-  },
-  {
-    "id": "sve-5",
-    "name": "Basic Psychic Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "5",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-001": {
+      "id": "sve-001",
+      "localId": "001",
+      "set": "sve",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/5.png",
-      "large": "https://images.pokemontcg.io/sve/5_hires.png"
-    }
-  },
-  {
-    "id": "sve-6",
-    "name": "Basic Fighting Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "6",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-007": {
+      "id": "sve-007",
+      "localId": "007",
+      "set": "sve",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/6.png",
-      "large": "https://images.pokemontcg.io/sve/6_hires.png"
-    }
-  },
-  {
-    "id": "sve-7",
-    "name": "Basic Darkness Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "7",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-008": {
+      "id": "sve-008",
+      "localId": "008",
+      "set": "sve",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/7.png",
-      "large": "https://images.pokemontcg.io/sve/7_hires.png"
-    }
-  },
-  {
-    "id": "sve-8",
-    "name": "Basic Metal Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "8",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-009": {
+      "id": "sve-009",
+      "localId": "009",
+      "set": "sve",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/8.png",
-      "large": "https://images.pokemontcg.io/sve/8_hires.png"
-    }
-  },
-  {
-    "id": "sve-9",
-    "name": "Basic Grass Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "9",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-010": {
+      "id": "sve-010",
+      "localId": "010",
+      "set": "sve",
+      "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/9.png",
-      "large": "https://images.pokemontcg.io/sve/9_hires.png"
-    }
-  },
-  {
-    "id": "sve-10",
-    "name": "Basic Fire Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "10",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-005": {
+      "id": "sve-005",
+      "localId": "005",
+      "set": "sve",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/10.png",
-      "large": "https://images.pokemontcg.io/sve/10_hires.png"
-    }
-  },
-  {
-    "id": "sve-11",
-    "name": "Basic Water Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "11",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-002": {
+      "id": "sve-002",
+      "localId": "002",
+      "set": "sve",
+      "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/11.png",
-      "large": "https://images.pokemontcg.io/sve/11_hires.png"
-    }
-  },
-  {
-    "id": "sve-12",
-    "name": "Basic Lightning Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "12",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-012": {
+      "id": "sve-012",
+      "localId": "012",
+      "set": "sve",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/12.png",
-      "large": "https://images.pokemontcg.io/sve/12_hires.png"
-    }
-  },
-  {
-    "id": "sve-13",
-    "name": "Basic Psychic Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "13",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-014": {
+      "id": "sve-014",
+      "localId": "014",
+      "set": "sve",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/13.png",
-      "large": "https://images.pokemontcg.io/sve/13_hires.png"
-    }
-  },
-  {
-    "id": "sve-14",
-    "name": "Basic Fighting Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "14",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-013": {
+      "id": "sve-013",
+      "localId": "013",
+      "set": "sve",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/14.png",
-      "large": "https://images.pokemontcg.io/sve/14_hires.png"
-    }
-  },
-  {
-    "id": "sve-15",
-    "name": "Basic Darkness Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "15",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-016": {
+      "id": "sve-016",
+      "localId": "016",
+      "set": "sve",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/15.png",
-      "large": "https://images.pokemontcg.io/sve/15_hires.png"
-    }
-  },
-  {
-    "id": "sve-16",
-    "name": "Basic Metal Energy",
-    "supertype": "Energy",
-    "subtypes": [
-      "Basic"
-    ],
-    "number": "16",
-    "rarity": "Common",
-    "legalities": {
-      "unlimited": "Legal",
-      "standard": "Legal",
-      "expanded": "Legal"
+    "sve-015": {
+      "id": "sve-015",
+      "localId": "015",
+      "set": "sve",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     },
-    "images": {
-      "small": "https://images.pokemontcg.io/sve/16.png",
-      "large": "https://images.pokemontcg.io/sve/16_hires.png"
+    "sve-017": {
+      "id": "sve-017",
+      "localId": "017",
+      "set": "sve",
+      "name": "Grass Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-018": {
+      "id": "sve-018",
+      "localId": "018",
+      "set": "sve",
+      "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-019": {
+      "id": "sve-019",
+      "localId": "019",
+      "set": "sve",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-021": {
+      "id": "sve-021",
+      "localId": "021",
+      "set": "sve",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-020": {
+      "id": "sve-020",
+      "localId": "020",
+      "set": "sve",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-022": {
+      "id": "sve-022",
+      "localId": "022",
+      "set": "sve",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-023": {
+      "id": "sve-023",
+      "localId": "023",
+      "set": "sve",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-024": {
+      "id": "sve-024",
+      "localId": "024",
+      "set": "sve",
+      "name": "Metal Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
+    },
+    "sve-011": {
+      "id": "sve-011",
+      "localId": "011",
+      "set": "sve",
+      "name": "Water Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-06-18T14:32:08+01:00"
     }
   }
-]
+}

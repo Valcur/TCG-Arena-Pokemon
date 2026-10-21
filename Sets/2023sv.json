@@ -1,0 +1,247 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2023sv",
+    "name": "McDonald's Collection 2023",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2023-08-01",
+    "code": "MCD23",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 6,
+      "normal": 9,
+      "official": 15,
+      "reverse": 0,
+      "total": 15
+    }
+  },
+  "updatedAt": "2026-10-21T16:26:02.768Z",
+  "cards": {
+    "2023sv-5": {
+      "id": "2023sv-5",
+      "localId": "5",
+      "set": "2023sv",
+      "name": "Cetitan",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 180,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-2": {
+      "id": "2023sv-2",
+      "localId": "2",
+      "set": "2023sv",
+      "name": "Fuecoco",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-6": {
+      "id": "2023sv-6",
+      "localId": "6",
+      "set": "2023sv",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-3": {
+      "id": "2023sv-3",
+      "localId": "3",
+      "set": "2023sv",
+      "name": "Quaxly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-1": {
+      "id": "2023sv-1",
+      "localId": "1",
+      "set": "2023sv",
+      "name": "Sprigatito",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-4": {
+      "id": "2023sv-4",
+      "localId": "4",
+      "set": "2023sv",
+      "name": "Cetoddle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-7": {
+      "id": "2023sv-7",
+      "localId": "7",
+      "set": "2023sv",
+      "name": "Pawmi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-10": {
+      "id": "2023sv-10",
+      "localId": "10",
+      "set": "2023sv",
+      "name": "Sandaconda",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 140,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-8": {
+      "id": "2023sv-8",
+      "localId": "8",
+      "set": "2023sv",
+      "name": "Kilowattrel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-9": {
+      "id": "2023sv-9",
+      "localId": "9",
+      "set": "2023sv",
+      "name": "Flittle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-11": {
+      "id": "2023sv-11",
+      "localId": "11",
+      "set": "2023sv",
+      "name": "Klawf",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-12": {
+      "id": "2023sv-12",
+      "localId": "12",
+      "set": "2023sv",
+      "name": "Blissey",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 150,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-14": {
+      "id": "2023sv-14",
+      "localId": "14",
+      "set": "2023sv",
+      "name": "Cyclizar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-20T22:01:34+01:00"
+    },
+    "2023sv-13": {
+      "id": "2023sv-13",
+      "localId": "13",
+      "set": "2023sv",
+      "name": "Tandemaus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    },
+    "2023sv-15": {
+      "id": "2023sv-15",
+      "localId": "15",
+      "set": "2023sv",
+      "name": "Kirlia",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-20T08:26:18+01:00"
+    }
+  }
+}

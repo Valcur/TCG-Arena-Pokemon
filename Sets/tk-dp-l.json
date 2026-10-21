@@ -1,0 +1,175 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-dp-l",
+    "name": "DP trainer Kit (Lucario)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2007-09-01",
+    "code": "TK3L",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 10,
+      "official": 11,
+      "reverse": 0,
+      "total": 11
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:14.527Z",
+  "cards": {
+    "tk-dp-l-5": {
+      "id": "tk-dp-l-5",
+      "localId": "5",
+      "set": "tk-dp-l",
+      "name": "Machop",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-4": {
+      "id": "tk-dp-l-4",
+      "localId": "4",
+      "set": "tk-dp-l",
+      "name": "Machoke",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-2": {
+      "id": "tk-dp-l-2",
+      "localId": "2",
+      "set": "tk-dp-l",
+      "name": "Graveler",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-3": {
+      "id": "tk-dp-l-3",
+      "localId": "3",
+      "set": "tk-dp-l",
+      "name": "Lucario",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-1": {
+      "id": "tk-dp-l-1",
+      "localId": "1",
+      "set": "tk-dp-l",
+      "name": "Geodude",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-6": {
+      "id": "tk-dp-l-6",
+      "localId": "6",
+      "set": "tk-dp-l",
+      "name": "Riolu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-7": {
+      "id": "tk-dp-l-7",
+      "localId": "7",
+      "set": "tk-dp-l",
+      "name": "Starly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-10": {
+      "id": "tk-dp-l-10",
+      "localId": "10",
+      "set": "tk-dp-l",
+      "name": "Quick Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-9": {
+      "id": "tk-dp-l-9",
+      "localId": "9",
+      "set": "tk-dp-l",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-11": {
+      "id": "tk-dp-l-11",
+      "localId": "11",
+      "set": "tk-dp-l",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 0,
+      "updated": "2026-07-26T10:09:48+01:00"
+    },
+    "tk-dp-l-8": {
+      "id": "tk-dp-l-8",
+      "localId": "8",
+      "set": "tk-dp-l",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-07-26T10:09:48+01:00"
+    }
+  }
+}

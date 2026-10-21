@@ -1,0 +1,83 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "fut2020",
+    "name": "Pokémon Futsal 2020",
+    "serie": "swsh",
+    "serieName": "Sword & Shield",
+    "releaseDate": "2020-09-11",
+    "code": "FUT20",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 5,
+      "normal": 0,
+      "official": 5,
+      "reverse": 0,
+      "total": 5
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:50.096Z",
+  "cards": {
+    "fut2020-1": {
+      "id": "fut2020-1",
+      "localId": "1",
+      "set": "fut2020",
+      "name": "Pikachu on the Ball",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/fut2020/1",
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "fut2020-2": {
+      "id": "fut2020-2",
+      "localId": "2",
+      "set": "fut2020",
+      "name": "Eevee on the Ball",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "image": "https://assets.tcgdex.net/en/swsh/fut2020/2",
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "fut2020-3": {
+      "id": "fut2020-3",
+      "localId": "3",
+      "set": "fut2020",
+      "name": "Grookey on the Ball",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "image": "https://assets.tcgdex.net/en/swsh/fut2020/3",
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "fut2020-5": {
+      "id": "fut2020-5",
+      "localId": "5",
+      "set": "fut2020",
+      "name": "Sobble on the Ball",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "image": "https://assets.tcgdex.net/en/swsh/fut2020/5",
+      "updated": "2026-07-02T11:27:22+01:00"
+    },
+    "fut2020-4": {
+      "id": "fut2020-4",
+      "localId": "4",
+      "set": "fut2020",
+      "name": "Scorbunny on the Ball",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "image": "https://assets.tcgdex.net/en/swsh/fut2020/4",
+      "updated": "2026-07-02T11:27:22+01:00"
+    }
+  }
+}

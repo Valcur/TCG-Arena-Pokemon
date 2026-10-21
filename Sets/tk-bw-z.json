@@ -1,0 +1,444 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-bw-z",
+    "name": "BW trainer Kit (Zoroark)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2011-09-01",
+    "code": "TK5Z",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 29,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:24.646Z",
+  "cards": {
+    "tk-bw-z-1": {
+      "id": "tk-bw-z-1",
+      "localId": "1",
+      "set": "tk-bw-z",
+      "name": "Purrloin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-2": {
+      "id": "tk-bw-z-2",
+      "localId": "2",
+      "set": "tk-bw-z",
+      "name": "Watchog",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-3": {
+      "id": "tk-bw-z-3",
+      "localId": "3",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-6": {
+      "id": "tk-bw-z-6",
+      "localId": "6",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-4": {
+      "id": "tk-bw-z-4",
+      "localId": "4",
+      "set": "tk-bw-z",
+      "name": "Minccino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-5": {
+      "id": "tk-bw-z-5",
+      "localId": "5",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-7": {
+      "id": "tk-bw-z-7",
+      "localId": "7",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-9": {
+      "id": "tk-bw-z-9",
+      "localId": "9",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-8": {
+      "id": "tk-bw-z-8",
+      "localId": "8",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-10": {
+      "id": "tk-bw-z-10",
+      "localId": "10",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-12": {
+      "id": "tk-bw-z-12",
+      "localId": "12",
+      "set": "tk-bw-z",
+      "name": "Patrat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-11": {
+      "id": "tk-bw-z-11",
+      "localId": "11",
+      "set": "tk-bw-z",
+      "name": "PlusPower",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-13": {
+      "id": "tk-bw-z-13",
+      "localId": "13",
+      "set": "tk-bw-z",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-16": {
+      "id": "tk-bw-z-16",
+      "localId": "16",
+      "set": "tk-bw-z",
+      "name": "Energy Retrieval",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-15": {
+      "id": "tk-bw-z-15",
+      "localId": "15",
+      "set": "tk-bw-z",
+      "name": "Tranquill",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-14": {
+      "id": "tk-bw-z-14",
+      "localId": "14",
+      "set": "tk-bw-z",
+      "name": "Pidove",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-17": {
+      "id": "tk-bw-z-17",
+      "localId": "17",
+      "set": "tk-bw-z",
+      "name": "Zoroark",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-18": {
+      "id": "tk-bw-z-18",
+      "localId": "18",
+      "set": "tk-bw-z",
+      "name": "Pokémon Communication",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-19": {
+      "id": "tk-bw-z-19",
+      "localId": "19",
+      "set": "tk-bw-z",
+      "name": "Minccino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-22": {
+      "id": "tk-bw-z-22",
+      "localId": "22",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-24": {
+      "id": "tk-bw-z-24",
+      "localId": "24",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-20": {
+      "id": "tk-bw-z-20",
+      "localId": "20",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-21": {
+      "id": "tk-bw-z-21",
+      "localId": "21",
+      "set": "tk-bw-z",
+      "name": "Pidove",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-23": {
+      "id": "tk-bw-z-23",
+      "localId": "23",
+      "set": "tk-bw-z",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-25": {
+      "id": "tk-bw-z-25",
+      "localId": "25",
+      "set": "tk-bw-z",
+      "name": "Purrloin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-26": {
+      "id": "tk-bw-z-26",
+      "localId": "26",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-29": {
+      "id": "tk-bw-z-29",
+      "localId": "29",
+      "set": "tk-bw-z",
+      "name": "Patrat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-28": {
+      "id": "tk-bw-z-28",
+      "localId": "28",
+      "set": "tk-bw-z",
+      "name": "Darkness Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "None",
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    },
+    "tk-bw-z-30": {
+      "id": "tk-bw-z-30",
+      "localId": "30",
+      "set": "tk-bw-z",
+      "name": "Zoroark",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:27:26+01:00"
+    },
+    "tk-bw-z-27": {
+      "id": "tk-bw-z-27",
+      "localId": "27",
+      "set": "tk-bw-z",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-03T19:22:28+01:00"
+    }
+  }
+}

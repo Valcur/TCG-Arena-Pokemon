@@ -1,0 +1,1852 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "swsh4.5sv",
+    "name": "Shining Fates Shiny Vault",
+    "serie": "swsh",
+    "serieName": "Sword & Shield",
+    "releaseDate": "2021-02-19",
+    "code": "SHF",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 122,
+      "normal": 0,
+      "official": 122,
+      "reverse": 0,
+      "total": 122
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:51.542Z",
+  "cards": {
+    "swsh4.5sv-SV006": {
+      "id": "swsh4.5sv-SV006",
+      "localId": "SV006",
+      "set": "swsh4.5sv",
+      "name": "Rillaboom",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 170,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV004": {
+      "id": "swsh4.5sv-SV004",
+      "localId": "SV004",
+      "set": "swsh4.5sv",
+      "name": "Grookey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV005": {
+      "id": "swsh4.5sv-SV005",
+      "localId": "SV005",
+      "set": "swsh4.5sv",
+      "name": "Thwackey",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV002": {
+      "id": "swsh4.5sv-SV002",
+      "localId": "SV002",
+      "set": "swsh4.5sv",
+      "name": "Dartrix",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV003": {
+      "id": "swsh4.5sv-SV003",
+      "localId": "SV003",
+      "set": "swsh4.5sv",
+      "name": "Decidueye",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 140,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV001": {
+      "id": "swsh4.5sv-SV001",
+      "localId": "SV001",
+      "set": "swsh4.5sv",
+      "name": "Rowlet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV007": {
+      "id": "swsh4.5sv-SV007",
+      "localId": "SV007",
+      "set": "swsh4.5sv",
+      "name": "Blipbug",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV012": {
+      "id": "swsh4.5sv-SV012",
+      "localId": "SV012",
+      "set": "swsh4.5sv",
+      "name": "Applin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 40,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV010": {
+      "id": "swsh4.5sv-SV010",
+      "localId": "SV010",
+      "set": "swsh4.5sv",
+      "name": "Gossifleur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV009": {
+      "id": "swsh4.5sv-SV009",
+      "localId": "SV009",
+      "set": "swsh4.5sv",
+      "name": "Orbeetle",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV011": {
+      "id": "swsh4.5sv-SV011",
+      "localId": "SV011",
+      "set": "swsh4.5sv",
+      "name": "Eldegoss",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV013": {
+      "id": "swsh4.5sv-SV013",
+      "localId": "SV013",
+      "set": "swsh4.5sv",
+      "name": "Flapple",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV015": {
+      "id": "swsh4.5sv-SV015",
+      "localId": "SV015",
+      "set": "swsh4.5sv",
+      "name": "Scorbunny",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV014": {
+      "id": "swsh4.5sv-SV014",
+      "localId": "SV014",
+      "set": "swsh4.5sv",
+      "name": "Appletun",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV016": {
+      "id": "swsh4.5sv-SV016",
+      "localId": "SV016",
+      "set": "swsh4.5sv",
+      "name": "Raboot",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV017": {
+      "id": "swsh4.5sv-SV017",
+      "localId": "SV017",
+      "set": "swsh4.5sv",
+      "name": "Cinderace",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 170,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV018": {
+      "id": "swsh4.5sv-SV018",
+      "localId": "SV018",
+      "set": "swsh4.5sv",
+      "name": "Sizzlipede",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV020": {
+      "id": "swsh4.5sv-SV020",
+      "localId": "SV020",
+      "set": "swsh4.5sv",
+      "name": "Galarian Mr. Mime",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV019": {
+      "id": "swsh4.5sv-SV019",
+      "localId": "SV019",
+      "set": "swsh4.5sv",
+      "name": "Centiskorch",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV022": {
+      "id": "swsh4.5sv-SV022",
+      "localId": "SV022",
+      "set": "swsh4.5sv",
+      "name": "Suicune",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV021": {
+      "id": "swsh4.5sv-SV021",
+      "localId": "SV021",
+      "set": "swsh4.5sv",
+      "name": "Galarian Mr. Rime",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV008": {
+      "id": "swsh4.5sv-SV008",
+      "localId": "SV008",
+      "set": "swsh4.5sv",
+      "name": "Dottler",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV023": {
+      "id": "swsh4.5sv-SV023",
+      "localId": "SV023",
+      "set": "swsh4.5sv",
+      "name": "Galarian Darumaka",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV024": {
+      "id": "swsh4.5sv-SV024",
+      "localId": "SV024",
+      "set": "swsh4.5sv",
+      "name": "Galarian Darmanitan",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 140,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV025": {
+      "id": "swsh4.5sv-SV025",
+      "localId": "SV025",
+      "set": "swsh4.5sv",
+      "name": "Sobble",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV026": {
+      "id": "swsh4.5sv-SV026",
+      "localId": "SV026",
+      "set": "swsh4.5sv",
+      "name": "Drizzile",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV027": {
+      "id": "swsh4.5sv-SV027",
+      "localId": "SV027",
+      "set": "swsh4.5sv",
+      "name": "Inteleon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 160,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV028": {
+      "id": "swsh4.5sv-SV028",
+      "localId": "SV028",
+      "set": "swsh4.5sv",
+      "name": "Chewtle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV029": {
+      "id": "swsh4.5sv-SV029",
+      "localId": "SV029",
+      "set": "swsh4.5sv",
+      "name": "Drednaw",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV031": {
+      "id": "swsh4.5sv-SV031",
+      "localId": "SV031",
+      "set": "swsh4.5sv",
+      "name": "Arrokuda",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV030": {
+      "id": "swsh4.5sv-SV030",
+      "localId": "SV030",
+      "set": "swsh4.5sv",
+      "name": "Cramorant",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV032": {
+      "id": "swsh4.5sv-SV032",
+      "localId": "SV032",
+      "set": "swsh4.5sv",
+      "name": "Barraskewda",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV033": {
+      "id": "swsh4.5sv-SV033",
+      "localId": "SV033",
+      "set": "swsh4.5sv",
+      "name": "Snom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV036": {
+      "id": "swsh4.5sv-SV036",
+      "localId": "SV036",
+      "set": "swsh4.5sv",
+      "name": "Dracovish",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 150,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV034": {
+      "id": "swsh4.5sv-SV034",
+      "localId": "SV034",
+      "set": "swsh4.5sv",
+      "name": "Frosmoth",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV035": {
+      "id": "swsh4.5sv-SV035",
+      "localId": "SV035",
+      "set": "swsh4.5sv",
+      "name": "Eiscue",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV037": {
+      "id": "swsh4.5sv-SV037",
+      "localId": "SV037",
+      "set": "swsh4.5sv",
+      "name": "Arctovish",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 150,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV039": {
+      "id": "swsh4.5sv-SV039",
+      "localId": "SV039",
+      "set": "swsh4.5sv",
+      "name": "Yamper",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV038": {
+      "id": "swsh4.5sv-SV038",
+      "localId": "SV038",
+      "set": "swsh4.5sv",
+      "name": "Rotom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV040": {
+      "id": "swsh4.5sv-SV040",
+      "localId": "SV040",
+      "set": "swsh4.5sv",
+      "name": "Boltund",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV044": {
+      "id": "swsh4.5sv-SV044",
+      "localId": "SV044",
+      "set": "swsh4.5sv",
+      "name": "Morpeko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV041": {
+      "id": "swsh4.5sv-SV041",
+      "localId": "SV041",
+      "set": "swsh4.5sv",
+      "name": "Toxel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV042": {
+      "id": "swsh4.5sv-SV042",
+      "localId": "SV042",
+      "set": "swsh4.5sv",
+      "name": "Toxtricity",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV043": {
+      "id": "swsh4.5sv-SV043",
+      "localId": "SV043",
+      "set": "swsh4.5sv",
+      "name": "Pincurchin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV045": {
+      "id": "swsh4.5sv-SV045",
+      "localId": "SV045",
+      "set": "swsh4.5sv",
+      "name": "Dracozolt",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 160,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV047": {
+      "id": "swsh4.5sv-SV047",
+      "localId": "SV047",
+      "set": "swsh4.5sv",
+      "name": "Galarian Ponyta",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV046": {
+      "id": "swsh4.5sv-SV046",
+      "localId": "SV046",
+      "set": "swsh4.5sv",
+      "name": "Arctozolt",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV048": {
+      "id": "swsh4.5sv-SV048",
+      "localId": "SV048",
+      "set": "swsh4.5sv",
+      "name": "Galarian Rapidash",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV050": {
+      "id": "swsh4.5sv-SV050",
+      "localId": "SV050",
+      "set": "swsh4.5sv",
+      "name": "Galarian Cursola",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV049": {
+      "id": "swsh4.5sv-SV049",
+      "localId": "SV049",
+      "set": "swsh4.5sv",
+      "name": "Galarian Corsola",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV051": {
+      "id": "swsh4.5sv-SV051",
+      "localId": "SV051",
+      "set": "swsh4.5sv",
+      "name": "Dedenne",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV053": {
+      "id": "swsh4.5sv-SV053",
+      "localId": "SV053",
+      "set": "swsh4.5sv",
+      "name": "Polteageist",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV052": {
+      "id": "swsh4.5sv-SV052",
+      "localId": "SV052",
+      "set": "swsh4.5sv",
+      "name": "Sinistea",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV054": {
+      "id": "swsh4.5sv-SV054",
+      "localId": "SV054",
+      "set": "swsh4.5sv",
+      "name": "Hatenna",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV056": {
+      "id": "swsh4.5sv-SV056",
+      "localId": "SV056",
+      "set": "swsh4.5sv",
+      "name": "Hatterene",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV055": {
+      "id": "swsh4.5sv-SV055",
+      "localId": "SV055",
+      "set": "swsh4.5sv",
+      "name": "Hattrem",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV057": {
+      "id": "swsh4.5sv-SV057",
+      "localId": "SV057",
+      "set": "swsh4.5sv",
+      "name": "Milcery",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV058": {
+      "id": "swsh4.5sv-SV058",
+      "localId": "SV058",
+      "set": "swsh4.5sv",
+      "name": "Alcremie",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV059": {
+      "id": "swsh4.5sv-SV059",
+      "localId": "SV059",
+      "set": "swsh4.5sv",
+      "name": "Indeedee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV060": {
+      "id": "swsh4.5sv-SV060",
+      "localId": "SV060",
+      "set": "swsh4.5sv",
+      "name": "Dreepy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV061": {
+      "id": "swsh4.5sv-SV061",
+      "localId": "SV061",
+      "set": "swsh4.5sv",
+      "name": "Drakloak",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV063": {
+      "id": "swsh4.5sv-SV063",
+      "localId": "SV063",
+      "set": "swsh4.5sv",
+      "name": "Galarian Farfetch'd",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV062": {
+      "id": "swsh4.5sv-SV062",
+      "localId": "SV062",
+      "set": "swsh4.5sv",
+      "name": "Dragapult",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV065": {
+      "id": "swsh4.5sv-SV065",
+      "localId": "SV065",
+      "set": "swsh4.5sv",
+      "name": "Galarian Yamask",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV064": {
+      "id": "swsh4.5sv-SV064",
+      "localId": "SV064",
+      "set": "swsh4.5sv",
+      "name": "Galarian Sirfetch'd",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV067": {
+      "id": "swsh4.5sv-SV067",
+      "localId": "SV067",
+      "set": "swsh4.5sv",
+      "name": "Rolycoly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV069": {
+      "id": "swsh4.5sv-SV069",
+      "localId": "SV069",
+      "set": "swsh4.5sv",
+      "name": "Coalossal",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 160,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV066": {
+      "id": "swsh4.5sv-SV066",
+      "localId": "SV066",
+      "set": "swsh4.5sv",
+      "name": "Galarian Runerigus",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV068": {
+      "id": "swsh4.5sv-SV068",
+      "localId": "SV068",
+      "set": "swsh4.5sv",
+      "name": "Carkol",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV070": {
+      "id": "swsh4.5sv-SV070",
+      "localId": "SV070",
+      "set": "swsh4.5sv",
+      "name": "Silicobra",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV071": {
+      "id": "swsh4.5sv-SV071",
+      "localId": "SV071",
+      "set": "swsh4.5sv",
+      "name": "Sandaconda",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 140,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV072": {
+      "id": "swsh4.5sv-SV072",
+      "localId": "SV072",
+      "set": "swsh4.5sv",
+      "name": "Clobbopus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV074": {
+      "id": "swsh4.5sv-SV074",
+      "localId": "SV074",
+      "set": "swsh4.5sv",
+      "name": "Falinks",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV073": {
+      "id": "swsh4.5sv-SV073",
+      "localId": "SV073",
+      "set": "swsh4.5sv",
+      "name": "Grapploct",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV075": {
+      "id": "swsh4.5sv-SV075",
+      "localId": "SV075",
+      "set": "swsh4.5sv",
+      "name": "Stonjourner",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 140,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV076": {
+      "id": "swsh4.5sv-SV076",
+      "localId": "SV076",
+      "set": "swsh4.5sv",
+      "name": "Koffing",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV077": {
+      "id": "swsh4.5sv-SV077",
+      "localId": "SV077",
+      "set": "swsh4.5sv",
+      "name": "Galarian Weezing",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV079": {
+      "id": "swsh4.5sv-SV079",
+      "localId": "SV079",
+      "set": "swsh4.5sv",
+      "name": "Galarian Linoone",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV080": {
+      "id": "swsh4.5sv-SV080",
+      "localId": "SV080",
+      "set": "swsh4.5sv",
+      "name": "Galarian Obstagoon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 160,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV078": {
+      "id": "swsh4.5sv-SV078",
+      "localId": "SV078",
+      "set": "swsh4.5sv",
+      "name": "Galarian Zigzagoon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV081": {
+      "id": "swsh4.5sv-SV081",
+      "localId": "SV081",
+      "set": "swsh4.5sv",
+      "name": "Nickit",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV082": {
+      "id": "swsh4.5sv-SV082",
+      "localId": "SV082",
+      "set": "swsh4.5sv",
+      "name": "Thievul",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV083": {
+      "id": "swsh4.5sv-SV083",
+      "localId": "SV083",
+      "set": "swsh4.5sv",
+      "name": "Impidimp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV084": {
+      "id": "swsh4.5sv-SV084",
+      "localId": "SV084",
+      "set": "swsh4.5sv",
+      "name": "Morgrem",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV086": {
+      "id": "swsh4.5sv-SV086",
+      "localId": "SV086",
+      "set": "swsh4.5sv",
+      "name": "Galarian Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV085": {
+      "id": "swsh4.5sv-SV085",
+      "localId": "SV085",
+      "set": "swsh4.5sv",
+      "name": "Grimmsnarl",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 170,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV087": {
+      "id": "swsh4.5sv-SV087",
+      "localId": "SV087",
+      "set": "swsh4.5sv",
+      "name": "Galarian Perrserker",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV088": {
+      "id": "swsh4.5sv-SV088",
+      "localId": "SV088",
+      "set": "swsh4.5sv",
+      "name": "Galarian Stunfisk",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV090": {
+      "id": "swsh4.5sv-SV090",
+      "localId": "SV090",
+      "set": "swsh4.5sv",
+      "name": "Cufant",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 100,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV089": {
+      "id": "swsh4.5sv-SV089",
+      "localId": "SV089",
+      "set": "swsh4.5sv",
+      "name": "Corviknight",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Shiny rare",
+      "hp": 170,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV091": {
+      "id": "swsh4.5sv-SV091",
+      "localId": "SV091",
+      "set": "swsh4.5sv",
+      "name": "Copperajah",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 190,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV092": {
+      "id": "swsh4.5sv-SV092",
+      "localId": "SV092",
+      "set": "swsh4.5sv",
+      "name": "Duraludon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV093": {
+      "id": "swsh4.5sv-SV093",
+      "localId": "SV093",
+      "set": "swsh4.5sv",
+      "name": "Minccino",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV094": {
+      "id": "swsh4.5sv-SV094",
+      "localId": "SV094",
+      "set": "swsh4.5sv",
+      "name": "Cinccino",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV095": {
+      "id": "swsh4.5sv-SV095",
+      "localId": "SV095",
+      "set": "swsh4.5sv",
+      "name": "Ducklett",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV097": {
+      "id": "swsh4.5sv-SV097",
+      "localId": "SV097",
+      "set": "swsh4.5sv",
+      "name": "Bunnelby",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV096": {
+      "id": "swsh4.5sv-SV096",
+      "localId": "SV096",
+      "set": "swsh4.5sv",
+      "name": "Swanna",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV098": {
+      "id": "swsh4.5sv-SV098",
+      "localId": "SV098",
+      "set": "swsh4.5sv",
+      "name": "Oranguru",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV099": {
+      "id": "swsh4.5sv-SV099",
+      "localId": "SV099",
+      "set": "swsh4.5sv",
+      "name": "Skwovet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV100": {
+      "id": "swsh4.5sv-SV100",
+      "localId": "SV100",
+      "set": "swsh4.5sv",
+      "name": "Greedent",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV101": {
+      "id": "swsh4.5sv-SV101",
+      "localId": "SV101",
+      "set": "swsh4.5sv",
+      "name": "Rookidee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV103": {
+      "id": "swsh4.5sv-SV103",
+      "localId": "SV103",
+      "set": "swsh4.5sv",
+      "name": "Wooloo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV102": {
+      "id": "swsh4.5sv-SV102",
+      "localId": "SV102",
+      "set": "swsh4.5sv",
+      "name": "Corvisquire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV104": {
+      "id": "swsh4.5sv-SV104",
+      "localId": "SV104",
+      "set": "swsh4.5sv",
+      "name": "Dubwool",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Shiny rare",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV105": {
+      "id": "swsh4.5sv-SV105",
+      "localId": "SV105",
+      "set": "swsh4.5sv",
+      "name": "Rillaboom V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 220,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV106": {
+      "id": "swsh4.5sv-SV106",
+      "localId": "SV106",
+      "set": "swsh4.5sv",
+      "name": "Rillaboom VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 330,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV107": {
+      "id": "swsh4.5sv-SV107",
+      "localId": "SV107",
+      "set": "swsh4.5sv",
+      "name": "Charizard VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 330,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV109": {
+      "id": "swsh4.5sv-SV109",
+      "localId": "SV109",
+      "set": "swsh4.5sv",
+      "name": "Centiskorch VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 320,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV111": {
+      "id": "swsh4.5sv-SV111",
+      "localId": "SV111",
+      "set": "swsh4.5sv",
+      "name": "Lapras VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 320,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV108": {
+      "id": "swsh4.5sv-SV108",
+      "localId": "SV108",
+      "set": "swsh4.5sv",
+      "name": "Centiskorch V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 210,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV110": {
+      "id": "swsh4.5sv-SV110",
+      "localId": "SV110",
+      "set": "swsh4.5sv",
+      "name": "Lapras V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 210,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV112": {
+      "id": "swsh4.5sv-SV112",
+      "localId": "SV112",
+      "set": "swsh4.5sv",
+      "name": "Toxtricity V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 210,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV113": {
+      "id": "swsh4.5sv-SV113",
+      "localId": "SV113",
+      "set": "swsh4.5sv",
+      "name": "Toxtricity VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 320,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV115": {
+      "id": "swsh4.5sv-SV115",
+      "localId": "SV115",
+      "set": "swsh4.5sv",
+      "name": "Falinks V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 160,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV116": {
+      "id": "swsh4.5sv-SV116",
+      "localId": "SV116",
+      "set": "swsh4.5sv",
+      "name": "Grimmsnarl V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 220,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV114": {
+      "id": "swsh4.5sv-SV114",
+      "localId": "SV114",
+      "set": "swsh4.5sv",
+      "name": "Indeedee V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 180,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV117": {
+      "id": "swsh4.5sv-SV117",
+      "localId": "SV117",
+      "set": "swsh4.5sv",
+      "name": "Grimmsnarl VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 330,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV118": {
+      "id": "swsh4.5sv-SV118",
+      "localId": "SV118",
+      "set": "swsh4.5sv",
+      "name": "Ditto V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 170,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV119": {
+      "id": "swsh4.5sv-SV119",
+      "localId": "SV119",
+      "set": "swsh4.5sv",
+      "name": "Ditto VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Shiny rare VMAX",
+      "hp": 320,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV121": {
+      "id": "swsh4.5sv-SV121",
+      "localId": "SV121",
+      "set": "swsh4.5sv",
+      "name": "Eternatus V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Secret Rare",
+      "hp": 220,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-16T00:44:00+01:00"
+    },
+    "swsh4.5sv-SV120": {
+      "id": "swsh4.5sv-SV120",
+      "localId": "SV120",
+      "set": "swsh4.5sv",
+      "name": "Dubwool V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Shiny rare V",
+      "hp": 210,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-05T10:54:32+01:00"
+    },
+    "swsh4.5sv-SV122": {
+      "id": "swsh4.5sv-SV122",
+      "localId": "SV122",
+      "set": "swsh4.5sv",
+      "name": "Eternatus VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Secret Rare",
+      "hp": 340,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-16T00:44:00+01:00"
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-ex-latio",
+    "name": "EX trainer Kit (Latios)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2004-07-01",
+    "code": "TK1O",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 1,
+      "normal": 9,
+      "official": 10,
+      "reverse": 0,
+      "total": 10
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:05.199Z",
+  "cards": {
+    "tk-ex-latio-6": {
+      "id": "tk-ex-latio-6",
+      "localId": "6",
+      "set": "tk-ex-latio",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-5": {
+      "id": "tk-ex-latio-5",
+      "localId": "5",
+      "set": "tk-ex-latio",
+      "name": "Magneton",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "tk-ex-latio-2": {
+      "id": "tk-ex-latio-2",
+      "localId": "2",
+      "set": "tk-ex-latio",
+      "name": "Latios",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-4": {
+      "id": "tk-ex-latio-4",
+      "localId": "4",
+      "set": "tk-ex-latio",
+      "name": "Magnemite",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "tk-ex-latio-7": {
+      "id": "tk-ex-latio-7",
+      "localId": "7",
+      "set": "tk-ex-latio",
+      "name": "Zigzagoon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-1": {
+      "id": "tk-ex-latio-1",
+      "localId": "1",
+      "set": "tk-ex-latio",
+      "name": "Electrike",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-3": {
+      "id": "tk-ex-latio-3",
+      "localId": "3",
+      "set": "tk-ex-latio",
+      "name": "Linoone",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-19T20:52:03Z"
+    },
+    "tk-ex-latio-8": {
+      "id": "tk-ex-latio-8",
+      "localId": "8",
+      "set": "tk-ex-latio",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-9": {
+      "id": "tk-ex-latio-9",
+      "localId": "9",
+      "set": "tk-ex-latio",
+      "name": "Energy Search",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:59:04+01:00"
+    },
+    "tk-ex-latio-10": {
+      "id": "tk-ex-latio-10",
+      "localId": "10",
+      "set": "tk-ex-latio",
+      "name": "Lightning Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "stage": "Basic",
+      "rarity": "None",
+      "retreat": 0,
+      "updated": "2026-08-13T20:59:04+01:00"
+    }
+  }
+}

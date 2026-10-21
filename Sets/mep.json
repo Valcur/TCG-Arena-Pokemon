@@ -1,0 +1,1687 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "mep",
+    "name": "MEP Black Star Promos",
+    "serie": "me",
+    "serieName": "Mega Evolution",
+    "releaseDate": "2025-09-26",
+    "code": "MEP",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 143,
+      "normal": 1,
+      "official": 0,
+      "reverse": 0,
+      "total": 112
+    }
+  },
+  "updatedAt": "2026-10-21T16:26:12.310Z",
+  "cards": {
+    "mep-001": {
+      "id": "mep-001",
+      "localId": "001",
+      "set": "mep",
+      "name": "Meganium",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-005": {
+      "id": "mep-005",
+      "localId": "005",
+      "set": "mep",
+      "name": "Drifloon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-003": {
+      "id": "mep-003",
+      "localId": "003",
+      "set": "mep",
+      "name": "Alakazam",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-002": {
+      "id": "mep-002",
+      "localId": "002",
+      "set": "mep",
+      "name": "Inteleon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 150,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-004": {
+      "id": "mep-004",
+      "localId": "004",
+      "set": "mep",
+      "name": "Lunatone",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-010": {
+      "id": "mep-010",
+      "localId": "010",
+      "set": "mep",
+      "name": "Riolu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-009": {
+      "id": "mep-009",
+      "localId": "009",
+      "set": "mep",
+      "name": "Alakazam",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-008": {
+      "id": "mep-008",
+      "localId": "008",
+      "set": "mep",
+      "name": "Golduck",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-007": {
+      "id": "mep-007",
+      "localId": "007",
+      "set": "mep",
+      "name": "Psyduck",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-006": {
+      "id": "mep-006",
+      "localId": "006",
+      "set": "mep",
+      "name": "Drifblim",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-011": {
+      "id": "mep-011",
+      "localId": "011",
+      "set": "mep",
+      "name": "Mega Latias ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 280,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-012": {
+      "id": "mep-012",
+      "localId": "012",
+      "set": "mep",
+      "name": "Mega Lucario ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 340,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-016": {
+      "id": "mep-016",
+      "localId": "016",
+      "set": "mep",
+      "name": "Flygon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 150,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-013": {
+      "id": "mep-013",
+      "localId": "013",
+      "set": "mep",
+      "name": "Mega Venusaur ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 380,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-014": {
+      "id": "mep-014",
+      "localId": "014",
+      "set": "mep",
+      "name": "Ceruledge",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-015": {
+      "id": "mep-015",
+      "localId": "015",
+      "set": "mep",
+      "name": "Zacian",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-017": {
+      "id": "mep-017",
+      "localId": "017",
+      "set": "mep",
+      "name": "Toxtricity",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-018": {
+      "id": "mep-018",
+      "localId": "018",
+      "set": "mep",
+      "name": "Cottonee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-019": {
+      "id": "mep-019",
+      "localId": "019",
+      "set": "mep",
+      "name": "Whimsicott",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-021": {
+      "id": "mep-021",
+      "localId": "021",
+      "set": "mep",
+      "name": "Weavile",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-020": {
+      "id": "mep-020",
+      "localId": "020",
+      "set": "mep",
+      "name": "Sneasel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-022": {
+      "id": "mep-022",
+      "localId": "022",
+      "set": "mep",
+      "name": "Charcadet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-023": {
+      "id": "mep-023",
+      "localId": "023",
+      "set": "mep",
+      "name": "Mega Charizard X ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 360,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-024": {
+      "id": "mep-024",
+      "localId": "024",
+      "set": "mep",
+      "name": "Oricorio ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 190,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-025": {
+      "id": "mep-025",
+      "localId": "025",
+      "set": "mep",
+      "name": "Mega Kangaskhan ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 300,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-026": {
+      "id": "mep-026",
+      "localId": "026",
+      "set": "mep",
+      "name": "Meloetta",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-027": {
+      "id": "mep-027",
+      "localId": "027",
+      "set": "mep",
+      "name": "Haunter",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-028": {
+      "id": "mep-028",
+      "localId": "028",
+      "set": "mep",
+      "name": "Celebratory Fanfare",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Promo",
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-029": {
+      "id": "mep-029",
+      "localId": "029",
+      "set": "mep",
+      "name": "Mega Charizard X ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 360,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-06-17T19:26:30+01:00"
+    },
+    "mep-030": {
+      "id": "mep-030",
+      "localId": "030",
+      "set": "mep",
+      "name": "Mega Charizard Y ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 360,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-06-17T19:26:30+01:00"
+    },
+    "mep-033": {
+      "id": "mep-033",
+      "localId": "033",
+      "set": "mep",
+      "name": "Mega Lucario ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 340,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-034": {
+      "id": "mep-034",
+      "localId": "034",
+      "set": "mep",
+      "name": "Mega Meganium ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 360,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-035": {
+      "id": "mep-035",
+      "localId": "035",
+      "set": "mep",
+      "name": "Mega Emboar ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 380,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-036": {
+      "id": "mep-036",
+      "localId": "036",
+      "set": "mep",
+      "name": "Mega Feraligatr ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 370,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-037": {
+      "id": "mep-037",
+      "localId": "037",
+      "set": "mep",
+      "name": "Bulbasaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-038": {
+      "id": "mep-038",
+      "localId": "038",
+      "set": "mep",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-032": {
+      "id": "mep-032",
+      "localId": "032",
+      "set": "mep",
+      "name": "Mega Gardevoir ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 360,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-031": {
+      "id": "mep-031",
+      "localId": "031",
+      "set": "mep",
+      "name": "N's Zekrom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-06-17T19:26:30+01:00"
+    },
+    "mep-039": {
+      "id": "mep-039",
+      "localId": "039",
+      "set": "mep",
+      "name": "Squirtle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-040": {
+      "id": "mep-040",
+      "localId": "040",
+      "set": "mep",
+      "name": "Turtwig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-041": {
+      "id": "mep-041",
+      "localId": "041",
+      "set": "mep",
+      "name": "Chimchar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-045": {
+      "id": "mep-045",
+      "localId": "045",
+      "set": "mep",
+      "name": "Popplio",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-044": {
+      "id": "mep-044",
+      "localId": "044",
+      "set": "mep",
+      "name": "Litten",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-042": {
+      "id": "mep-042",
+      "localId": "042",
+      "set": "mep",
+      "name": "Piplup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-043": {
+      "id": "mep-043",
+      "localId": "043",
+      "set": "mep",
+      "name": "Rowlet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "mep-046": {
+      "id": "mep-046",
+      "localId": "046",
+      "set": "mep",
+      "name": "Chikorita",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-047": {
+      "id": "mep-047",
+      "localId": "047",
+      "set": "mep",
+      "name": "Cyndaquil",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-048": {
+      "id": "mep-048",
+      "localId": "048",
+      "set": "mep",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-050": {
+      "id": "mep-050",
+      "localId": "050",
+      "set": "mep",
+      "name": "Tepig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-049": {
+      "id": "mep-049",
+      "localId": "049",
+      "set": "mep",
+      "name": "Snivy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-051": {
+      "id": "mep-051",
+      "localId": "051",
+      "set": "mep",
+      "name": "Oshawott",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-052": {
+      "id": "mep-052",
+      "localId": "052",
+      "set": "mep",
+      "name": "Grookey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-055": {
+      "id": "mep-055",
+      "localId": "055",
+      "set": "mep",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-054": {
+      "id": "mep-054",
+      "localId": "054",
+      "set": "mep",
+      "name": "Sobble",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-056": {
+      "id": "mep-056",
+      "localId": "056",
+      "set": "mep",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-053": {
+      "id": "mep-053",
+      "localId": "053",
+      "set": "mep",
+      "name": "Scorbunny",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-057": {
+      "id": "mep-057",
+      "localId": "057",
+      "set": "mep",
+      "name": "Mudkip",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-058": {
+      "id": "mep-058",
+      "localId": "058",
+      "set": "mep",
+      "name": "Chespin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-059": {
+      "id": "mep-059",
+      "localId": "059",
+      "set": "mep",
+      "name": "Fennekin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-060": {
+      "id": "mep-060",
+      "localId": "060",
+      "set": "mep",
+      "name": "Froakie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-061": {
+      "id": "mep-061",
+      "localId": "061",
+      "set": "mep",
+      "name": "Sprigatito",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-062": {
+      "id": "mep-062",
+      "localId": "062",
+      "set": "mep",
+      "name": "Fuecoco",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-063": {
+      "id": "mep-063",
+      "localId": "063",
+      "set": "mep",
+      "name": "Quaxly",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-064": {
+      "id": "mep-064",
+      "localId": "064",
+      "set": "mep",
+      "name": "Serperior",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-065": {
+      "id": "mep-065",
+      "localId": "065",
+      "set": "mep",
+      "name": "Barbaracle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-068": {
+      "id": "mep-068",
+      "localId": "068",
+      "set": "mep",
+      "name": "Makuhita",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-067": {
+      "id": "mep-067",
+      "localId": "067",
+      "set": "mep",
+      "name": "Doublade",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 100,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-066": {
+      "id": "mep-066",
+      "localId": "066",
+      "set": "mep",
+      "name": "Tyrantrum",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 180,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-070": {
+      "id": "mep-070",
+      "localId": "070",
+      "set": "mep",
+      "name": "Tyrunt",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2026-06-17T19:26:30+01:00"
+    },
+    "mep-069": {
+      "id": "mep-069",
+      "localId": "069",
+      "set": "mep",
+      "name": "Chikorita",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-071": {
+      "id": "mep-071",
+      "localId": "071",
+      "set": "mep",
+      "name": "Mega Zygarde ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 310,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-072": {
+      "id": "mep-072",
+      "localId": "072",
+      "set": "mep",
+      "name": "Mega Clefable ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 320,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-073": {
+      "id": "mep-073",
+      "localId": "073",
+      "set": "mep",
+      "name": "Mega Gengar ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 350,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-074": {
+      "id": "mep-074",
+      "localId": "074",
+      "set": "mep",
+      "name": "Delphox",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-076": {
+      "id": "mep-076",
+      "localId": "076",
+      "set": "mep",
+      "name": "Crobat",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-075": {
+      "id": "mep-075",
+      "localId": "075",
+      "set": "mep",
+      "name": "Ampharos",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-077": {
+      "id": "mep-077",
+      "localId": "077",
+      "set": "mep",
+      "name": "Goodra",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-078": {
+      "id": "mep-078",
+      "localId": "078",
+      "set": "mep",
+      "name": "Toxel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-079": {
+      "id": "mep-079",
+      "localId": "079",
+      "set": "mep",
+      "name": "Charmeleon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 110,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-080": {
+      "id": "mep-080",
+      "localId": "080",
+      "set": "mep",
+      "name": "Fennekin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-082": {
+      "id": "mep-082",
+      "localId": "082",
+      "set": "mep",
+      "name": "Miraidon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-081": {
+      "id": "mep-081",
+      "localId": "081",
+      "set": "mep",
+      "name": "Mega Greninja ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 350,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-084": {
+      "id": "mep-084",
+      "localId": "084",
+      "set": "mep",
+      "name": "Dhelmise",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 140,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-083": {
+      "id": "mep-083",
+      "localId": "083",
+      "set": "mep",
+      "name": "Slowbro",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-086": {
+      "id": "mep-086",
+      "localId": "086",
+      "set": "mep",
+      "name": "Slowpoke",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-085": {
+      "id": "mep-085",
+      "localId": "085",
+      "set": "mep",
+      "name": "Bastiodon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 160,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-087": {
+      "id": "mep-087",
+      "localId": "087",
+      "set": "mep",
+      "name": "Binacle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-088": {
+      "id": "mep-088",
+      "localId": "088",
+      "set": "mep",
+      "name": "Zarude",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-090": {
+      "id": "mep-090",
+      "localId": "090",
+      "set": "mep",
+      "name": "Mega Darkrai ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 280,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-089": {
+      "id": "mep-089",
+      "localId": "089",
+      "set": "mep",
+      "name": "Mega Zeraora ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-091": {
+      "id": "mep-091",
+      "localId": "091",
+      "set": "mep",
+      "name": "Mega Dragonite ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 370,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-092": {
+      "id": "mep-092",
+      "localId": "092",
+      "set": "mep",
+      "name": "Paradise Resort",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Promo",
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-093": {
+      "id": "mep-093",
+      "localId": "093",
+      "set": "mep",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-094": {
+      "id": "mep-094",
+      "localId": "094",
+      "set": "mep",
+      "name": "Alolan Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-096": {
+      "id": "mep-096",
+      "localId": "096",
+      "set": "mep",
+      "name": "Moltres",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-095": {
+      "id": "mep-095",
+      "localId": "095",
+      "set": "mep",
+      "name": "Lucario",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-097": {
+      "id": "mep-097",
+      "localId": "097",
+      "set": "mep",
+      "name": "Articuno",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-098": {
+      "id": "mep-098",
+      "localId": "098",
+      "set": "mep",
+      "name": "Zapdos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-099": {
+      "id": "mep-099",
+      "localId": "099",
+      "set": "mep",
+      "name": "Greninja ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 300,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-100": {
+      "id": "mep-100",
+      "localId": "100",
+      "set": "mep",
+      "name": "Sylveon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-102": {
+      "id": "mep-102",
+      "localId": "102",
+      "set": "mep",
+      "name": "Victini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-101": {
+      "id": "mep-101",
+      "localId": "101",
+      "set": "mep",
+      "name": "Nidorina",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-107": {
+      "id": "mep-107",
+      "localId": "107",
+      "set": "mep",
+      "name": "Pikachu ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 190,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-104": {
+      "id": "mep-104",
+      "localId": "104",
+      "set": "mep",
+      "name": "Mewtwo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-105": {
+      "id": "mep-105",
+      "localId": "105",
+      "set": "mep",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-106": {
+      "id": "mep-106",
+      "localId": "106",
+      "set": "mep",
+      "name": "Ditto",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-110": {
+      "id": "mep-110",
+      "localId": "110",
+      "set": "mep",
+      "name": "Umbreon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-109": {
+      "id": "mep-109",
+      "localId": "109",
+      "set": "mep",
+      "name": "Pikachu ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 190,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-120": {
+      "id": "mep-120",
+      "localId": "120",
+      "set": "mep",
+      "name": "Celebratory Fanfare",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Promo",
+      "updated": "2026-09-23T14:55:45+01:00"
+    },
+    "mep-103": {
+      "id": "mep-103",
+      "localId": "103",
+      "set": "mep",
+      "name": "Zeraora",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-108": {
+      "id": "mep-108",
+      "localId": "108",
+      "set": "mep",
+      "name": "Espeon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 260,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-26T09:39:20+10:00"
+    },
+    "mep-Museum": {
+      "id": "mep-Museum",
+      "localId": "Museum",
+      "set": "mep",
+      "name": "Pikachu at the Museum",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-04T19:51:08+01:00"
+    }
+  }
+}

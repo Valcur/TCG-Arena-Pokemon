@@ -1,0 +1,402 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "tk-xy-latio",
+    "name": "XY trainer Kit (Latios)",
+    "serie": "tk",
+    "serieName": "Trainer kits",
+    "releaseDate": "2015-04-29",
+    "code": "TK8O",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:34.005Z",
+  "cards": {
+    "tk-xy-latio-4": {
+      "id": "tk-xy-latio-4",
+      "localId": "4",
+      "set": "tk-xy-latio",
+      "name": "Rhydon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-6": {
+      "id": "tk-xy-latio-6",
+      "localId": "6",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-1": {
+      "id": "tk-xy-latio-1",
+      "localId": "1",
+      "set": "tk-xy-latio",
+      "name": "Skitty",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-3": {
+      "id": "tk-xy-latio-3",
+      "localId": "3",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-9": {
+      "id": "tk-xy-latio-9",
+      "localId": "9",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-8": {
+      "id": "tk-xy-latio-8",
+      "localId": "8",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-7": {
+      "id": "tk-xy-latio-7",
+      "localId": "7",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-10": {
+      "id": "tk-xy-latio-10",
+      "localId": "10",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-2": {
+      "id": "tk-xy-latio-2",
+      "localId": "2",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-11": {
+      "id": "tk-xy-latio-11",
+      "localId": "11",
+      "set": "tk-xy-latio",
+      "name": "Machop",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-12": {
+      "id": "tk-xy-latio-12",
+      "localId": "12",
+      "set": "tk-xy-latio",
+      "name": "Solrock",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-13": {
+      "id": "tk-xy-latio-13",
+      "localId": "13",
+      "set": "tk-xy-latio",
+      "name": "Latios",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:38:17+01:00"
+    },
+    "tk-xy-latio-14": {
+      "id": "tk-xy-latio-14",
+      "localId": "14",
+      "set": "tk-xy-latio",
+      "name": "Machoke",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-15": {
+      "id": "tk-xy-latio-15",
+      "localId": "15",
+      "set": "tk-xy-latio",
+      "name": "Rhyhorn",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-16": {
+      "id": "tk-xy-latio-16",
+      "localId": "16",
+      "set": "tk-xy-latio",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-18": {
+      "id": "tk-xy-latio-18",
+      "localId": "18",
+      "set": "tk-xy-latio",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-5": {
+      "id": "tk-xy-latio-5",
+      "localId": "5",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-17": {
+      "id": "tk-xy-latio-17",
+      "localId": "17",
+      "set": "tk-xy-latio",
+      "name": "Fighting Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-19": {
+      "id": "tk-xy-latio-19",
+      "localId": "19",
+      "set": "tk-xy-latio",
+      "name": "Delcatty",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-22": {
+      "id": "tk-xy-latio-22",
+      "localId": "22",
+      "set": "tk-xy-latio",
+      "name": "Machoke",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-20": {
+      "id": "tk-xy-latio-20",
+      "localId": "20",
+      "set": "tk-xy-latio",
+      "name": "Acro Bike",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-08-14T19:38:17+01:00"
+    },
+    "tk-xy-latio-24": {
+      "id": "tk-xy-latio-24",
+      "localId": "24",
+      "set": "tk-xy-latio",
+      "name": "Delcatty",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-25": {
+      "id": "tk-xy-latio-25",
+      "localId": "25",
+      "set": "tk-xy-latio",
+      "name": "Rhydon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-21": {
+      "id": "tk-xy-latio-21",
+      "localId": "21",
+      "set": "tk-xy-latio",
+      "name": "Potion",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-23": {
+      "id": "tk-xy-latio-23",
+      "localId": "23",
+      "set": "tk-xy-latio",
+      "name": "Rhyhorn",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-27": {
+      "id": "tk-xy-latio-27",
+      "localId": "27",
+      "set": "tk-xy-latio",
+      "name": "Skitty",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-26": {
+      "id": "tk-xy-latio-26",
+      "localId": "26",
+      "set": "tk-xy-latio",
+      "name": "Solrock",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-28": {
+      "id": "tk-xy-latio-28",
+      "localId": "28",
+      "set": "tk-xy-latio",
+      "name": "Machop",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-29": {
+      "id": "tk-xy-latio-29",
+      "localId": "29",
+      "set": "tk-xy-latio",
+      "name": "Psychic Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2025-08-16T20:39:55Z"
+    },
+    "tk-xy-latio-30": {
+      "id": "tk-xy-latio-30",
+      "localId": "30",
+      "set": "tk-xy-latio",
+      "name": "Latios",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:38:17+01:00"
+    }
+  }
+}

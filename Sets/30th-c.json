@@ -1,0 +1,462 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "30th-c",
+    "name": "30th Classic Collection",
+    "serie": "me",
+    "serieName": "Mega Evolution",
+    "releaseDate": "2026-09-16",
+    "code": "30C",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 30,
+      "normal": 0,
+      "official": 30,
+      "reverse": 0,
+      "total": 30
+    }
+  },
+  "updatedAt": "2026-10-21T16:26:16.053Z",
+  "cards": {
+    "30th-c-001": {
+      "id": "30th-c-001",
+      "localId": "001",
+      "set": "30th-c",
+      "name": "Charizard",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-005": {
+      "id": "30th-c-005",
+      "localId": "005",
+      "set": "30th-c",
+      "name": "Misty",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-004": {
+      "id": "30th-c-004",
+      "localId": "004",
+      "set": "30th-c",
+      "name": "Genesect EX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 170,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-006": {
+      "id": "30th-c-006",
+      "localId": "006",
+      "set": "30th-c",
+      "name": "Dark Tyranitar",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-003": {
+      "id": "30th-c-003",
+      "localId": "003",
+      "set": "30th-c",
+      "name": "Metagross",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 100,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-007": {
+      "id": "30th-c-007",
+      "localId": "007",
+      "set": "30th-c",
+      "name": "Sneasel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-008": {
+      "id": "30th-c-008",
+      "localId": "008",
+      "set": "30th-c",
+      "name": "Pikachu & Zekrom GX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 240,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-009": {
+      "id": "30th-c-009",
+      "localId": "009",
+      "set": "30th-c",
+      "name": "Greninja BREAK",
+      "category": "Pokemon",
+      "stage": "BREAK",
+      "rarity": "None",
+      "hp": 170,
+      "types": [
+        "Water"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-010": {
+      "id": "30th-c-010",
+      "localId": "010",
+      "set": "30th-c",
+      "name": "Uxie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-011": {
+      "id": "30th-c-011",
+      "localId": "011",
+      "set": "30th-c",
+      "name": "Crobat G",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-013": {
+      "id": "30th-c-013",
+      "localId": "013",
+      "set": "30th-c",
+      "name": "Buzzwole GX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 190,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-014": {
+      "id": "30th-c-014",
+      "localId": "014",
+      "set": "30th-c",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 40,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-012": {
+      "id": "30th-c-012",
+      "localId": "012",
+      "set": "30th-c",
+      "name": "Raikou",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-015": {
+      "id": "30th-c-015",
+      "localId": "015",
+      "set": "30th-c",
+      "name": "Erika's Jigglypuff",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-016": {
+      "id": "30th-c-016",
+      "localId": "016",
+      "set": "30th-c",
+      "name": "Rayquaza EX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 170,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-002": {
+      "id": "30th-c-002",
+      "localId": "002",
+      "set": "30th-c",
+      "name": "Delcatty",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-017": {
+      "id": "30th-c-017",
+      "localId": "017",
+      "set": "30th-c",
+      "name": "Solgaleo GX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 250,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-019": {
+      "id": "30th-c-019",
+      "localId": "019",
+      "set": "30th-c",
+      "name": "Darkrai & Cresselia LEGEND",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-018": {
+      "id": "30th-c-018",
+      "localId": "018",
+      "set": "30th-c",
+      "name": "Gengar",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-020": {
+      "id": "30th-c-020",
+      "localId": "020",
+      "set": "30th-c",
+      "name": "Darkrai & Cresselia LEGEND",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 150,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-021": {
+      "id": "30th-c-021",
+      "localId": "021",
+      "set": "30th-c",
+      "name": "N",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "None",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-022": {
+      "id": "30th-c-022",
+      "localId": "022",
+      "set": "30th-c",
+      "name": "Palkia",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-023": {
+      "id": "30th-c-023",
+      "localId": "023",
+      "set": "30th-c",
+      "name": "M Gardevoir EX",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 210,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-024": {
+      "id": "30th-c-024",
+      "localId": "024",
+      "set": "30th-c",
+      "name": "Shining Celebi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-025": {
+      "id": "30th-c-025",
+      "localId": "025",
+      "set": "30th-c",
+      "name": "Scizor ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 120,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-026": {
+      "id": "30th-c-026",
+      "localId": "026",
+      "set": "30th-c",
+      "name": "Mew VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "None",
+      "hp": 310,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-027": {
+      "id": "30th-c-027",
+      "localId": "027",
+      "set": "30th-c",
+      "name": "Arceus VSTAR",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-028": {
+      "id": "30th-c-028",
+      "localId": "028",
+      "set": "30th-c",
+      "name": "Zacian V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 220,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-029": {
+      "id": "30th-c-029",
+      "localId": "029",
+      "set": "30th-c",
+      "name": "Lugia",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-c-030": {
+      "id": "30th-c-030",
+      "localId": "030",
+      "set": "30th-c",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-22T10:07:07+01:00"
+    }
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "2021swsh",
+    "name": "McDonald's Collection 2021",
+    "serie": "mc",
+    "serieName": "McDonald's Collection",
+    "releaseDate": "2021-02-09",
+    "code": "MCD21",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 25,
+      "normal": 25,
+      "official": 25,
+      "reverse": 0,
+      "total": 25
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:51.225Z",
+  "cards": {
+    "2021swsh-1": {
+      "id": "2021swsh-1",
+      "localId": "1",
+      "set": "2021swsh",
+      "name": "Bulbasaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-5": {
+      "id": "2021swsh-5",
+      "localId": "5",
+      "set": "2021swsh",
+      "name": "Snivy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-6": {
+      "id": "2021swsh-6",
+      "localId": "6",
+      "set": "2021swsh",
+      "name": "Chespin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-3": {
+      "id": "2021swsh-3",
+      "localId": "3",
+      "set": "2021swsh",
+      "name": "Treecko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-2": {
+      "id": "2021swsh-2",
+      "localId": "2",
+      "set": "2021swsh",
+      "name": "Chikorita",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-4": {
+      "id": "2021swsh-4",
+      "localId": "4",
+      "set": "2021swsh",
+      "name": "Turtwig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-8": {
+      "id": "2021swsh-8",
+      "localId": "8",
+      "set": "2021swsh",
+      "name": "Grookey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-7": {
+      "id": "2021swsh-7",
+      "localId": "7",
+      "set": "2021swsh",
+      "name": "Rowlet",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-10": {
+      "id": "2021swsh-10",
+      "localId": "10",
+      "set": "2021swsh",
+      "name": "Cyndaquil",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-11": {
+      "id": "2021swsh-11",
+      "localId": "11",
+      "set": "2021swsh",
+      "name": "Torchic",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-9": {
+      "id": "2021swsh-9",
+      "localId": "9",
+      "set": "2021swsh",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-12": {
+      "id": "2021swsh-12",
+      "localId": "12",
+      "set": "2021swsh",
+      "name": "Chimchar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-13": {
+      "id": "2021swsh-13",
+      "localId": "13",
+      "set": "2021swsh",
+      "name": "Tepig",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-14": {
+      "id": "2021swsh-14",
+      "localId": "14",
+      "set": "2021swsh",
+      "name": "Fennekin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-15": {
+      "id": "2021swsh-15",
+      "localId": "15",
+      "set": "2021swsh",
+      "name": "Litten",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-16": {
+      "id": "2021swsh-16",
+      "localId": "16",
+      "set": "2021swsh",
+      "name": "Scorbunny",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-18": {
+      "id": "2021swsh-18",
+      "localId": "18",
+      "set": "2021swsh",
+      "name": "Totodile",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-17": {
+      "id": "2021swsh-17",
+      "localId": "17",
+      "set": "2021swsh",
+      "name": "Squirtle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-20": {
+      "id": "2021swsh-20",
+      "localId": "20",
+      "set": "2021swsh",
+      "name": "Piplup",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-23": {
+      "id": "2021swsh-23",
+      "localId": "23",
+      "set": "2021swsh",
+      "name": "Popplio",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-22": {
+      "id": "2021swsh-22",
+      "localId": "22",
+      "set": "2021swsh",
+      "name": "Froakie",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-25": {
+      "id": "2021swsh-25",
+      "localId": "25",
+      "set": "2021swsh",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-24": {
+      "id": "2021swsh-24",
+      "localId": "24",
+      "set": "2021swsh",
+      "name": "Sobble",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-19": {
+      "id": "2021swsh-19",
+      "localId": "19",
+      "set": "2021swsh",
+      "name": "Mudkip",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    },
+    "2021swsh-21": {
+      "id": "2021swsh-21",
+      "localId": "21",
+      "set": "2021swsh",
+      "name": "Oshawott",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-08-14T19:50:48+01:00"
+    }
+  }
+}

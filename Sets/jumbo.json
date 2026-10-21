@@ -1,0 +1,21 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "jumbo",
+    "name": "Jumbo cards",
+    "serie": "misc",
+    "serieName": "Miscellaneous",
+    "releaseDate": "2000-02-01",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 160,
+      "reverse": 0,
+      "total": 160
+    }
+  },
+  "updatedAt": "2026-10-21T16:48:36.801Z",
+  "cards": {}
+}

@@ -1,0 +1,130 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "bog",
+    "name": "Best of game",
+    "serie": "ecard",
+    "serieName": "E-Card",
+    "releaseDate": "2002-12-01",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 12,
+      "official": 9,
+      "reverse": 11,
+      "total": 9
+    }
+  },
+  "updatedAt": "2026-10-21T16:24:58.735Z",
+  "cards": {
+    "bog-1": {
+      "id": "bog-1",
+      "localId": "1",
+      "set": "bog",
+      "name": "Electabuzz",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-4": {
+      "id": "bog-4",
+      "localId": "4",
+      "set": "bog",
+      "name": "Rocket’s Scizor",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-2": {
+      "id": "bog-2",
+      "localId": "2",
+      "set": "bog",
+      "name": "Hitmonchan",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-6": {
+      "id": "bog-6",
+      "localId": "6",
+      "set": "bog",
+      "name": "Dark Ivysaur",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "None",
+      "hp": 50,
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-3": {
+      "id": "bog-3",
+      "localId": "3",
+      "set": "bog",
+      "name": "Professor Elm",
+      "category": "Trainer",
+      "rarity": "None",
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-8": {
+      "id": "bog-8",
+      "localId": "8",
+      "set": "bog",
+      "name": "Rocket’s Mewtwo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 70,
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-9": {
+      "id": "bog-9",
+      "localId": "9",
+      "set": "bog",
+      "name": "Rocket’s Hitmonchan",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "retreat": 1,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-7": {
+      "id": "bog-7",
+      "localId": "7",
+      "set": "bog",
+      "name": "Dark Venusaur",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "None",
+      "hp": 70,
+      "retreat": 2,
+      "updated": "2026-07-10T18:55:54+01:00"
+    },
+    "bog-5": {
+      "id": "bog-5",
+      "localId": "5",
+      "set": "bog",
+      "name": "Rocket’s Sneasel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "None",
+      "hp": 60,
+      "retreat": 1,
+      "updated": "2026-07-10T18:55:54+01:00"
+    }
+  }
+}

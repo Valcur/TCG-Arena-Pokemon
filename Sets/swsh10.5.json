@@ -1,0 +1,1360 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "swsh10.5",
+    "name": "Pokémon GO",
+    "serie": "swsh",
+    "serieName": "Sword & Shield",
+    "releaseDate": "2022-07-01",
+    "code": "PGO",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 49,
+      "normal": 46,
+      "official": 78,
+      "reverse": 60,
+      "total": 88
+    }
+  },
+  "updatedAt": "2026-10-21T16:25:57.995Z",
+  "cards": {
+    "swsh10.5-006": {
+      "id": "swsh10.5-006",
+      "localId": "006",
+      "set": "swsh10.5",
+      "name": "Spinarak",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/006",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-001": {
+      "id": "swsh10.5-001",
+      "localId": "001",
+      "set": "swsh10.5",
+      "name": "Bulbasaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/001",
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "swsh10.5-002": {
+      "id": "swsh10.5-002",
+      "localId": "002",
+      "set": "swsh10.5",
+      "name": "Ivysaur",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/002",
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "swsh10.5-005": {
+      "id": "swsh10.5-005",
+      "localId": "005",
+      "set": "swsh10.5",
+      "name": "Alolan Exeggutor V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 240,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/005",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-004": {
+      "id": "swsh10.5-004",
+      "localId": "004",
+      "set": "swsh10.5",
+      "name": "Radiant Venusaur",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Radiant Rare",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/004",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-007": {
+      "id": "swsh10.5-007",
+      "localId": "007",
+      "set": "swsh10.5",
+      "name": "Ariados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/007",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-010": {
+      "id": "swsh10.5-010",
+      "localId": "010",
+      "set": "swsh10.5",
+      "name": "Charizard",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Holo Rare",
+      "hp": 170,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/010",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-008": {
+      "id": "swsh10.5-008",
+      "localId": "008",
+      "set": "swsh10.5",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/008",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-009": {
+      "id": "swsh10.5-009",
+      "localId": "009",
+      "set": "swsh10.5",
+      "name": "Charmeleon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/009",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-011": {
+      "id": "swsh10.5-011",
+      "localId": "011",
+      "set": "swsh10.5",
+      "name": "Radiant Charizard",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Radiant Rare",
+      "hp": 160,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/011",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-003": {
+      "id": "swsh10.5-003",
+      "localId": "003",
+      "set": "swsh10.5",
+      "name": "Venusaur",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Holo Rare",
+      "hp": 180,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/003",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-012": {
+      "id": "swsh10.5-012",
+      "localId": "012",
+      "set": "swsh10.5",
+      "name": "Moltres",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/012",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-014": {
+      "id": "swsh10.5-014",
+      "localId": "014",
+      "set": "swsh10.5",
+      "name": "Camerupt",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/014",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-016": {
+      "id": "swsh10.5-016",
+      "localId": "016",
+      "set": "swsh10.5",
+      "name": "Wartortle",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/016",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-013": {
+      "id": "swsh10.5-013",
+      "localId": "013",
+      "set": "swsh10.5",
+      "name": "Numel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/013",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-015": {
+      "id": "swsh10.5-015",
+      "localId": "015",
+      "set": "swsh10.5",
+      "name": "Squirtle",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/015",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-017": {
+      "id": "swsh10.5-017",
+      "localId": "017",
+      "set": "swsh10.5",
+      "name": "Blastoise",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Holo Rare",
+      "hp": 170,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/017",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-018": {
+      "id": "swsh10.5-018",
+      "localId": "018",
+      "set": "swsh10.5",
+      "name": "Radiant Blastoise",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Radiant Rare",
+      "hp": 150,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/018",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-019": {
+      "id": "swsh10.5-019",
+      "localId": "019",
+      "set": "swsh10.5",
+      "name": "Slowpoke",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/019",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-020": {
+      "id": "swsh10.5-020",
+      "localId": "020",
+      "set": "swsh10.5",
+      "name": "Slowbro",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/020",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-021": {
+      "id": "swsh10.5-021",
+      "localId": "021",
+      "set": "swsh10.5",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/021",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-022": {
+      "id": "swsh10.5-022",
+      "localId": "022",
+      "set": "swsh10.5",
+      "name": "Gyarados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Holo Rare",
+      "hp": 170,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/022",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-023": {
+      "id": "swsh10.5-023",
+      "localId": "023",
+      "set": "swsh10.5",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/023",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-024": {
+      "id": "swsh10.5-024",
+      "localId": "024",
+      "set": "swsh10.5",
+      "name": "Articuno",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/024",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-025": {
+      "id": "swsh10.5-025",
+      "localId": "025",
+      "set": "swsh10.5",
+      "name": "Wimpod",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/025",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-027": {
+      "id": "swsh10.5-027",
+      "localId": "027",
+      "set": "swsh10.5",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/027",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-026": {
+      "id": "swsh10.5-026",
+      "localId": "026",
+      "set": "swsh10.5",
+      "name": "Golisopod",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Holo Rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/026",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-028": {
+      "id": "swsh10.5-028",
+      "localId": "028",
+      "set": "swsh10.5",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/028",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-029": {
+      "id": "swsh10.5-029",
+      "localId": "029",
+      "set": "swsh10.5",
+      "name": "Zapdos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/029",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-030": {
+      "id": "swsh10.5-030",
+      "localId": "030",
+      "set": "swsh10.5",
+      "name": "Mewtwo V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 220,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/030",
+      "updated": "2026-08-03T19:15:46+01:00"
+    },
+    "swsh10.5-033": {
+      "id": "swsh10.5-033",
+      "localId": "033",
+      "set": "swsh10.5",
+      "name": "Xatu",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/033",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-031": {
+      "id": "swsh10.5-031",
+      "localId": "031",
+      "set": "swsh10.5",
+      "name": "Mewtwo VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Holo Rare VSTAR",
+      "hp": 280,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/031",
+      "updated": "2026-09-22T08:53:33Z"
+    },
+    "swsh10.5-032": {
+      "id": "swsh10.5-032",
+      "localId": "032",
+      "set": "swsh10.5",
+      "name": "Natu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/032",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-034": {
+      "id": "swsh10.5-034",
+      "localId": "034",
+      "set": "swsh10.5",
+      "name": "Lunatone",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/034",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-038": {
+      "id": "swsh10.5-038",
+      "localId": "038",
+      "set": "swsh10.5",
+      "name": "Pupitar",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/038",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-036": {
+      "id": "swsh10.5-036",
+      "localId": "036",
+      "set": "swsh10.5",
+      "name": "Onix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/036",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-035": {
+      "id": "swsh10.5-035",
+      "localId": "035",
+      "set": "swsh10.5",
+      "name": "Sylveon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Holo Rare",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/035",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-037": {
+      "id": "swsh10.5-037",
+      "localId": "037",
+      "set": "swsh10.5",
+      "name": "Larvitar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/037",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-039": {
+      "id": "swsh10.5-039",
+      "localId": "039",
+      "set": "swsh10.5",
+      "name": "Solrock",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/039",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-040": {
+      "id": "swsh10.5-040",
+      "localId": "040",
+      "set": "swsh10.5",
+      "name": "Conkeldurr V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 230,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/040",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-044": {
+      "id": "swsh10.5-044",
+      "localId": "044",
+      "set": "swsh10.5",
+      "name": "Steelix",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 180,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/044",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-041": {
+      "id": "swsh10.5-041",
+      "localId": "041",
+      "set": "swsh10.5",
+      "name": "Alolan Rattata",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 40,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/041",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-042": {
+      "id": "swsh10.5-042",
+      "localId": "042",
+      "set": "swsh10.5",
+      "name": "Alolan Raticate",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/042",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-045": {
+      "id": "swsh10.5-045",
+      "localId": "045",
+      "set": "swsh10.5",
+      "name": "Meltan",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/045",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-043": {
+      "id": "swsh10.5-043",
+      "localId": "043",
+      "set": "swsh10.5",
+      "name": "Tyranitar",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Holo Rare",
+      "hp": 180,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/043",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-046": {
+      "id": "swsh10.5-046",
+      "localId": "046",
+      "set": "swsh10.5",
+      "name": "Melmetal",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Holo Rare",
+      "hp": 160,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/046",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-047": {
+      "id": "swsh10.5-047",
+      "localId": "047",
+      "set": "swsh10.5",
+      "name": "Melmetal V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 220,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/047",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-048": {
+      "id": "swsh10.5-048",
+      "localId": "048",
+      "set": "swsh10.5",
+      "name": "Melmetal VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Holo Rare VMAX",
+      "hp": 330,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/048",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-049": {
+      "id": "swsh10.5-049",
+      "localId": "049",
+      "set": "swsh10.5",
+      "name": "Dragonite V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 230,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/049",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-050": {
+      "id": "swsh10.5-050",
+      "localId": "050",
+      "set": "swsh10.5",
+      "name": "Dragonite VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Holo Rare VSTAR",
+      "hp": 280,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/050",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-051": {
+      "id": "swsh10.5-051",
+      "localId": "051",
+      "set": "swsh10.5",
+      "name": "Chansey",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/051",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-052": {
+      "id": "swsh10.5-052",
+      "localId": "052",
+      "set": "swsh10.5",
+      "name": "Blissey",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Holo Rare",
+      "hp": 200,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/052",
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "swsh10.5-053": {
+      "id": "swsh10.5-053",
+      "localId": "053",
+      "set": "swsh10.5",
+      "name": "Ditto",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/053",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-054": {
+      "id": "swsh10.5-054",
+      "localId": "054",
+      "set": "swsh10.5",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/054",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-057": {
+      "id": "swsh10.5-057",
+      "localId": "057",
+      "set": "swsh10.5",
+      "name": "Ambipom",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/057",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-056": {
+      "id": "swsh10.5-056",
+      "localId": "056",
+      "set": "swsh10.5",
+      "name": "Aipom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/056",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-055": {
+      "id": "swsh10.5-055",
+      "localId": "055",
+      "set": "swsh10.5",
+      "name": "Snorlax",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare",
+      "hp": 150,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/055",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-058": {
+      "id": "swsh10.5-058",
+      "localId": "058",
+      "set": "swsh10.5",
+      "name": "Slaking V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Holo Rare V",
+      "hp": 230,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/058",
+      "updated": "2026-08-03T19:15:46+01:00"
+    },
+    "swsh10.5-059": {
+      "id": "swsh10.5-059",
+      "localId": "059",
+      "set": "swsh10.5",
+      "name": "Bidoof",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/059",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-064": {
+      "id": "swsh10.5-064",
+      "localId": "064",
+      "set": "swsh10.5",
+      "name": "Blanche",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/064",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-062": {
+      "id": "swsh10.5-062",
+      "localId": "062",
+      "set": "swsh10.5",
+      "name": "Tranquill",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/062",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-063": {
+      "id": "swsh10.5-063",
+      "localId": "063",
+      "set": "swsh10.5",
+      "name": "Unfezant",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/063",
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "swsh10.5-061": {
+      "id": "swsh10.5-061",
+      "localId": "061",
+      "set": "swsh10.5",
+      "name": "Pidove",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/061",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-060": {
+      "id": "swsh10.5-060",
+      "localId": "060",
+      "set": "swsh10.5",
+      "name": "Bibarel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/060",
+      "updated": "2026-09-06T11:00:03+01:00"
+    },
+    "swsh10.5-068": {
+      "id": "swsh10.5-068",
+      "localId": "068",
+      "set": "swsh10.5",
+      "name": "PokéStop",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/068",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-069": {
+      "id": "swsh10.5-069",
+      "localId": "069",
+      "set": "swsh10.5",
+      "name": "Rare Candy",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/069",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-067": {
+      "id": "swsh10.5-067",
+      "localId": "067",
+      "set": "swsh10.5",
+      "name": "Lure Module",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/067",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-066": {
+      "id": "swsh10.5-066",
+      "localId": "066",
+      "set": "swsh10.5",
+      "name": "Egg Incubator",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/066",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-065": {
+      "id": "swsh10.5-065",
+      "localId": "065",
+      "set": "swsh10.5",
+      "name": "Candela",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/065",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-070": {
+      "id": "swsh10.5-070",
+      "localId": "070",
+      "set": "swsh10.5",
+      "name": "Spark",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/070",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-072": {
+      "id": "swsh10.5-072",
+      "localId": "072",
+      "set": "swsh10.5",
+      "name": "Mewtwo V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/072",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-073": {
+      "id": "swsh10.5-073",
+      "localId": "073",
+      "set": "swsh10.5",
+      "name": "Conkeldurr V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/073",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-071": {
+      "id": "swsh10.5-071",
+      "localId": "071",
+      "set": "swsh10.5",
+      "name": "Alolan Exeggutor V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 240,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/071",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-074": {
+      "id": "swsh10.5-074",
+      "localId": "074",
+      "set": "swsh10.5",
+      "name": "Conkeldurr V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/074",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-075": {
+      "id": "swsh10.5-075",
+      "localId": "075",
+      "set": "swsh10.5",
+      "name": "Melmetal V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 220,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/075",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-076": {
+      "id": "swsh10.5-076",
+      "localId": "076",
+      "set": "swsh10.5",
+      "name": "Dragonite V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/076",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-078": {
+      "id": "swsh10.5-078",
+      "localId": "078",
+      "set": "swsh10.5",
+      "name": "Professor's Research",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/078",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-077": {
+      "id": "swsh10.5-077",
+      "localId": "077",
+      "set": "swsh10.5",
+      "name": "Slaking V",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 230,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/077",
+      "updated": "2026-06-27T20:16:31+01:00"
+    },
+    "swsh10.5-080": {
+      "id": "swsh10.5-080",
+      "localId": "080",
+      "set": "swsh10.5",
+      "name": "Melmetal VMAX",
+      "category": "Pokemon",
+      "stage": "VMAX",
+      "rarity": "Secret Rare",
+      "hp": 330,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/080",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-082": {
+      "id": "swsh10.5-082",
+      "localId": "082",
+      "set": "swsh10.5",
+      "name": "Blanche",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/082",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-081": {
+      "id": "swsh10.5-081",
+      "localId": "081",
+      "set": "swsh10.5",
+      "name": "Dragonite VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/081",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-083": {
+      "id": "swsh10.5-083",
+      "localId": "083",
+      "set": "swsh10.5",
+      "name": "Candela",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/083",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-084": {
+      "id": "swsh10.5-084",
+      "localId": "084",
+      "set": "swsh10.5",
+      "name": "Professor's Research",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/084",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-085": {
+      "id": "swsh10.5-085",
+      "localId": "085",
+      "set": "swsh10.5",
+      "name": "Spark",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/085",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-088": {
+      "id": "swsh10.5-088",
+      "localId": "088",
+      "set": "swsh10.5",
+      "name": "Lure Module",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/088",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-087": {
+      "id": "swsh10.5-087",
+      "localId": "087",
+      "set": "swsh10.5",
+      "name": "Egg Incubator",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Secret Rare",
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/087",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-086": {
+      "id": "swsh10.5-086",
+      "localId": "086",
+      "set": "swsh10.5",
+      "name": "Mewtwo VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/086",
+      "updated": "2026-08-20T01:41:10+01:00"
+    },
+    "swsh10.5-079": {
+      "id": "swsh10.5-079",
+      "localId": "079",
+      "set": "swsh10.5",
+      "name": "Mewtwo VSTAR",
+      "category": "Pokemon",
+      "stage": "VSTAR",
+      "rarity": "Secret Rare",
+      "hp": 280,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/079",
+      "updated": "2026-08-20T01:41:10+01:00"
+    }
+  }
+}

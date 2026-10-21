@@ -1,0 +1,21 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "wp",
+    "name": "W Promotional",
+    "serie": "base",
+    "serieName": "Base",
+    "releaseDate": "1999-09-01",
+    "code": null,
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 7,
+      "reverse": 0,
+      "total": 7
+    }
+  },
+  "updatedAt": "2026-10-21T16:48:36.778Z",
+  "cards": {}
+}
