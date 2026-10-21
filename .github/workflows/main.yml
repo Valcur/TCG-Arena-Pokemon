@@ -1,0 +1,56 @@
+name: Mise à jour des cartes Pokémon
+
+on:
+  schedule:
+    # Chaque dimanche matin : 06:57 UTC = 08:57 à Paris l'été, 07:57 l'hiver
+    - cron: '57 6 * * 0'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Écraser PokemonCards.json même si beaucoup de cartes ont disparu"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-pokemon
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Mettre à jour PokemonCards.json et Sets
+        id: update
+        env:
+          FORCE: ${{ inputs.force && '1' || '0' }}
+        run: node Scripts/Update.js
+
+      - name: Commit et push
+        if: always() && steps.update.outcome != 'cancelled'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          # fichier du jeu + cache des sets + rapport dans Scripts/
+          for f in PokemonCards.json Sets Scripts; do
+            if [ -e "$f" ]; then git add -A -- "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise à jour des cartes Pokémon ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Signaler les erreurs
+        if: steps.update.outputs.errors != '' && steps.update.outputs.errors != '0'
+        run: echo "::warning::${{ steps.update.outputs.errors }} erreur(s) et ${{ steps.update.outputs.warnings }} avertissement(s) — détail dans le résumé du run et dans Scripts/update-report.md"
