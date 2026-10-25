@@ -9,15 +9,63 @@
     "code": "30C",
     "cardCount": {
       "firstEd": 0,
-      "holo": 75,
-      "normal": 86,
+      "holo": 0,
+      "normal": 0,
       "official": 128,
       "reverse": 0,
-      "total": 161
+      "total": 158
     }
   },
-  "updatedAt": "2026-10-21T16:26:16.621Z",
+  "updatedAt": "2026-10-25T12:17:55.658Z",
   "cards": {
+    "30th-001": {
+      "id": "30th-001",
+      "localId": "001",
+      "set": "30th",
+      "name": "Exeggcute",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/001",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-002": {
+      "id": "30th-002",
+      "localId": "002",
+      "set": "30th",
+      "name": "Alolan Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/me/30th/002",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-003": {
+      "id": "30th-003",
+      "localId": "003",
+      "set": "30th",
+      "name": "Volbeat",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/003",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-004": {
       "id": "30th-004",
       "localId": "004",
@@ -50,22 +98,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/005",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-002": {
-      "id": "30th-002",
-      "localId": "002",
-      "set": "30th",
-      "name": "Alolan Exeggutor",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
-      "hp": 150,
-      "types": [
-        "Grass"
-      ],
-      "retreat": 4,
-      "image": "https://assets.tcgdex.net/en/me/30th/002",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-006": {
       "id": "30th-006",
       "localId": "006",
@@ -80,22 +112,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/006",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-003": {
-      "id": "30th-003",
-      "localId": "003",
-      "set": "30th",
-      "name": "Volbeat",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 80,
-      "types": [
-        "Grass"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/003",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-007": {
@@ -160,22 +176,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/010",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-001": {
-      "id": "30th-001",
-      "localId": "001",
-      "set": "30th",
-      "name": "Exeggcute",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 60,
-      "types": [
-        "Grass"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/001",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-011": {
@@ -322,20 +322,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/019",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-022": {
-      "id": "30th-022",
-      "localId": "022",
+    "30th-020": {
+      "id": "30th-020",
+      "localId": "020",
       "set": "30th",
-      "name": "Wishiwashi",
+      "name": "Palkia",
       "category": "Pokemon",
       "stage": "Basic",
-      "rarity": "Common",
-      "hp": 30,
+      "rarity": "Rare",
+      "hp": 130,
       "types": [
         "Water"
       ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/022",
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/020",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-021": {
@@ -352,6 +352,38 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/021",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-022": {
+      "id": "30th-022",
+      "localId": "022",
+      "set": "30th",
+      "name": "Wishiwashi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/022",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-023": {
+      "id": "30th-023",
+      "localId": "023",
+      "set": "30th",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Pikachu Rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/023",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-024": {
@@ -386,25 +418,9 @@
       "image": "https://assets.tcgdex.net/en/me/30th/025",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-020": {
-      "id": "30th-020",
-      "localId": "020",
-      "set": "30th",
-      "name": "Palkia",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 130,
-      "types": [
-        "Water"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/020",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-023": {
-      "id": "30th-023",
-      "localId": "023",
+    "30th-026": {
+      "id": "30th-026",
+      "localId": "026",
       "set": "30th",
       "name": "Pikachu",
       "category": "Pokemon",
@@ -414,8 +430,8 @@
       "types": [
         "Lightning"
       ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/023",
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/026",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-027": {
@@ -450,22 +466,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/028",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-030": {
-      "id": "30th-030",
-      "localId": "030",
-      "set": "30th",
-      "name": "Pikachu",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Pikachu Rare",
-      "hp": 60,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/030",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-029": {
       "id": "30th-029",
       "localId": "029",
@@ -480,6 +480,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/029",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-030": {
+      "id": "30th-030",
+      "localId": "030",
+      "set": "30th",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Pikachu Rare",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/030",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-031": {
@@ -498,22 +514,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/031",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-026": {
-      "id": "30th-026",
-      "localId": "026",
-      "set": "30th",
-      "name": "Pikachu",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Pikachu Rare",
-      "hp": 70,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/026",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-032": {
       "id": "30th-032",
       "localId": "032",
@@ -528,6 +528,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/032",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-033": {
+      "id": "30th-033",
+      "localId": "033",
+      "set": "30th",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Pikachu Rare",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/033",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-034": {
@@ -562,22 +578,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/035",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-037": {
-      "id": "30th-037",
-      "localId": "037",
-      "set": "30th",
-      "name": "Pikachu",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Pikachu Rare",
-      "hp": 70,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/037",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-036": {
       "id": "30th-036",
       "localId": "036",
@@ -592,6 +592,22 @@
       ],
       "retreat": 2,
       "image": "https://assets.tcgdex.net/en/me/30th/036",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-037": {
+      "id": "30th-037",
+      "localId": "037",
+      "set": "30th",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Pikachu Rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/037",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-038": {
@@ -674,22 +690,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/042",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-033": {
-      "id": "30th-033",
-      "localId": "033",
-      "set": "30th",
-      "name": "Pikachu",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Pikachu Rare",
-      "hp": 60,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/033",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-043": {
       "id": "30th-043",
       "localId": "043",
@@ -770,22 +770,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/047",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-049": {
-      "id": "30th-049",
-      "localId": "049",
-      "set": "30th",
-      "name": "Pikachu",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Pikachu Rare",
-      "hp": 80,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 3,
-      "image": "https://assets.tcgdex.net/en/me/30th/049",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-048": {
       "id": "30th-048",
       "localId": "048",
@@ -800,6 +784,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/048",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-049": {
+      "id": "30th-049",
+      "localId": "049",
+      "set": "30th",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Pikachu Rare",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/me/30th/049",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-050": {
@@ -962,6 +962,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/059",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-060": {
+      "id": "30th-060",
+      "localId": "060",
+      "set": "30th",
+      "name": "Toxtricity",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 140,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/060",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-061": {
       "id": "30th-061",
       "localId": "061",
@@ -978,6 +994,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/061",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-062": {
+      "id": "30th-062",
+      "localId": "062",
+      "set": "30th",
+      "name": "Miraidon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/062",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-063": {
       "id": "30th-063",
       "localId": "063",
@@ -992,6 +1024,22 @@
       ],
       "retreat": 2,
       "image": "https://assets.tcgdex.net/en/me/30th/063",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-064": {
+      "id": "30th-064",
+      "localId": "064",
+      "set": "30th",
+      "name": "Mewtwo ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 230,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/064",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-065": {
@@ -1042,6 +1090,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/067",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-068": {
+      "id": "30th-068",
+      "localId": "068",
+      "set": "30th",
+      "name": "Azumarill",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/068",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-069": {
       "id": "30th-069",
       "localId": "069",
@@ -1072,22 +1136,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/070",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-068": {
-      "id": "30th-068",
-      "localId": "068",
-      "set": "30th",
-      "name": "Azumarill",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
-      "hp": 130,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/068",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-071": {
@@ -1154,70 +1202,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/074",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-076": {
-      "id": "30th-076",
-      "localId": "076",
-      "set": "30th",
-      "name": "Xerneas",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 120,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/076",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-060": {
-      "id": "30th-060",
-      "localId": "060",
-      "set": "30th",
-      "name": "Toxtricity",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
-      "hp": 140,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/060",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-062": {
-      "id": "30th-062",
-      "localId": "062",
-      "set": "30th",
-      "name": "Miraidon",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 120,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/062",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-064": {
-      "id": "30th-064",
-      "localId": "064",
-      "set": "30th",
-      "name": "Mewtwo ex",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Double rare",
-      "hp": 230,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/064",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-075": {
       "id": "30th-075",
       "localId": "075",
@@ -1234,52 +1218,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/075",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-078": {
-      "id": "30th-078",
-      "localId": "078",
+    "30th-076": {
+      "id": "30th-076",
+      "localId": "076",
       "set": "30th",
-      "name": "Cosmog",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 60,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/078",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-081": {
-      "id": "30th-081",
-      "localId": "081",
-      "set": "30th",
-      "name": "Gimmighoul",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 60,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/081",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-082": {
-      "id": "30th-082",
-      "localId": "082",
-      "set": "30th",
-      "name": "Groudon",
+      "name": "Xerneas",
       "category": "Pokemon",
       "stage": "Basic",
       "rarity": "Rare",
-      "hp": 140,
+      "hp": 120,
       "types": [
-        "Fighting"
+        "Psychic"
       ],
-      "retreat": 4,
-      "image": "https://assets.tcgdex.net/en/me/30th/082",
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/076",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-077": {
@@ -1296,6 +1248,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/077",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-078": {
+      "id": "30th-078",
+      "localId": "078",
+      "set": "30th",
+      "name": "Cosmog",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/078",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-079": {
@@ -1330,36 +1298,36 @@
       "image": "https://assets.tcgdex.net/en/me/30th/080",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-087": {
-      "id": "30th-087",
-      "localId": "087",
+    "30th-081": {
+      "id": "30th-081",
+      "localId": "081",
       "set": "30th",
-      "name": "Nidoran♀",
+      "name": "Gimmighoul",
       "category": "Pokemon",
       "stage": "Basic",
       "rarity": "Common",
       "hp": 60,
       "types": [
-        "Darkness"
+        "Psychic"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/087",
+      "image": "https://assets.tcgdex.net/en/me/30th/081",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-085": {
-      "id": "30th-085",
-      "localId": "085",
+    "30th-082": {
+      "id": "30th-082",
+      "localId": "082",
       "set": "30th",
-      "name": "Lycanroc",
+      "name": "Groudon",
       "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
-      "hp": 130,
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 140,
       "types": [
         "Fighting"
       ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/085",
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/me/30th/082",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-083": {
@@ -1378,6 +1346,38 @@
       "image": "https://assets.tcgdex.net/en/me/30th/083",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-084": {
+      "id": "30th-084",
+      "localId": "084",
+      "set": "30th",
+      "name": "Seismitoad",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Common",
+      "hp": 160,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/me/30th/084",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-085": {
+      "id": "30th-085",
+      "localId": "085",
+      "set": "30th",
+      "name": "Lycanroc",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/085",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-086": {
       "id": "30th-086",
       "localId": "086",
@@ -1394,20 +1394,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/086",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-084": {
-      "id": "30th-084",
-      "localId": "084",
+    "30th-087": {
+      "id": "30th-087",
+      "localId": "087",
       "set": "30th",
-      "name": "Seismitoad",
+      "name": "Nidoran♀",
       "category": "Pokemon",
-      "stage": "Stage2",
+      "stage": "Basic",
       "rarity": "Common",
-      "hp": 160,
+      "hp": 60,
       "types": [
-        "Fighting"
+        "Darkness"
       ],
-      "retreat": 3,
-      "image": "https://assets.tcgdex.net/en/me/30th/084",
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/087",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-088": {
@@ -1426,20 +1426,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/088",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-091": {
-      "id": "30th-091",
-      "localId": "091",
+    "30th-089": {
+      "id": "30th-089",
+      "localId": "089",
       "set": "30th",
-      "name": "Umbreon",
+      "name": "Alolan Meowth",
       "category": "Pokemon",
-      "stage": "Stage1",
+      "stage": "Basic",
       "rarity": "Common",
-      "hp": 110,
+      "hp": 60,
       "types": [
         "Darkness"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/091",
+      "image": "https://assets.tcgdex.net/en/me/30th/089",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-090": {
@@ -1458,20 +1458,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/090",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-089": {
-      "id": "30th-089",
-      "localId": "089",
+    "30th-091": {
+      "id": "30th-091",
+      "localId": "091",
       "set": "30th",
-      "name": "Alolan Meowth",
+      "name": "Umbreon",
       "category": "Pokemon",
-      "stage": "Basic",
+      "stage": "Stage1",
       "rarity": "Common",
-      "hp": 60,
+      "hp": 110,
       "types": [
         "Darkness"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/089",
+      "image": "https://assets.tcgdex.net/en/me/30th/091",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-092": {
@@ -1490,22 +1490,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/092",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-094": {
-      "id": "30th-094",
-      "localId": "094",
-      "set": "30th",
-      "name": "Scraggy",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 80,
-      "types": [
-        "Darkness"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/094",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-093": {
       "id": "30th-093",
       "localId": "093",
@@ -1522,6 +1506,38 @@
       "image": "https://assets.tcgdex.net/en/me/30th/093",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-094": {
+      "id": "30th-094",
+      "localId": "094",
+      "set": "30th",
+      "name": "Scraggy",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/094",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-095": {
+      "id": "30th-095",
+      "localId": "095",
+      "set": "30th",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/095",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-096": {
       "id": "30th-096",
       "localId": "096",
@@ -1536,38 +1552,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/096",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-099": {
-      "id": "30th-099",
-      "localId": "099",
-      "set": "30th",
-      "name": "Hydreigon",
-      "category": "Pokemon",
-      "stage": "Stage2",
-      "rarity": "Common",
-      "hp": 170,
-      "types": [
-        "Darkness"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/099",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-100": {
-      "id": "30th-100",
-      "localId": "100",
-      "set": "30th",
-      "name": "Yveltal",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 120,
-      "types": [
-        "Darkness"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/100",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-097": {
@@ -1602,20 +1586,36 @@
       "image": "https://assets.tcgdex.net/en/me/30th/098",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-095": {
-      "id": "30th-095",
-      "localId": "095",
+    "30th-099": {
+      "id": "30th-099",
+      "localId": "099",
       "set": "30th",
-      "name": "Zorua",
+      "name": "Hydreigon",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Common",
+      "hp": 170,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/099",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-100": {
+      "id": "30th-100",
+      "localId": "100",
+      "set": "30th",
+      "name": "Yveltal",
       "category": "Pokemon",
       "stage": "Basic",
-      "rarity": "Common",
-      "hp": 70,
+      "rarity": "Rare",
+      "hp": 120,
       "types": [
         "Darkness"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/095",
+      "image": "https://assets.tcgdex.net/en/me/30th/100",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-101": {
@@ -1634,22 +1634,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/101",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-103": {
-      "id": "30th-103",
-      "localId": "103",
-      "set": "30th",
-      "name": "Dialga",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 130,
-      "types": [
-        "Metal"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/103",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-102": {
       "id": "30th-102",
       "localId": "102",
@@ -1664,6 +1648,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/102",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-103": {
+      "id": "30th-103",
+      "localId": "103",
+      "set": "30th",
+      "name": "Dialga",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/103",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-104": {
@@ -1714,22 +1714,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/106",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-108": {
-      "id": "30th-108",
-      "localId": "108",
-      "set": "30th",
-      "name": "Gholdengo",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
-      "hp": 130,
-      "types": [
-        "Metal"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/108",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-107": {
       "id": "30th-107",
       "localId": "107",
@@ -1744,6 +1728,22 @@
       ],
       "retreat": 2,
       "image": "https://assets.tcgdex.net/en/me/30th/107",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-108": {
+      "id": "30th-108",
+      "localId": "108",
+      "set": "30th",
+      "name": "Gholdengo",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/108",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-109": {
@@ -1778,22 +1778,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/110",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-112": {
-      "id": "30th-112",
-      "localId": "112",
-      "set": "30th",
-      "name": "Kommo-o",
-      "category": "Pokemon",
-      "stage": "Stage2",
-      "rarity": "Common",
-      "hp": 180,
-      "types": [
-        "Dragon"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/112",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-111": {
       "id": "30th-111",
       "localId": "111",
@@ -1808,6 +1792,22 @@
       ],
       "retreat": 2,
       "image": "https://assets.tcgdex.net/en/me/30th/111",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-112": {
+      "id": "30th-112",
+      "localId": "112",
+      "set": "30th",
+      "name": "Kommo-o",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Common",
+      "hp": 180,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/112",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-113": {
@@ -1858,22 +1858,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/115",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-117": {
-      "id": "30th-117",
-      "localId": "117",
-      "set": "30th",
-      "name": "Eevee",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 70,
-      "types": [
-        "Colorless"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/117",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-116": {
       "id": "30th-116",
       "localId": "116",
@@ -1888,6 +1872,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/116",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-117": {
+      "id": "30th-117",
+      "localId": "117",
+      "set": "30th",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/117",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-118": {
@@ -1922,22 +1922,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/119",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-121": {
-      "id": "30th-121",
-      "localId": "121",
-      "set": "30th",
-      "name": "Lugia",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Rare",
-      "hp": 120,
-      "types": [
-        "Colorless"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/121",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-120": {
       "id": "30th-120",
       "localId": "120",
@@ -1954,20 +1938,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/120",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-123": {
-      "id": "30th-123",
-      "localId": "123",
+    "30th-121": {
+      "id": "30th-121",
+      "localId": "121",
       "set": "30th",
-      "name": "Hisuian Zoroark",
+      "name": "Lugia",
       "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Common",
+      "stage": "Basic",
+      "rarity": "Rare",
       "hp": 120,
       "types": [
         "Colorless"
       ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/123",
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/121",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-122": {
@@ -1986,143 +1970,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/122",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-125": {
-      "id": "30th-125",
-      "localId": "125",
+    "30th-123": {
+      "id": "30th-123",
+      "localId": "123",
       "set": "30th",
-      "name": "Maushold",
+      "name": "Hisuian Zoroark",
       "category": "Pokemon",
       "stage": "Stage1",
       "rarity": "Common",
-      "hp": 80,
+      "hp": 120,
       "types": [
         "Colorless"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/125",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-127": {
-      "id": "30th-127",
-      "localId": "127",
-      "set": "30th",
-      "name": "Switch",
-      "category": "Trainer",
-      "trainerType": "Item",
-      "rarity": "Common",
-      "image": "https://assets.tcgdex.net/en/me/30th/127",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-129": {
-      "id": "30th-129",
-      "localId": "129",
-      "set": "30th",
-      "name": "Alolan Exeggutor",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Illustration rare",
-      "hp": 150,
-      "types": [
-        "Grass"
-      ],
-      "retreat": 4,
-      "image": "https://assets.tcgdex.net/en/me/30th/129",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-131": {
-      "id": "30th-131",
-      "localId": "131",
-      "set": "30th",
-      "name": "Lapras",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 130,
-      "types": [
-        "Water"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/131",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-130": {
-      "id": "30th-130",
-      "localId": "130",
-      "set": "30th",
-      "name": "Moltres",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 120,
-      "types": [
-        "Fire"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/130",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-132": {
-      "id": "30th-132",
-      "localId": "132",
-      "set": "30th",
-      "name": "Articuno",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 120,
-      "types": [
-        "Water"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/132",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-134": {
-      "id": "30th-134",
-      "localId": "134",
-      "set": "30th",
-      "name": "Toxtricity",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Illustration rare",
-      "hp": 140,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/134",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-133": {
-      "id": "30th-133",
-      "localId": "133",
-      "set": "30th",
-      "name": "Zapdos",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 120,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/133",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-135": {
-      "id": "30th-135",
-      "localId": "135",
-      "set": "30th",
-      "name": "Morpeko",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 70,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/135",
+      "image": "https://assets.tcgdex.net/en/me/30th/123",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-124": {
@@ -2141,6 +2002,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/124",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-125": {
+      "id": "30th-125",
+      "localId": "125",
+      "set": "30th",
+      "name": "Maushold",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/125",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-126": {
       "id": "30th-126",
       "localId": "126",
@@ -2152,6 +2029,17 @@
       "image": "https://assets.tcgdex.net/en/me/30th/126",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-127": {
+      "id": "30th-127",
+      "localId": "127",
+      "set": "30th",
+      "name": "Switch",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "image": "https://assets.tcgdex.net/en/me/30th/127",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-128": {
       "id": "30th-128",
       "localId": "128",
@@ -2161,6 +2049,118 @@
       "trainerType": "Item",
       "rarity": "Common",
       "image": "https://assets.tcgdex.net/en/me/30th/128",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-129": {
+      "id": "30th-129",
+      "localId": "129",
+      "set": "30th",
+      "name": "Alolan Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "image": "https://assets.tcgdex.net/en/me/30th/129",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-130": {
+      "id": "30th-130",
+      "localId": "130",
+      "set": "30th",
+      "name": "Moltres",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/130",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-131": {
+      "id": "30th-131",
+      "localId": "131",
+      "set": "30th",
+      "name": "Lapras",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/131",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-132": {
+      "id": "30th-132",
+      "localId": "132",
+      "set": "30th",
+      "name": "Articuno",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/132",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-133": {
+      "id": "30th-133",
+      "localId": "133",
+      "set": "30th",
+      "name": "Zapdos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/133",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-134": {
+      "id": "30th-134",
+      "localId": "134",
+      "set": "30th",
+      "name": "Toxtricity",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 140,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/134",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-135": {
+      "id": "30th-135",
+      "localId": "135",
+      "set": "30th",
+      "name": "Morpeko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/135",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-136": {
@@ -2177,6 +2177,54 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/136",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-137": {
+      "id": "30th-137",
+      "localId": "137",
+      "set": "30th",
+      "name": "Chandelure",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Illustration rare",
+      "hp": 140,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/137",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-138": {
+      "id": "30th-138",
+      "localId": "138",
+      "set": "30th",
+      "name": "Lycanroc",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/138",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-139": {
+      "id": "30th-139",
+      "localId": "139",
+      "set": "30th",
+      "name": "Alolan Meowth",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/139",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-140": {
@@ -2211,6 +2259,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/141",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-142": {
+      "id": "30th-142",
+      "localId": "142",
+      "set": "30th",
+      "name": "Gholdengo",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 130,
+      "types": [
+        "Metal"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/142",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-143": {
       "id": "30th-143",
       "localId": "143",
@@ -2243,68 +2307,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/144",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-142": {
-      "id": "30th-142",
-      "localId": "142",
+    "30th-145": {
+      "id": "30th-145",
+      "localId": "145",
       "set": "30th",
-      "name": "Gholdengo",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Illustration rare",
-      "hp": 130,
-      "types": [
-        "Metal"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/142",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-139": {
-      "id": "30th-139",
-      "localId": "139",
-      "set": "30th",
-      "name": "Alolan Meowth",
+      "name": "Hisuian Zorua",
       "category": "Pokemon",
       "stage": "Basic",
       "rarity": "Illustration rare",
       "hp": 60,
       "types": [
-        "Darkness"
+        "Colorless"
       ],
       "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/139",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-138": {
-      "id": "30th-138",
-      "localId": "138",
-      "set": "30th",
-      "name": "Lycanroc",
-      "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Illustration rare",
-      "hp": 130,
-      "types": [
-        "Fighting"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/138",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-137": {
-      "id": "30th-137",
-      "localId": "137",
-      "set": "30th",
-      "name": "Chandelure",
-      "category": "Pokemon",
-      "stage": "Stage2",
-      "rarity": "Illustration rare",
-      "hp": 140,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/137",
+      "image": "https://assets.tcgdex.net/en/me/30th/145",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-146": {
@@ -2321,22 +2337,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/me/30th/146",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-145": {
-      "id": "30th-145",
-      "localId": "145",
-      "set": "30th",
-      "name": "Hisuian Zorua",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Illustration rare",
-      "hp": 60,
-      "types": [
-        "Colorless"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/145",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-147": {
@@ -2371,22 +2371,6 @@
       "image": "https://assets.tcgdex.net/en/me/30th/148",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-150": {
-      "id": "30th-150",
-      "localId": "150",
-      "set": "30th",
-      "name": "Pikachu ex",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Special illustration rare",
-      "hp": 190,
-      "types": [
-        "Lightning"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/150",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
     "30th-149": {
       "id": "30th-149",
       "localId": "149",
@@ -2403,20 +2387,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/149",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-152": {
-      "id": "30th-152",
-      "localId": "152",
+    "30th-150": {
+      "id": "30th-150",
+      "localId": "150",
       "set": "30th",
-      "name": "Mew ex",
+      "name": "Pikachu ex",
       "category": "Pokemon",
       "stage": "Basic",
       "rarity": "Special illustration rare",
-      "hp": 160,
+      "hp": 190,
       "types": [
-        "Psychic"
+        "Lightning"
       ],
-      "retreat": 0,
-      "image": "https://assets.tcgdex.net/en/me/30th/152",
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/150",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-151": {
@@ -2435,6 +2419,22 @@
       "image": "https://assets.tcgdex.net/en/me/30th/151",
       "updated": "2026-09-22T10:07:07+01:00"
     },
+    "30th-152": {
+      "id": "30th-152",
+      "localId": "152",
+      "set": "30th",
+      "name": "Mew ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Special illustration rare",
+      "hp": 160,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 0,
+      "image": "https://assets.tcgdex.net/en/me/30th/152",
+      "updated": "2026-09-22T10:07:07+01:00"
+    },
     "30th-153": {
       "id": "30th-153",
       "localId": "153",
@@ -2449,22 +2449,6 @@
       ],
       "retreat": 2,
       "image": "https://assets.tcgdex.net/en/me/30th/153",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-156": {
-      "id": "30th-156",
-      "localId": "156",
-      "set": "30th",
-      "name": "Salamence ex",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Special illustration rare",
-      "hp": 330,
-      "types": [
-        "Dragon"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/me/30th/156",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-154": {
@@ -2499,20 +2483,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/155",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-158": {
-      "id": "30th-158",
-      "localId": "158",
+    "30th-156": {
+      "id": "30th-156",
+      "localId": "156",
       "set": "30th",
-      "name": "Mew ex",
+      "name": "Salamence ex",
       "category": "Pokemon",
       "stage": "Basic",
-      "rarity": "Futuristic Rare",
-      "hp": 160,
+      "rarity": "Special illustration rare",
+      "hp": 330,
       "types": [
-        "Psychic"
+        "Dragon"
       ],
-      "retreat": 0,
-      "image": "https://assets.tcgdex.net/en/me/30th/158",
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/me/30th/156",
       "updated": "2026-09-22T10:07:07+01:00"
     },
     "30th-157": {
@@ -2531,52 +2515,20 @@
       "image": "https://assets.tcgdex.net/en/me/30th/157",
       "updated": "2026-09-22T10:07:07+01:00"
     },
-    "30th-B": {
-      "id": "30th-B",
-      "localId": "B",
+    "30th-158": {
+      "id": "30th-158",
+      "localId": "158",
       "set": "30th",
-      "name": "Mew",
+      "name": "Mew ex",
       "category": "Pokemon",
       "stage": "Basic",
-      "rarity": "RGB Rare",
-      "hp": 60,
+      "rarity": "Futuristic Rare",
+      "hp": 160,
       "types": [
         "Psychic"
       ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/B",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-G": {
-      "id": "30th-G",
-      "localId": "G",
-      "set": "30th",
-      "name": "Mew",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "RGB Rare",
-      "hp": 60,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/G",
-      "updated": "2026-09-22T10:07:07+01:00"
-    },
-    "30th-R": {
-      "id": "30th-R",
-      "localId": "R",
-      "set": "30th",
-      "name": "Mew",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "RGB Rare",
-      "hp": 60,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/me/30th/R",
+      "retreat": 0,
+      "image": "https://assets.tcgdex.net/en/me/30th/158",
       "updated": "2026-09-22T10:07:07+01:00"
     }
   }

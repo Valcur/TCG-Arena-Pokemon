@@ -88,8 +88,8 @@
       "name": "30th Celebration",
       "serie": "me",
       "releaseDate": "2026-09-16",
-      "total": 161,
-      "cards": 161
+      "total": 158,
+      "cards": 158
     },
     "30th-c": {
       "name": "30th Classic Collection",
@@ -674,15 +674,17 @@
       "name": "Mega Evolution Energy",
       "serie": "me",
       "releaseDate": "2025-09-25",
-      "total": 16,
-      "cards": 16
+      "total": 8,
+      "cards": 8,
+      "noImage": 8
     },
     "mep": {
       "name": "MEP Black Star Promos",
       "serie": "me",
       "releaseDate": "2025-09-26",
-      "total": 112,
-      "cards": 112
+      "total": 89,
+      "cards": 89,
+      "noImage": 89
     },
     "mfb": {
       "name": "My First Battle",
@@ -1513,5 +1515,5 @@
       "cards": 216
     }
   },
-  "updatedAt": "2026-10-21T16:48:36.887Z"
+  "updatedAt": "2026-10-25T12:17:55.660Z"
 }

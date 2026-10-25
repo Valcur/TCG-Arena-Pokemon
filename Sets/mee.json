@@ -9,25 +9,15 @@
     "code": "MEE",
     "cardCount": {
       "firstEd": 0,
-      "holo": 8,
+      "holo": 0,
       "normal": 8,
-      "official": 16,
+      "official": 8,
       "reverse": 8,
-      "total": 16
+      "total": 8
     }
   },
-  "updatedAt": "2026-10-21T16:26:11.961Z",
+  "updatedAt": "2026-10-25T12:17:55.462Z",
   "cards": {
-    "mee-003": {
-      "id": "mee-003",
-      "localId": "003",
-      "set": "mee",
-      "name": "Water Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-16T20:25:32Z"
-    },
     "mee-001": {
       "id": "mee-001",
       "localId": "001",
@@ -38,21 +28,21 @@
       "rarity": "Common",
       "updated": "2026-09-16T20:25:32Z"
     },
-    "mee-006": {
-      "id": "mee-006",
-      "localId": "006",
-      "set": "mee",
-      "name": "Fighting Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-16T20:25:32Z"
-    },
     "mee-002": {
       "id": "mee-002",
       "localId": "002",
       "set": "mee",
       "name": "Fire Energy",
+      "category": "Energy",
+      "energyType": "Normal",
+      "rarity": "Common",
+      "updated": "2026-09-16T20:25:32Z"
+    },
+    "mee-003": {
+      "id": "mee-003",
+      "localId": "003",
+      "set": "mee",
+      "name": "Water Energy",
       "category": "Energy",
       "energyType": "Normal",
       "rarity": "Common",
@@ -78,11 +68,11 @@
       "rarity": "Common",
       "updated": "2026-09-16T20:25:32Z"
     },
-    "mee-008": {
-      "id": "mee-008",
-      "localId": "008",
+    "mee-006": {
+      "id": "mee-006",
+      "localId": "006",
       "set": "mee",
-      "name": "Metal Energy",
+      "name": "Fighting Energy",
       "category": "Energy",
       "energyType": "Normal",
       "rarity": "Common",
@@ -98,85 +88,15 @@
       "rarity": "Common",
       "updated": "2026-09-16T20:25:32Z"
     },
-    "mee-011": {
-      "id": "mee-011",
-      "localId": "011",
+    "mee-008": {
+      "id": "mee-008",
+      "localId": "008",
       "set": "mee",
-      "name": "Basic Water Energy",
+      "name": "Metal Energy",
       "category": "Energy",
       "energyType": "Normal",
       "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-009": {
-      "id": "mee-009",
-      "localId": "009",
-      "set": "mee",
-      "name": "Basic Grass Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-010": {
-      "id": "mee-010",
-      "localId": "010",
-      "set": "mee",
-      "name": "Basic Fire Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-012": {
-      "id": "mee-012",
-      "localId": "012",
-      "set": "mee",
-      "name": "Basic Lightning Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-013": {
-      "id": "mee-013",
-      "localId": "013",
-      "set": "mee",
-      "name": "Basic Psychic Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-014": {
-      "id": "mee-014",
-      "localId": "014",
-      "set": "mee",
-      "name": "Basic Fighting Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-015": {
-      "id": "mee-015",
-      "localId": "015",
-      "set": "mee",
-      "name": "Basic Darkness Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
-    },
-    "mee-016": {
-      "id": "mee-016",
-      "localId": "016",
-      "set": "mee",
-      "name": "Basic Metal Energy",
-      "category": "Energy",
-      "energyType": "Normal",
-      "rarity": "Common",
-      "updated": "2026-09-22T07:34:46Z"
+      "updated": "2026-09-16T20:25:32Z"
     }
   }
 }
