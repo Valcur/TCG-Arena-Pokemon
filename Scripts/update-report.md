@@ -1,19 +1,19 @@
-# Mise à jour des cartes Pokémon — 2026-10-25 12:17 UTC
+# Mise à jour des cartes Pokémon — 2026-11-01 13:58 UTC
 
 | | |
 |---|---|
 | Sets dans l'API | 220 (dont 15 exclus : TCG Pocket…) |
 | Nouveaux sets | — |
-| Sets mis à jour (nombre de cartes changé) | mee, mep, 30th |
+| Sets mis à jour (nombre de cartes changé) | — |
 | Sets incomplets re-vérifiés | wp, jumbo, sp, rc, tk-sm-l, mfb |
-| Sets re-vérifiés pour leurs images manquantes | 0 (images trouvées : 0) |
+| Sets re-vérifiés pour leurs images manquantes | 2 (images trouvées : 0) |
 | Cartes téléchargées ce run | 0 (échecs : 0) |
-| Cartes dans PokemonCards.json | 20574 (avant : 20577) |
+| Cartes dans PokemonCards.json | 20574 (avant : 20574) |
 | Cartes avec image Scrydex / pokemontcg.io (en attendant TCGdex) | 908 |
 | Cartes masquées (aucune image) | 682 |
 | Nouvelles cartes | 0 |
 | ❌ Erreurs | 0 |
-| ⚠️ Avertissements | 82 |
+| ⚠️ Avertissements | 79 |
 
 ## ✅ Vérification des anciennes cartes
 
@@ -28,7 +28,7 @@
 
 `30th` → `?`
 
-## ⚠️ Avertissements (82)
+## ⚠️ Avertissements (79)
 
 ### Sets incomplets chez TCGdex (re-vérifiés à chaque run) — 6
 
@@ -38,12 +38,6 @@
 - `rc` — 0/25 cartes
 - `tk-sm-l` — 18/30 cartes
 - `mfb` — 34/48 cartes
-
-### Cartes retirées d'un set par TCGdex — 3
-
-- `mee` — mee-011, mee-009, mee-010, mee-012, mee-013, mee-014, mee-015, mee-016
-- `mep` — mep-090, mep-089, mep-091, mep-092, mep-093, mep-094, mep-096, mep-095, mep-097, mep-098, mep-099, mep-100, mep-102, mep-101, mep-107, mep-104, mep-105, mep-106, mep-110, mep-109, mep-120, mep-103, mep-108
-- `30th` — 30th-B, 30th-G, 30th-R
 
 ### Pas d'image chez TCGdex : ancienne image Scrydex / pokemontcg.io utilisée en attendant — 40
 
