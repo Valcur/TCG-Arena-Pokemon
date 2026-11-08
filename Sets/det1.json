@@ -13,10 +13,10 @@
       "normal": 0,
       "official": 18,
       "reverse": 0,
-      "total": 18
+      "total": 19
     }
   },
-  "updatedAt": "2026-10-21T16:25:42.994Z",
+  "updatedAt": "2026-11-08T14:01:35.172Z",
   "cards": {
     "det1-1": {
       "id": "det1-1",
@@ -32,38 +32,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/sm/det1/1",
-      "updated": "2026-08-14T19:34:28+01:00"
-    },
-    "det1-4": {
-      "id": "det1-4",
-      "localId": "4",
-      "set": "det1",
-      "name": "Charmander",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 60,
-      "types": [
-        "Fire"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/sm/det1/4",
-      "updated": "2026-08-14T19:34:28+01:00"
-    },
-    "det1-3": {
-      "id": "det1-3",
-      "localId": "3",
-      "set": "det1",
-      "name": "Morelull",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 50,
-      "types": [
-        "Grass"
-      ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/sm/det1/3",
       "updated": "2026-08-14T19:34:28+01:00"
     },
     "det1-2": {
@@ -82,20 +50,36 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/2",
       "updated": "2026-09-06T11:00:03+01:00"
     },
-    "det1-6": {
-      "id": "det1-6",
-      "localId": "6",
+    "det1-3": {
+      "id": "det1-3",
+      "localId": "3",
       "set": "det1",
-      "name": "Arcanine",
+      "name": "Morelull",
       "category": "Pokemon",
-      "stage": "Stage1",
-      "rarity": "Rare",
-      "hp": 120,
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/sm/det1/3",
+      "updated": "2026-08-14T19:34:28+01:00"
+    },
+    "det1-4": {
+      "id": "det1-4",
+      "localId": "4",
+      "set": "det1",
+      "name": "Charmander",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
       "types": [
         "Fire"
       ],
-      "retreat": 3,
-      "image": "https://assets.tcgdex.net/en/sm/det1/6",
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/sm/det1/4",
       "updated": "2026-08-14T19:34:28+01:00"
     },
     "det1-5": {
@@ -114,20 +98,20 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/5",
       "updated": "2026-08-14T19:34:28+01:00"
     },
-    "det1-8": {
-      "id": "det1-8",
-      "localId": "8",
+    "det1-6": {
+      "id": "det1-6",
+      "localId": "6",
       "set": "det1",
-      "name": "Magikarp",
+      "name": "Arcanine",
       "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 30,
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 120,
       "types": [
-        "Water"
+        "Fire"
       ],
-      "retreat": 1,
-      "image": "https://assets.tcgdex.net/en/sm/det1/8",
+      "retreat": 3,
+      "image": "https://assets.tcgdex.net/en/sm/det1/6",
       "updated": "2026-08-14T19:34:28+01:00"
     },
     "det1-7": {
@@ -146,6 +130,22 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/7",
       "updated": "2026-08-14T19:34:28+01:00"
     },
+    "det1-8": {
+      "id": "det1-8",
+      "localId": "8",
+      "set": "det1",
+      "name": "Magikarp",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/sm/det1/8",
+      "updated": "2026-08-14T19:34:28+01:00"
+    },
     "det1-9": {
       "id": "det1-9",
       "localId": "9",
@@ -160,22 +160,6 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/sm/det1/9",
-      "updated": "2026-08-14T19:34:28+01:00"
-    },
-    "det1-12": {
-      "id": "det1-12",
-      "localId": "12",
-      "set": "det1",
-      "name": "Mewtwo",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Ultra Rare",
-      "hp": 130,
-      "types": [
-        "Psychic"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/sm/det1/12",
       "updated": "2026-08-14T19:34:28+01:00"
     },
     "det1-10": {
@@ -210,6 +194,22 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/11",
       "updated": "2026-08-14T19:34:28+01:00"
     },
+    "det1-12": {
+      "id": "det1-12",
+      "localId": "12",
+      "set": "det1",
+      "name": "Mewtwo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/sm/det1/12",
+      "updated": "2026-08-14T19:34:28+01:00"
+    },
     "det1-13": {
       "id": "det1-13",
       "localId": "13",
@@ -226,22 +226,6 @@
       "image": "https://assets.tcgdex.net/en/sm/det1/13",
       "updated": "2026-08-14T19:34:28+01:00"
     },
-    "det1-15": {
-      "id": "det1-15",
-      "localId": "15",
-      "set": "det1",
-      "name": "Snubbull",
-      "category": "Pokemon",
-      "stage": "Basic",
-      "rarity": "Common",
-      "hp": 70,
-      "types": [
-        "Fairy"
-      ],
-      "retreat": 2,
-      "image": "https://assets.tcgdex.net/en/sm/det1/15",
-      "updated": "2026-08-14T19:34:28+01:00"
-    },
     "det1-14": {
       "id": "det1-14",
       "localId": "14",
@@ -256,6 +240,22 @@
       ],
       "retreat": 1,
       "image": "https://assets.tcgdex.net/en/sm/det1/14",
+      "updated": "2026-08-14T19:34:28+01:00"
+    },
+    "det1-15": {
+      "id": "det1-15",
+      "localId": "15",
+      "set": "det1",
+      "name": "Snubbull",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Fairy"
+      ],
+      "retreat": 2,
+      "image": "https://assets.tcgdex.net/en/sm/det1/15",
       "updated": "2026-08-14T19:34:28+01:00"
     },
     "det1-16": {
@@ -305,6 +305,16 @@
       "retreat": 4,
       "image": "https://assets.tcgdex.net/en/sm/det1/18",
       "updated": "2026-08-14T19:34:28+01:00"
+    },
+    "det1-25": {
+      "id": "det1-25",
+      "localId": "25",
+      "set": "det1",
+      "name": "Lt. Yoshida",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Promo",
+      "updated": "2026-09-29T10:24:02+01:00"
     }
   }
 }

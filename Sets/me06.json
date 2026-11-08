@@ -1,0 +1,2008 @@
+{
+  "source": "tcgdex-v1",
+  "set": {
+    "id": "me06",
+    "name": "Delta Reign",
+    "serie": "me",
+    "serieName": "Mega Evolution",
+    "releaseDate": "2026-11-06",
+    "code": "DLR",
+    "cardCount": {
+      "firstEd": 0,
+      "holo": 0,
+      "normal": 0,
+      "official": 103,
+      "reverse": 0,
+      "total": 141
+    }
+  },
+  "updatedAt": "2026-11-08T14:01:36.356Z",
+  "cards": {
+    "me06-004": {
+      "id": "me06-004",
+      "localId": "004",
+      "set": "me06",
+      "name": "Cacnea",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-006": {
+      "id": "me06-006",
+      "localId": "006",
+      "set": "me06",
+      "name": "Combee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-003": {
+      "id": "me06-003",
+      "localId": "003",
+      "set": "me06",
+      "name": "Masquerain",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-001": {
+      "id": "me06-001",
+      "localId": "001",
+      "set": "me06",
+      "name": "Heracross",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-002": {
+      "id": "me06-002",
+      "localId": "002",
+      "set": "me06",
+      "name": "Surskit",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-005": {
+      "id": "me06-005",
+      "localId": "005",
+      "set": "me06",
+      "name": "Cacturne",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-007": {
+      "id": "me06-007",
+      "localId": "007",
+      "set": "me06",
+      "name": "Vespiquen",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-008": {
+      "id": "me06-008",
+      "localId": "008",
+      "set": "me06",
+      "name": "Shaymin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-011": {
+      "id": "me06-011",
+      "localId": "011",
+      "set": "me06",
+      "name": "Mega Golisopod ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 340,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-009": {
+      "id": "me06-009",
+      "localId": "009",
+      "set": "me06",
+      "name": "Virizion",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-012": {
+      "id": "me06-012",
+      "localId": "012",
+      "set": "me06",
+      "name": "Sprigatito",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-010": {
+      "id": "me06-010",
+      "localId": "010",
+      "set": "me06",
+      "name": "Wimpod",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-013": {
+      "id": "me06-013",
+      "localId": "013",
+      "set": "me06",
+      "name": "Floragato",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-015": {
+      "id": "me06-015",
+      "localId": "015",
+      "set": "me06",
+      "name": "Smoliv",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-014": {
+      "id": "me06-014",
+      "localId": "014",
+      "set": "me06",
+      "name": "Meowscarada ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 320,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-016": {
+      "id": "me06-016",
+      "localId": "016",
+      "set": "me06",
+      "name": "Dolliv",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-018": {
+      "id": "me06-018",
+      "localId": "018",
+      "set": "me06",
+      "name": "Growlithe",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-017": {
+      "id": "me06-017",
+      "localId": "017",
+      "set": "me06",
+      "name": "Arboliva",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-019": {
+      "id": "me06-019",
+      "localId": "019",
+      "set": "me06",
+      "name": "Arcanine",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 150,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 4,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-021": {
+      "id": "me06-021",
+      "localId": "021",
+      "set": "me06",
+      "name": "Magmortar",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-020": {
+      "id": "me06-020",
+      "localId": "020",
+      "set": "me06",
+      "name": "Magmar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-022": {
+      "id": "me06-022",
+      "localId": "022",
+      "set": "me06",
+      "name": "Torkoal",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-023": {
+      "id": "me06-023",
+      "localId": "023",
+      "set": "me06",
+      "name": "Heat Rotom ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 190,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-024": {
+      "id": "me06-024",
+      "localId": "024",
+      "set": "me06",
+      "name": "Heatmor",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-025": {
+      "id": "me06-025",
+      "localId": "025",
+      "set": "me06",
+      "name": "Mantine",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-026": {
+      "id": "me06-026",
+      "localId": "026",
+      "set": "me06",
+      "name": "Kyogre",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 150,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-027": {
+      "id": "me06-027",
+      "localId": "027",
+      "set": "me06",
+      "name": "Frillish",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-028": {
+      "id": "me06-028",
+      "localId": "028",
+      "set": "me06",
+      "name": "Jellicent",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-029": {
+      "id": "me06-029",
+      "localId": "029",
+      "set": "me06",
+      "name": "Wishiwashi ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 260,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-030": {
+      "id": "me06-030",
+      "localId": "030",
+      "set": "me06",
+      "name": "Electabuzz",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-032": {
+      "id": "me06-032",
+      "localId": "032",
+      "set": "me06",
+      "name": "Jolteon",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-031": {
+      "id": "me06-031",
+      "localId": "031",
+      "set": "me06",
+      "name": "Electivire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 140,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-033": {
+      "id": "me06-033",
+      "localId": "033",
+      "set": "me06",
+      "name": "Raikou ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 200,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-034": {
+      "id": "me06-034",
+      "localId": "034",
+      "set": "me06",
+      "name": "Rotom",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-035": {
+      "id": "me06-035",
+      "localId": "035",
+      "set": "me06",
+      "name": "Thundurus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-036": {
+      "id": "me06-036",
+      "localId": "036",
+      "set": "me06",
+      "name": "Pincurchin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-037": {
+      "id": "me06-037",
+      "localId": "037",
+      "set": "me06",
+      "name": "Pawmi",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-038": {
+      "id": "me06-038",
+      "localId": "038",
+      "set": "me06",
+      "name": "Pawmo",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-040": {
+      "id": "me06-040",
+      "localId": "040",
+      "set": "me06",
+      "name": "Wattrel",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-039": {
+      "id": "me06-039",
+      "localId": "039",
+      "set": "me06",
+      "name": "Pawmot",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Uncommon",
+      "hp": 150,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-041": {
+      "id": "me06-041",
+      "localId": "041",
+      "set": "me06",
+      "name": "Kilowattrel",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-042": {
+      "id": "me06-042",
+      "localId": "042",
+      "set": "me06",
+      "name": "Miraidon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-043": {
+      "id": "me06-043",
+      "localId": "043",
+      "set": "me06",
+      "name": "Drowzee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-044": {
+      "id": "me06-044",
+      "localId": "044",
+      "set": "me06",
+      "name": "Hypno",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-045": {
+      "id": "me06-045",
+      "localId": "045",
+      "set": "me06",
+      "name": "Giratina",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-047": {
+      "id": "me06-047",
+      "localId": "047",
+      "set": "me06",
+      "name": "Mega Golurk ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 350,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-046": {
+      "id": "me06-046",
+      "localId": "046",
+      "set": "me06",
+      "name": "Golett",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-048": {
+      "id": "me06-048",
+      "localId": "048",
+      "set": "me06",
+      "name": "Enamorus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-049": {
+      "id": "me06-049",
+      "localId": "049",
+      "set": "me06",
+      "name": "Sandshrew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-052": {
+      "id": "me06-052",
+      "localId": "052",
+      "set": "me06",
+      "name": "Steelix",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 190,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-051": {
+      "id": "me06-051",
+      "localId": "051",
+      "set": "me06",
+      "name": "Onix",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-050": {
+      "id": "me06-050",
+      "localId": "050",
+      "set": "me06",
+      "name": "Sandslash",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-053": {
+      "id": "me06-053",
+      "localId": "053",
+      "set": "me06",
+      "name": "Groudon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Rare",
+      "hp": 150,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-054": {
+      "id": "me06-054",
+      "localId": "054",
+      "set": "me06",
+      "name": "Landorus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 130,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-056": {
+      "id": "me06-056",
+      "localId": "056",
+      "set": "me06",
+      "name": "Nidorina",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-055": {
+      "id": "me06-055",
+      "localId": "055",
+      "set": "me06",
+      "name": "Nidoran♀",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-057": {
+      "id": "me06-057",
+      "localId": "057",
+      "set": "me06",
+      "name": "Nidoqueen",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 170,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-059": {
+      "id": "me06-059",
+      "localId": "059",
+      "set": "me06",
+      "name": "Ariados",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-058": {
+      "id": "me06-058",
+      "localId": "058",
+      "set": "me06",
+      "name": "Spinarak",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-060": {
+      "id": "me06-060",
+      "localId": "060",
+      "set": "me06",
+      "name": "Sableye",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-063": {
+      "id": "me06-063",
+      "localId": "063",
+      "set": "me06",
+      "name": "Darkrai",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-062": {
+      "id": "me06-062",
+      "localId": "062",
+      "set": "me06",
+      "name": "Sharpedo",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-061": {
+      "id": "me06-061",
+      "localId": "061",
+      "set": "me06",
+      "name": "Carvanha",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-065": {
+      "id": "me06-065",
+      "localId": "065",
+      "set": "me06",
+      "name": "Liepard",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 110,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-064": {
+      "id": "me06-064",
+      "localId": "064",
+      "set": "me06",
+      "name": "Purrloin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-066": {
+      "id": "me06-066",
+      "localId": "066",
+      "set": "me06",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-067": {
+      "id": "me06-067",
+      "localId": "067",
+      "set": "me06",
+      "name": "Zoroark ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 270,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-068": {
+      "id": "me06-068",
+      "localId": "068",
+      "set": "me06",
+      "name": "Inkay",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-069": {
+      "id": "me06-069",
+      "localId": "069",
+      "set": "me06",
+      "name": "Mega Malamar ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 320,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-070": {
+      "id": "me06-070",
+      "localId": "070",
+      "set": "me06",
+      "name": "Morpeko",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 80,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-071": {
+      "id": "me06-071",
+      "localId": "071",
+      "set": "me06",
+      "name": "Zarude",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 130,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-072": {
+      "id": "me06-072",
+      "localId": "072",
+      "set": "me06",
+      "name": "Druddigon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 120,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-073": {
+      "id": "me06-073",
+      "localId": "073",
+      "set": "me06",
+      "name": "Jangmo-o",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-075": {
+      "id": "me06-075",
+      "localId": "075",
+      "set": "me06",
+      "name": "Kommo-o",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Rare",
+      "hp": 160,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-074": {
+      "id": "me06-074",
+      "localId": "074",
+      "set": "me06",
+      "name": "Hakamo-o",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 100,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-076": {
+      "id": "me06-076",
+      "localId": "076",
+      "set": "me06",
+      "name": "Cyclizar",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 120,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-077": {
+      "id": "me06-077",
+      "localId": "077",
+      "set": "me06",
+      "name": "Tauros",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 130,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-078": {
+      "id": "me06-078",
+      "localId": "078",
+      "set": "me06",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-079": {
+      "id": "me06-079",
+      "localId": "079",
+      "set": "me06",
+      "name": "Delibird",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-081": {
+      "id": "me06-081",
+      "localId": "081",
+      "set": "me06",
+      "name": "Swablu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-080": {
+      "id": "me06-080",
+      "localId": "080",
+      "set": "me06",
+      "name": "Azurill",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-083": {
+      "id": "me06-083",
+      "localId": "083",
+      "set": "me06",
+      "name": "Kecleon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-082": {
+      "id": "me06-082",
+      "localId": "082",
+      "set": "me06",
+      "name": "Altaria",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Rare",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-084": {
+      "id": "me06-084",
+      "localId": "084",
+      "set": "me06",
+      "name": "Mega Rayquaza ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-085": {
+      "id": "me06-085",
+      "localId": "085",
+      "set": "me06",
+      "name": "Tornadus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Uncommon",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-086": {
+      "id": "me06-086",
+      "localId": "086",
+      "set": "me06",
+      "name": "Fletchling",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Common",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-089": {
+      "id": "me06-089",
+      "localId": "089",
+      "set": "me06",
+      "name": "Aarune",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-088": {
+      "id": "me06-088",
+      "localId": "088",
+      "set": "me06",
+      "name": "Talonflame ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Double rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-087": {
+      "id": "me06-087",
+      "localId": "087",
+      "set": "me06",
+      "name": "Fletchinder",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Common",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-090": {
+      "id": "me06-090",
+      "localId": "090",
+      "set": "me06",
+      "name": "Adventure Lantern",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-091": {
+      "id": "me06-091",
+      "localId": "091",
+      "set": "me06",
+      "name": "Custom Vest",
+      "category": "Trainer",
+      "trainerType": "Tool",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-092": {
+      "id": "me06-092",
+      "localId": "092",
+      "set": "me06",
+      "name": "Emcee's Hype",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Common",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-093": {
+      "id": "me06-093",
+      "localId": "093",
+      "set": "me06",
+      "name": "Grisham",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-095": {
+      "id": "me06-095",
+      "localId": "095",
+      "set": "me06",
+      "name": "Legendary Pyroduct",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-094": {
+      "id": "me06-094",
+      "localId": "094",
+      "set": "me06",
+      "name": "Legendary Pyroduct",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-096": {
+      "id": "me06-096",
+      "localId": "096",
+      "set": "me06",
+      "name": "Legendary Summit",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-097": {
+      "id": "me06-097",
+      "localId": "097",
+      "set": "me06",
+      "name": "Legendary Summit",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-099": {
+      "id": "me06-099",
+      "localId": "099",
+      "set": "me06",
+      "name": "Legendary Trench",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-098": {
+      "id": "me06-098",
+      "localId": "098",
+      "set": "me06",
+      "name": "Legendary Trench",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-100": {
+      "id": "me06-100",
+      "localId": "100",
+      "set": "me06",
+      "name": "Mega Rayquaza Cap",
+      "category": "Trainer",
+      "trainerType": "Tool",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-101": {
+      "id": "me06-101",
+      "localId": "101",
+      "set": "me06",
+      "name": "Tasty Rice Ball",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Common",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-102": {
+      "id": "me06-102",
+      "localId": "102",
+      "set": "me06",
+      "name": "Tate & Liza's Training",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-105": {
+      "id": "me06-105",
+      "localId": "105",
+      "set": "me06",
+      "name": "Sprigatito",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-104": {
+      "id": "me06-104",
+      "localId": "104",
+      "set": "me06",
+      "name": "Masquerain",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 110,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-103": {
+      "id": "me06-103",
+      "localId": "103",
+      "set": "me06",
+      "name": "Zinnia's Trust",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Uncommon",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-106": {
+      "id": "me06-106",
+      "localId": "106",
+      "set": "me06",
+      "name": "Growlithe",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-107": {
+      "id": "me06-107",
+      "localId": "107",
+      "set": "me06",
+      "name": "Magmortar",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 140,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-108": {
+      "id": "me06-108",
+      "localId": "108",
+      "set": "me06",
+      "name": "Electivire",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 140,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-109": {
+      "id": "me06-109",
+      "localId": "109",
+      "set": "me06",
+      "name": "Pincurchin",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 80,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-111": {
+      "id": "me06-111",
+      "localId": "111",
+      "set": "me06",
+      "name": "Groudon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 150,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 4,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-110": {
+      "id": "me06-110",
+      "localId": "110",
+      "set": "me06",
+      "name": "Enamorus",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-113": {
+      "id": "me06-113",
+      "localId": "113",
+      "set": "me06",
+      "name": "Inkay",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-112": {
+      "id": "me06-112",
+      "localId": "112",
+      "set": "me06",
+      "name": "Zorua",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 70,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-114": {
+      "id": "me06-114",
+      "localId": "114",
+      "set": "me06",
+      "name": "Eevee",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-115": {
+      "id": "me06-115",
+      "localId": "115",
+      "set": "me06",
+      "name": "Azurill",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-116": {
+      "id": "me06-116",
+      "localId": "116",
+      "set": "me06",
+      "name": "Altaria",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Illustration rare",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-117": {
+      "id": "me06-117",
+      "localId": "117",
+      "set": "me06",
+      "name": "Kecleon",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Illustration rare",
+      "hp": 90,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-119": {
+      "id": "me06-119",
+      "localId": "119",
+      "set": "me06",
+      "name": "Heat Rotom ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 190,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-118": {
+      "id": "me06-118",
+      "localId": "118",
+      "set": "me06",
+      "name": "Mega Golisopod ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 340,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-120": {
+      "id": "me06-120",
+      "localId": "120",
+      "set": "me06",
+      "name": "Wishiwashi ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 260,
+      "types": [
+        "Water"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-123": {
+      "id": "me06-123",
+      "localId": "123",
+      "set": "me06",
+      "name": "Mega Malamar ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 320,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-122": {
+      "id": "me06-122",
+      "localId": "122",
+      "set": "me06",
+      "name": "Mega Golurk ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 350,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-124": {
+      "id": "me06-124",
+      "localId": "124",
+      "set": "me06",
+      "name": "Talonflame ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-121": {
+      "id": "me06-121",
+      "localId": "121",
+      "set": "me06",
+      "name": "Raikou ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Ultra Rare",
+      "hp": 200,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-125": {
+      "id": "me06-125",
+      "localId": "125",
+      "set": "me06",
+      "name": "Aarune",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-126": {
+      "id": "me06-126",
+      "localId": "126",
+      "set": "me06",
+      "name": "Adventure Lantern",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-127": {
+      "id": "me06-127",
+      "localId": "127",
+      "set": "me06",
+      "name": "Custom Vest",
+      "category": "Trainer",
+      "trainerType": "Tool",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-128": {
+      "id": "me06-128",
+      "localId": "128",
+      "set": "me06",
+      "name": "Emcee's Hype",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-129": {
+      "id": "me06-129",
+      "localId": "129",
+      "set": "me06",
+      "name": "Pokémon Catcher",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-131": {
+      "id": "me06-131",
+      "localId": "131",
+      "set": "me06",
+      "name": "Zinnia's Trust",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-130": {
+      "id": "me06-130",
+      "localId": "130",
+      "set": "me06",
+      "name": "Tate & Liza's Training",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Ultra Rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-132": {
+      "id": "me06-132",
+      "localId": "132",
+      "set": "me06",
+      "name": "Bubbly Water Energy",
+      "category": "Energy",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-133": {
+      "id": "me06-133",
+      "localId": "133",
+      "set": "me06",
+      "name": "Growing Grass Energy",
+      "category": "Energy",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-135": {
+      "id": "me06-135",
+      "localId": "135",
+      "set": "me06",
+      "name": "Mega Golisopod ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Special illustration rare",
+      "hp": 340,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-137": {
+      "id": "me06-137",
+      "localId": "137",
+      "set": "me06",
+      "name": "Mega Golurk ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Special illustration rare",
+      "hp": 350,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 3,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-134": {
+      "id": "me06-134",
+      "localId": "134",
+      "set": "me06",
+      "name": "Nitro Fire Energy",
+      "category": "Energy",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-136": {
+      "id": "me06-136",
+      "localId": "136",
+      "set": "me06",
+      "name": "Raikou ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Special illustration rare",
+      "hp": 200,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 0,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-138": {
+      "id": "me06-138",
+      "localId": "138",
+      "set": "me06",
+      "name": "Mega Rayquaza ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Special illustration rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-139": {
+      "id": "me06-139",
+      "localId": "139",
+      "set": "me06",
+      "name": "Aarune",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Special illustration rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-140": {
+      "id": "me06-140",
+      "localId": "140",
+      "set": "me06",
+      "name": "Zinnia's Trust",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "rarity": "Special illustration rare",
+      "updated": "2026-11-08T00:42:51+01:00"
+    },
+    "me06-141": {
+      "id": "me06-141",
+      "localId": "141",
+      "set": "me06",
+      "name": "Mega Rayquaza ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Mega Hyper Rare",
+      "hp": 280,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 2,
+      "updated": "2026-11-08T00:42:51+01:00"
+    }
+  }
+}

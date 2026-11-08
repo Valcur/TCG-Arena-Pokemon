@@ -9,14 +9,14 @@
     "code": "30C",
     "cardCount": {
       "firstEd": 0,
-      "holo": 0,
-      "normal": 0,
+      "holo": 75,
+      "normal": 86,
       "official": 128,
       "reverse": 0,
-      "total": 158
+      "total": 161
     }
   },
-  "updatedAt": "2026-10-25T12:17:55.658Z",
+  "updatedAt": "2026-11-08T14:01:35.596Z",
   "cards": {
     "30th-001": {
       "id": "30th-001",
@@ -2530,6 +2530,54 @@
       "retreat": 0,
       "image": "https://assets.tcgdex.net/en/me/30th/158",
       "updated": "2026-09-22T10:07:07+01:00"
+    },
+    "30th-R": {
+      "id": "30th-R",
+      "localId": "R",
+      "set": "30th",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "RGB Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/R",
+      "updated": "2026-09-30T09:39:02+01:00"
+    },
+    "30th-B": {
+      "id": "30th-B",
+      "localId": "B",
+      "set": "30th",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "RGB Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/B",
+      "updated": "2026-09-30T09:39:02+01:00"
+    },
+    "30th-G": {
+      "id": "30th-G",
+      "localId": "G",
+      "set": "30th",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "RGB Rare",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "image": "https://assets.tcgdex.net/en/me/30th/G",
+      "updated": "2026-09-30T09:39:02+01:00"
     }
   }
 }

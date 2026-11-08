@@ -9,14 +9,14 @@
     "code": "MEP",
     "cardCount": {
       "firstEd": 0,
-      "holo": 113,
+      "holo": 148,
       "normal": 1,
       "official": 0,
       "reverse": 0,
-      "total": 89
+      "total": 112
     }
   },
-  "updatedAt": "2026-11-01T13:58:49.886Z",
+  "updatedAt": "2026-11-08T14:01:35.530Z",
   "cards": {
     "mep-001": {
       "id": "mep-001",
@@ -1347,6 +1347,341 @@
       ],
       "retreat": 1,
       "updated": "2026-08-04T19:51:08+01:00"
+    },
+    "mep-091": {
+      "id": "mep-091",
+      "localId": "091",
+      "set": "mep",
+      "name": "Mega Dragonite ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 370,
+      "types": [
+        "Dragon"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-094": {
+      "id": "mep-094",
+      "localId": "094",
+      "set": "mep",
+      "name": "Alolan Exeggutor",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 150,
+      "types": [
+        "Grass"
+      ],
+      "retreat": 4,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-092": {
+      "id": "mep-092",
+      "localId": "092",
+      "set": "mep",
+      "name": "Paradise Resort",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Promo",
+      "updated": "2026-10-05T23:02:00+01:00"
+    },
+    "mep-089": {
+      "id": "mep-089",
+      "localId": "089",
+      "set": "mep",
+      "name": "Mega Zeraora ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-090": {
+      "id": "mep-090",
+      "localId": "090",
+      "set": "mep",
+      "name": "Mega Darkrai ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 280,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-093": {
+      "id": "mep-093",
+      "localId": "093",
+      "set": "mep",
+      "name": "Pikachu",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T10:35:03+01:00"
+    },
+    "mep-095": {
+      "id": "mep-095",
+      "localId": "095",
+      "set": "mep",
+      "name": "Lucario",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Fighting"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-096": {
+      "id": "mep-096",
+      "localId": "096",
+      "set": "mep",
+      "name": "Moltres",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-100": {
+      "id": "mep-100",
+      "localId": "100",
+      "set": "mep",
+      "name": "Sylveon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-101": {
+      "id": "mep-101",
+      "localId": "101",
+      "set": "mep",
+      "name": "Nidorina",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 90,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-102": {
+      "id": "mep-102",
+      "localId": "102",
+      "set": "mep",
+      "name": "Victini",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-103": {
+      "id": "mep-103",
+      "localId": "103",
+      "set": "mep",
+      "name": "Zeraora",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 110,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-104": {
+      "id": "mep-104",
+      "localId": "104",
+      "set": "mep",
+      "name": "Mewtwo",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-099": {
+      "id": "mep-099",
+      "localId": "099",
+      "set": "mep",
+      "name": "Greninja ex",
+      "category": "Pokemon",
+      "stage": "Stage2",
+      "rarity": "Promo",
+      "hp": 300,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-097": {
+      "id": "mep-097",
+      "localId": "097",
+      "set": "mep",
+      "name": "Articuno",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Water"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-098": {
+      "id": "mep-098",
+      "localId": "098",
+      "set": "mep",
+      "name": "Zapdos",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-105": {
+      "id": "mep-105",
+      "localId": "105",
+      "set": "mep",
+      "name": "Mew",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-106": {
+      "id": "mep-106",
+      "localId": "106",
+      "set": "mep",
+      "name": "Ditto",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-107": {
+      "id": "mep-107",
+      "localId": "107",
+      "set": "mep",
+      "name": "Pikachu ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 190,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-109": {
+      "id": "mep-109",
+      "localId": "109",
+      "set": "mep",
+      "name": "Pikachu ex",
+      "category": "Pokemon",
+      "stage": "Basic",
+      "rarity": "Promo",
+      "hp": 190,
+      "types": [
+        "Lightning"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-108": {
+      "id": "mep-108",
+      "localId": "108",
+      "set": "mep",
+      "name": "Espeon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 260,
+      "types": [
+        "Psychic"
+      ],
+      "retreat": 1,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-110": {
+      "id": "mep-110",
+      "localId": "110",
+      "set": "mep",
+      "name": "Umbreon ex",
+      "category": "Pokemon",
+      "stage": "Stage1",
+      "rarity": "Promo",
+      "hp": 270,
+      "types": [
+        "Darkness"
+      ],
+      "retreat": 2,
+      "updated": "2026-09-29T15:17:17+01:00"
+    },
+    "mep-120": {
+      "id": "mep-120",
+      "localId": "120",
+      "set": "mep",
+      "name": "Celebratory Fanfare",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "rarity": "Promo",
+      "updated": "2026-10-05T23:02:00+01:00"
     }
   }
 }

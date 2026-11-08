@@ -88,8 +88,8 @@
       "name": "30th Celebration",
       "serie": "me",
       "releaseDate": "2026-09-16",
-      "total": 158,
-      "cards": 158
+      "total": 161,
+      "cards": 161
     },
     "30th-c": {
       "name": "30th Classic Collection",
@@ -338,8 +338,9 @@
       "name": "Detective Pikachu",
       "serie": "sm",
       "releaseDate": "2019-03-29",
-      "total": 18,
-      "cards": 18
+      "total": 19,
+      "cards": 19,
+      "noImage": 1
     },
     "dp1": {
       "name": "Diamond & Pearl",
@@ -670,21 +671,29 @@
       "total": 120,
       "cards": 120
     },
+    "me06": {
+      "name": "Delta Reign",
+      "serie": "me",
+      "releaseDate": "2026-11-06",
+      "total": 141,
+      "cards": 141,
+      "noImage": 141
+    },
     "mee": {
       "name": "Mega Evolution Energy",
       "serie": "me",
       "releaseDate": "2025-09-25",
-      "total": 8,
-      "cards": 8,
-      "noImage": 8
+      "total": 16,
+      "cards": 16,
+      "noImage": 16
     },
     "mep": {
       "name": "MEP Black Star Promos",
       "serie": "me",
       "releaseDate": "2025-09-26",
-      "total": 89,
-      "cards": 89,
-      "noImage": 89
+      "total": 112,
+      "cards": 112,
+      "noImage": 112
     },
     "mfb": {
       "name": "My First Battle",
@@ -1515,5 +1524,5 @@
       "cards": 216
     }
   },
-  "updatedAt": "2026-11-01T13:58:49.886Z"
+  "updatedAt": "2026-11-08T14:01:36.357Z"
 }

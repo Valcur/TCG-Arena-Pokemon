@@ -1,34 +1,38 @@
-# Mise à jour des cartes Pokémon — 2026-11-01 13:58 UTC
+# Mise à jour des cartes Pokémon — 2026-11-08 14:01 UTC
 
 | | |
 |---|---|
-| Sets dans l'API | 220 (dont 15 exclus : TCG Pocket…) |
-| Nouveaux sets | — |
-| Sets mis à jour (nombre de cartes changé) | — |
+| Sets dans l'API | 221 (dont 15 exclus : TCG Pocket…) |
+| Nouveaux sets | me06 |
+| Sets mis à jour (nombre de cartes changé) | det1, mee, mep, 30th |
 | Sets incomplets re-vérifiés | wp, jumbo, sp, rc, tk-sm-l, mfb |
-| Sets re-vérifiés pour leurs images manquantes | 2 (images trouvées : 0) |
-| Cartes téléchargées ce run | 0 (échecs : 0) |
-| Cartes dans PokemonCards.json | 20574 (avant : 20574) |
+| Sets re-vérifiés pour leurs images manquantes | 0 (images trouvées : 0) |
+| Cartes téléchargées ce run | 176 (échecs : 0) |
+| Cartes dans PokemonCards.json | 20577 (avant : 20574) |
 | Cartes avec image Scrydex / pokemontcg.io (en attendant TCGdex) | 908 |
-| Cartes masquées (aucune image) | 682 |
-| Nouvelles cartes | 0 |
+| Cartes masquées (aucune image) | 855 |
+| Nouvelles cartes | 3 |
 | ❌ Erreurs | 0 |
-| ⚠️ Avertissements | 79 |
+| ⚠️ Avertissements | 81 |
 
 ## ✅ Vérification des anciennes cartes
 
 - Anciennes entrées (cartes, alias, cartes en attente) : **26547**
-- Présentes avec le même ID : **20574**
+- Présentes avec le même ID : **20577**
 - Redirigées par alias vers la carte TCGdex : **5970** (dont 0 nouveaux approximatifs, listés plus bas)
 - Masquées en attente d'image TCGdex (reviendront automatiquement) : **0**
-- Introuvables chez TCGdex (retentées à chaque run) : **3**
+- Introuvables chez TCGdex (retentées à chaque run) : **0**
 - Perdues : **0**
 
-## 🔀 Correspondance anciens sets → sets TCGdex
+## 🌐 Nouveaux codes à traduire (1)
 
-`30th` → `?`
+À coller dans l'objet `"en"` de translations.json (sets pré-remplis avec le nom TCGdex, raretés à compléter) :
 
-## ⚠️ Avertissements (79)
+```json
+        "RGB Rare": "",
+```
+
+## ⚠️ Avertissements (81)
 
 ### Sets incomplets chez TCGdex (re-vérifiés à chaque run) — 6
 
@@ -44,11 +48,11 @@
 - `bog` — 9 carte(s) — Best of game
 - `ecard2` — 36 carte(s) — Aquapolis
 - `ecard3` — 32 carte(s) — Skyridge
-- `tk-ex-latia` — 10 carte(s) — EX trainer Kit (Latias)
 - `tk-ex-latio` — 10 carte(s) — EX trainer Kit (Latios)
+- `tk-ex-latia` — 10 carte(s) — EX trainer Kit (Latias)
 - `exu` — 28 carte(s) — Unseen Forces Unown Collection
-- `tk-ex-m` — 12 carte(s) — EX trainer Kit 2 (Minun)
 - `tk-ex-p` — 12 carte(s) — EX trainer Kit 2 (Plusle)
+- `tk-ex-m` — 12 carte(s) — EX trainer Kit 2 (Minun)
 - `pop6` — 2 carte(s) — POP Series 6
 - `pl2` — 1 carte(s) — Rising Rivals
 - `hgssp` — 9 carte(s) — HGSS Black Star Promos
@@ -82,7 +86,7 @@
 - `sve` — 16 carte(s) — Scarlet & Violet Energy
 - `svp` — 2 carte(s) — SVP Black Star Promos
 
-### Cartes masquées : aucune image (revérifiées chaque semaine) — 30
+### Cartes masquées : aucune image (revérifiées chaque semaine) — 32
 
 - `miscp` — 1 carte(s) — Miscellaneous Promos
 - `ecard2` — 4 carte(s) — Aquapolis
@@ -91,19 +95,20 @@
 - `tk-dp-m` — 12 carte(s) — DP trainer Kit (Manaphy)
 - `tk-hs-r` — 30 carte(s) — HS trainer Kit (Raichu)
 - `tk-hs-g` — 30 carte(s) — HS trainer Kit (Gyarados)
-- `tk-bw-e` — 30 carte(s) — BW trainer Kit (Excadrill)
 - `tk-bw-z` — 30 carte(s) — BW trainer Kit (Zoroark)
+- `tk-bw-e` — 30 carte(s) — BW trainer Kit (Excadrill)
 - `xya` — 6 carte(s) — Yellow A Alternate
-- `tk-xy-n` — 30 carte(s) — XY trainer Kit (Noivern)
 - `tk-xy-sy` — 30 carte(s) — XY trainer Kit (Sylveon)
+- `tk-xy-n` — 30 carte(s) — XY trainer Kit (Noivern)
 - `tk-xy-b` — 30 carte(s) — XY trainer Kit (Bisharp)
 - `tk-xy-w` — 30 carte(s) — XY trainer Kit (Wigglytuff)
 - `tk-xy-latio` — 30 carte(s) — XY trainer Kit (Latios)
 - `tk-xy-latia` — 30 carte(s) — XY trainer Kit (Latias)
-- `tk-xy-p` — 30 carte(s) — XY trainer Kit (Pikachu Libre)
 - `tk-xy-su` — 30 carte(s) — XY trainer Kit (Suicune)
-- `tk-sm-r` — 30 carte(s) — SM trainer Kit (Alolan Raichu)
+- `tk-xy-p` — 30 carte(s) — XY trainer Kit (Pikachu Libre)
 - `tk-sm-l` — 18 carte(s) — SM trainer Kit (Lycanroc)
+- `tk-sm-r` — 30 carte(s) — SM trainer Kit (Alolan Raichu)
+- `det1` — 1 carte(s) — Detective Pikachu
 - `swshp` — 3 carte(s) — SWSH Black Star Promos
 - `cel25cc` — 1 carte(s) — Celebrations Classic Collection
 - `sve` — 8 carte(s) — Scarlet & Violet Energy
@@ -111,12 +116,17 @@
 - `2023sv` — 15 carte(s) — McDonald's Collection 2023
 - `mfb` — 34 carte(s) — My First Battle
 - `2024sv` — 15 carte(s) — McDonald's Collection 2024
-- `mee` — 8 carte(s) — Mega Evolution Energy
-- `mep` — 89 carte(s) — MEP Black Star Promos
+- `mee` — 16 carte(s) — Mega Evolution Energy
+- `mep` — 112 carte(s) — MEP Black Star Promos
 - `30th-c` — 30 carte(s) — 30th Classic Collection
+- `me06` — 141 carte(s) — Delta Reign
 
-### Anciennes cartes introuvables chez TCGdex (retirées, retentées à chaque run) — 3
+### Anciennes cartes revenues (image trouvée) — 3
 
-- `30th-B` — Mew 30C B — ajoute un alias dans ALIAS_OVERRIDES si tu connais la nouvelle carte
-- `30th-G` — Mew 30C G — ajoute un alias dans ALIAS_OVERRIDES si tu connais la nouvelle carte
-- `30th-R` — Mew 30C R — ajoute un alias dans ALIAS_OVERRIDES si tu connais la nouvelle carte
+- `30th-B` — 
+- `30th-G` — 
+- `30th-R` — 
+
+## ➕ Nouvelles cartes (3)
+
+`30th` 3
